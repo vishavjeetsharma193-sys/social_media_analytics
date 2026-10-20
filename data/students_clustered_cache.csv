@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Academic_Level,Most_Used_Platform,Device_Used,Avg_Daily_Usage_Hours,Sleep_Hours_Per_Night,Addicted_Score,Mental_Health_Score,GPA,Affects_Academic_Performance,Addiction_Level,Age_Group,Cluster,Cluster_Label,TSNE1,TSNE2
+STU_1000,23,Male,Graduate,Instagram,Mobile,5.9,5.4,6.8,6.1,2.16,Yes,Medium,22-24,0,Cluster 1,23.794336,13.337892
+STU_1001,18,Female,High School,TikTok,Mobile,8.8,5.4,7.5,6.0,2.81,Yes,High,16-18,1,Cluster 2,36.752247,5.882674
+STU_1002,23,Female,Graduate,YouTube,Laptop,4.0,7.0,3.9,9.4,3.31,No,Low,22-24,2,Cluster 3,-26.4464,14.860012
+STU_1003,20,Female,Undergraduate,Instagram,Mobile,9.1,5.4,8.9,3.9,2.57,Yes,High,19-21,1,Cluster 2,46.389652,-5.974832
+STU_1004,16,Male,High School,TikTok,Mobile,7.1,5.9,7.7,4.1,2.66,No,High,16-18,1,Cluster 2,35.69192,-14.626338
+STU_1005,22,Male,Graduate,YouTube,Laptop,6.6,4.8,6.8,5.0,3.19,Yes,Medium,22-24,1,Cluster 2,31.126347,11.861769
+STU_1006,20,Male,Undergraduate,Snapchat,Mobile,6.0,6.3,6.1,5.0,2.87,Yes,Medium,19-21,0,Cluster 1,20.097462,-11.38403
+STU_1007,21,Female,Undergraduate,Instagram,Mobile,5.0,6.8,7.0,7.1,2.5,Yes,Medium,19-21,0,Cluster 1,8.690385,-1.5665426
+STU_1008,21,Female,Undergraduate,TikTok,Mobile,7.9,6.3,7.3,7.2,2.58,Yes,High,19-21,0,Cluster 1,24.350437,20.716946
+STU_1009,23,Female,Graduate,YouTube,Mobile,5.8,6.1,5.3,7.2,3.23,No,Medium,22-24,0,Cluster 1,6.3496532,12.823584
+STU_1010,24,Male,Graduate,TikTok,Mobile,1.6,9.7,3.3,9.2,2.97,No,Low,22-24,2,Cluster 3,-48.197773,-0.033476107
+STU_1011,17,Female,High School,Instagram,Laptop,3.3,6.2,3.0,8.3,3.06,No,Low,16-18,2,Cluster 3,-29.129934,10.368006
+STU_1012,24,Female,Graduate,YouTube,Mobile,5.1,8.0,5.6,6.6,2.71,No,Medium,22-24,0,Cluster 1,-8.878207,-15.94312
+STU_1013,24,Male,Graduate,Instagram,Mobile,6.1,6.4,8.7,4.4,1.6,Yes,High,22-24,1,Cluster 2,31.759497,-15.482075
+STU_1014,22,Male,Graduate,YouTube,Mobile,5.4,7.5,4.8,6.8,2.98,Yes,Medium,22-24,0,Cluster 1,-7.0913353,-12.520057
+STU_1015,16,Male,High School,Instagram,Mobile,7.9,5.9,8.4,3.4,1.73,Yes,High,16-18,1,Cluster 2,40.499565,-13.641382
+STU_1016,22,Male,Graduate,Twitter,Tablet,1.6,9.3,1.6,9.3,3.53,Yes,Low,22-24,2,Cluster 3,-49.871407,2.1145535
+STU_1017,20,Female,Undergraduate,TikTok,Mobile,5.8,6.4,5.9,6.4,2.99,No,Medium,19-21,0,Cluster 1,8.646319,-6.9600234
+STU_1018,21,Male,Undergraduate,Instagram,Mobile,1.9,7.4,1.2,10.0,3.45,No,Low,19-21,2,Cluster 3,-46.933323,9.776012
+STU_1019,22,Male,Graduate,Instagram,Mobile,7.0,7.3,6.4,6.2,3.15,Yes,Medium,22-24,0,Cluster 1,14.006217,-6.123508
+STU_1020,20,Female,Undergraduate,Instagram,Mobile,5.3,6.8,4.4,7.2,2.58,No,Medium,19-21,0,Cluster 1,-12.887362,3.0660722
+STU_1021,22,Male,Graduate,Facebook,Mobile,6.3,6.6,6.8,5.1,2.94,Yes,Medium,22-24,0,Cluster 1,21.42106,-13.101946
+STU_1022,24,Male,Graduate,LinkedIn,Mobile,3.8,8.5,1.4,9.2,3.75,No,Low,22-24,2,Cluster 3,-42.657974,11.103899
+STU_1023,18,Male,High School,TikTok,Tablet,8.1,5.0,8.1,5.9,1.83,Yes,High,16-18,1,Cluster 2,39.32411,6.8101974
+STU_1024,23,Male,Graduate,TikTok,Mobile,7.6,6.4,9.0,3.5,3.0,Yes,High,22-24,1,Cluster 2,40.25444,-12.090026
+STU_1025,17,Female,High School,YouTube,Mobile,6.7,5.9,4.7,7.3,2.93,No,Medium,16-18,0,Cluster 1,7.159579,16.889585
+STU_1026,22,Male,Graduate,Facebook,Mobile,5.2,6.8,3.4,8.2,2.92,No,Low,22-24,2,Cluster 3,-23.573654,11.763769
+STU_1027,17,Male,High School,TikTok,Laptop,6.7,6.4,7.4,4.8,2.05,Yes,High,16-18,1,Cluster 2,26.733967,-14.702753
+STU_1028,19,Female,Undergraduate,TikTok,Mobile,4.1,6.2,6.3,5.6,2.6,Yes,Medium,19-21,0,Cluster 1,-0.19501367,-5.2414346
+STU_1029,22,Male,Graduate,TikTok,Mobile,7.2,5.5,8.3,5.3,2.27,Yes,High,22-24,1,Cluster 2,38.255142,1.8621317
+STU_1030,18,Female,High School,Snapchat,Mobile,8.8,6.6,8.3,3.9,2.34,No,High,16-18,1,Cluster 2,39.578316,-7.3465157
+STU_1031,17,Male,High School,Instagram,Mobile,7.6,6.7,7.7,5.7,2.33,Yes,High,16-18,1,Cluster 2,26.136051,-4.3592134
+STU_1032,22,Male,Graduate,Snapchat,Laptop,4.0,7.3,4.6,6.3,3.16,No,Medium,22-24,0,Cluster 1,-14.935231,-11.324871
+STU_1033,16,Female,High School,TikTok,Mobile,6.2,6.7,7.2,6.8,2.39,Yes,High,16-18,0,Cluster 1,13.200428,-0.08458588
+STU_1034,23,Female,Graduate,YouTube,Mobile,2.9,7.6,1.8,10.0,2.9,No,Low,22-24,2,Cluster 3,-39.26809,13.42113
+STU_1035,18,Female,High School,Instagram,Laptop,6.6,7.4,6.9,5.0,2.52,No,Medium,16-18,0,Cluster 1,18.339514,-15.649495
+STU_1036,17,Male,High School,TikTok,Laptop,6.4,6.3,6.0,6.9,2.0,No,Medium,16-18,0,Cluster 1,9.458698,10.335403
+STU_1037,18,Male,High School,TikTok,Tablet,1.8,8.5,3.5,7.2,3.28,No,Low,16-18,2,Cluster 3,-41.215874,-8.97477
+STU_1038,20,Female,Undergraduate,Snapchat,Laptop,3.2,8.6,3.1,9.2,2.96,No,Low,19-21,2,Cluster 3,-41.42071,-0.19993316
+STU_1039,23,Male,Graduate,Instagram,Mobile,4.9,6.4,8.0,3.9,2.41,Yes,High,22-24,1,Cluster 2,25.696365,-18.345758
+STU_1040,22,Male,Graduate,TikTok,Mobile,4.9,8.3,5.9,7.0,3.14,No,Medium,22-24,0,Cluster 1,-10.193001,-15.462573
+STU_1041,22,Male,Graduate,TikTok,Mobile,3.1,6.5,3.1,7.3,2.96,No,Low,22-24,2,Cluster 3,-20.663885,5.272256
+STU_1042,22,Male,Graduate,TikTok,Mobile,6.3,7.8,6.9,5.7,2.88,Yes,Medium,22-24,0,Cluster 1,3.745241,-19.077656
+STU_1043,23,Female,Graduate,Snapchat,Mobile,6.0,6.3,6.3,5.2,2.53,Yes,Medium,22-24,0,Cluster 1,20.74573,-11.515868
+STU_1044,16,Male,High School,Snapchat,Mobile,5.1,6.8,6.8,6.8,3.11,No,Medium,16-18,0,Cluster 1,8.430345,-2.2637577
+STU_1045,19,Female,Undergraduate,YouTube,Mobile,4.0,5.9,3.1,7.3,3.13,Yes,Low,19-21,0,Cluster 1,-11.87125,9.436727
+STU_1046,21,Male,Undergraduate,Instagram,Laptop,7.6,5.6,6.0,7.0,2.47,Yes,Medium,19-21,0,Cluster 1,21.576256,19.858402
+STU_1047,24,Female,Graduate,Facebook,Mobile,8.8,4.6,7.9,4.9,2.59,Yes,High,22-24,1,Cluster 2,45.374737,1.3097113
+STU_1048,17,Female,High School,TikTok,Tablet,4.5,6.7,4.2,7.3,2.91,No,Medium,16-18,0,Cluster 1,-14.207295,5.025155
+STU_1049,16,Male,High School,Instagram,Mobile,4.3,7.2,4.5,7.5,2.74,No,Medium,16-18,2,Cluster 3,-16.889803,-4.047445
+STU_1050,17,Female,High School,Instagram,Mobile,6.5,7.2,6.4,5.4,2.5,Yes,Medium,16-18,0,Cluster 1,16.138645,-13.8920965
+STU_1051,22,Female,Graduate,Instagram,Mobile,4.8,7.3,5.3,7.1,2.84,No,Medium,22-24,0,Cluster 1,-14.089789,-4.3196154
+STU_1052,18,Female,High School,YouTube,Mobile,5.2,7.2,5.4,8.3,3.24,No,Medium,16-18,0,Cluster 1,-19.228224,16.354645
+STU_1053,17,Female,High School,Snapchat,Mobile,7.0,5.3,5.9,5.7,2.16,No,Medium,16-18,1,Cluster 2,28.261274,10.771423
+STU_1054,22,Female,Graduate,YouTube,Laptop,1.7,7.6,1.6,10.0,3.52,No,Low,22-24,2,Cluster 3,-46.59788,9.036354
+STU_1055,17,Female,High School,TikTok,Mobile,8.1,7.2,8.5,6.4,2.46,No,High,16-18,1,Cluster 2,28.146084,-3.9421694
+STU_1056,18,Male,High School,TikTok,Mobile,5.6,6.2,6.7,5.2,2.66,Yes,Medium,16-18,0,Cluster 1,21.574528,-10.120118
+STU_1057,22,Male,Graduate,Instagram,Mobile,4.7,8.5,5.3,5.3,3.23,Yes,Medium,22-24,0,Cluster 1,-12.139003,-21.388624
+STU_1058,19,Male,Undergraduate,Instagram,Mobile,5.3,6.7,6.2,6.6,2.66,Yes,Medium,19-21,0,Cluster 1,6.860027,-4.2500734
+STU_1059,16,Male,High School,TikTok,Laptop,5.4,6.8,7.2,5.1,2.45,Yes,High,16-18,0,Cluster 1,14.832523,-16.980883
+STU_1060,20,Male,Undergraduate,Instagram,Laptop,2.0,9.0,3.5,9.8,3.34,No,Low,19-21,2,Cluster 3,-45.720985,1.0072846
+STU_1061,24,Male,Graduate,Instagram,Mobile,8.5,6.6,8.7,4.8,2.26,Yes,High,22-24,1,Cluster 2,37.997417,-6.0384893
+STU_1062,23,Female,Graduate,TikTok,Mobile,5.6,6.7,4.9,6.3,2.8,No,Medium,22-24,0,Cluster 1,-1.2800233,0.65559214
+STU_1063,24,Male,Graduate,YouTube,Mobile,6.4,6.1,5.7,5.5,2.94,No,Medium,22-24,0,Cluster 1,22.684444,6.7954845
+STU_1064,24,Male,Graduate,LinkedIn,Laptop,7.4,6.0,4.9,8.1,2.72,No,Medium,22-24,0,Cluster 1,9.118343,16.098927
+STU_1065,22,Female,Graduate,WhatsApp,Mobile,3.5,7.9,3.0,7.6,3.08,No,Low,22-24,2,Cluster 3,-32.571823,-1.9001606
+STU_1066,19,Male,Undergraduate,Snapchat,Mobile,6.4,7.1,5.5,6.8,2.66,Yes,Medium,19-21,0,Cluster 1,5.0870695,2.059883
+STU_1067,20,Female,Undergraduate,TikTok,Laptop,5.0,7.0,5.3,7.8,3.25,Yes,Medium,19-21,0,Cluster 1,-16.29541,13.809708
+STU_1068,16,Male,High School,Snapchat,Mobile,7.2,6.6,6.2,5.8,1.72,No,Medium,16-18,0,Cluster 1,17.007223,-6.361675
+STU_1069,16,Female,High School,YouTube,Laptop,1.2,9.8,2.0,8.7,3.55,Yes,Low,16-18,2,Cluster 3,-49.62468,0.6725548
+STU_1070,18,Female,High School,Instagram,Mobile,5.3,7.2,6.8,5.9,2.59,Yes,Medium,16-18,0,Cluster 1,6.942121,-15.235582
+STU_1071,23,Male,Graduate,TikTok,Mobile,4.3,7.5,5.0,7.7,2.39,No,Medium,22-24,2,Cluster 3,-21.423096,-5.089363
+STU_1072,17,Male,High School,Facebook,Mobile,6.4,5.2,6.0,7.0,2.81,No,Medium,16-18,0,Cluster 1,18.739136,19.135561
+STU_1073,19,Female,Undergraduate,TikTok,Tablet,6.4,4.3,7.3,5.4,2.63,No,High,19-21,1,Cluster 2,32.202198,13.845059
+STU_1074,17,Female,High School,TikTok,Laptop,4.1,7.7,5.1,7.0,3.05,No,Medium,16-18,0,Cluster 1,-20.729404,-7.941967
+STU_1075,20,Female,Undergraduate,TikTok,Mobile,4.1,7.3,5.0,6.6,2.1,Yes,Medium,19-21,0,Cluster 1,-14.8652525,-10.404578
+STU_1076,24,Female,Graduate,Instagram,Mobile,5.3,6.5,6.5,4.6,3.05,Yes,Medium,22-24,0,Cluster 1,20.233303,-10.036845
+STU_1077,16,Male,High School,TikTok,Mobile,3.7,7.7,5.3,7.1,2.63,Yes,Medium,16-18,2,Cluster 3,-21.571152,-8.154085
+STU_1078,20,Male,Undergraduate,Instagram,Laptop,7.2,6.1,9.5,6.2,2.29,No,High,19-21,1,Cluster 2,32.475693,-4.872119
+STU_1079,24,Male,Graduate,Instagram,Mobile,4.8,8.0,4.5,6.4,3.22,Yes,Medium,22-24,0,Cluster 1,-10.940585,-17.568962
+STU_1080,16,Female,High School,Instagram,Mobile,1.0,8.7,2.8,7.5,3.03,No,Low,16-18,2,Cluster 3,-44.54799,-10.1897135
+STU_1081,24,Female,Graduate,Facebook,Mobile,4.8,6.5,3.3,7.2,3.41,Yes,Low,22-24,0,Cluster 1,-14.166155,6.9777355
+STU_1082,23,Male,Graduate,Instagram,Laptop,3.4,8.4,3.4,8.7,3.08,Yes,Low,22-24,2,Cluster 3,-38.659554,-0.9981407
+STU_1083,19,Male,Undergraduate,TikTok,Mobile,2.2,7.9,3.8,8.2,2.5,No,Low,19-21,2,Cluster 3,-37.09101,-4.3045735
+STU_1084,20,Male,Undergraduate,Instagram,Mobile,3.0,8.2,4.1,7.4,3.42,No,Medium,19-21,2,Cluster 3,-30.351973,-9.5761
+STU_1085,20,Male,Undergraduate,WhatsApp,Mobile,5.7,6.3,7.0,4.9,2.31,Yes,Medium,19-21,1,Cluster 2,22.056072,-10.716463
+STU_1086,21,Female,Undergraduate,Instagram,Laptop,8.2,5.2,7.8,5.4,2.13,Yes,High,19-21,1,Cluster 2,38.622036,5.0732045
+STU_1087,22,Female,Graduate,TikTok,Mobile,6.1,6.6,5.8,5.0,2.64,No,Medium,22-24,0,Cluster 1,18.088926,-11.403631
+STU_1088,23,Female,Graduate,Facebook,Mobile,4.3,7.3,3.7,7.9,3.22,No,Low,22-24,2,Cluster 3,-24.716337,8.431047
+STU_1089,23,Male,Graduate,Facebook,Tablet,6.4,6.8,3.1,9.0,3.23,No,Low,22-24,2,Cluster 3,-24.21305,19.722143
+STU_1090,17,Male,High School,Instagram,Mobile,4.6,7.0,5.1,5.7,3.05,No,Medium,16-18,0,Cluster 1,-2.0925436,-9.97718
+STU_1091,24,Female,Graduate,YouTube,Mobile,4.1,5.9,3.8,6.2,2.71,No,Low,22-24,0,Cluster 1,-7.661251,5.1068645
+STU_1092,22,Female,Graduate,TikTok,Mobile,3.2,7.4,5.3,8.4,2.61,No,Medium,22-24,2,Cluster 3,-25.233038,-3.0579286
+STU_1093,19,Female,Undergraduate,TikTok,Laptop,2.0,8.8,4.6,6.6,2.94,No,Medium,19-21,2,Cluster 3,-31.587189,-13.45955
+STU_1094,19,Female,Undergraduate,Instagram,Mobile,4.7,6.9,4.8,8.3,3.51,No,Medium,19-21,0,Cluster 1,-18.412867,14.009128
+STU_1095,23,Male,Graduate,Instagram,Tablet,5.8,6.5,6.0,6.2,2.69,Yes,Medium,22-24,0,Cluster 1,8.7735815,-7.86971
+STU_1096,19,Female,Undergraduate,YouTube,Mobile,5.3,7.7,4.0,7.5,3.41,No,Low,19-21,2,Cluster 3,-16.617945,-1.0562205
+STU_1097,21,Male,Undergraduate,TikTok,Mobile,4.7,6.6,4.6,7.7,2.98,No,Medium,19-21,0,Cluster 1,-16.145899,11.241461
+STU_1098,20,Male,Undergraduate,TikTok,Mobile,3.6,6.3,5.2,6.0,2.72,No,Medium,19-21,0,Cluster 1,-3.4982646,-5.825834
+STU_1099,18,Male,High School,YouTube,Laptop,6.7,6.2,4.6,7.4,2.9,Yes,Medium,16-18,0,Cluster 1,6.445931,15.631374
+STU_1100,17,Male,High School,YouTube,Mobile,2.9,7.5,2.4,8.2,3.32,No,Low,16-18,2,Cluster 3,-35.720394,8.142355
+STU_1101,24,Female,Graduate,Instagram,Laptop,7.1,5.4,6.1,5.0,2.87,No,Medium,22-24,1,Cluster 2,30.043442,8.903082
+STU_1102,24,Male,Graduate,Snapchat,Mobile,3.5,7.5,4.3,7.7,3.43,No,Medium,22-24,2,Cluster 3,-26.608126,-4.821795
+STU_1103,16,Male,High School,Instagram,Mobile,4.0,7.8,6.5,5.8,2.74,Yes,Medium,16-18,0,Cluster 1,-5.9865294,-21.740795
+STU_1104,18,Female,High School,YouTube,Mobile,2.6,8.0,1.3,9.1,3.93,No,Low,16-18,2,Cluster 3,-42.036343,9.372579
+STU_1105,23,Male,Graduate,Snapchat,Laptop,4.5,7.4,2.7,7.1,3.02,No,Low,22-24,2,Cluster 3,-26.666327,5.3452168
+STU_1106,21,Male,Undergraduate,Twitter,Mobile,7.5,7.5,6.0,8.0,2.59,Yes,Medium,19-21,0,Cluster 1,5.1533604,5.4281616
+STU_1107,20,Female,Undergraduate,Instagram,Mobile,6.5,6.1,6.7,6.8,2.37,Yes,Medium,19-21,0,Cluster 1,19.028042,13.679681
+STU_1108,20,Male,Undergraduate,Instagram,Mobile,7.5,6.2,7.7,6.4,2.51,Yes,High,19-21,1,Cluster 2,28.442448,1.0961475
+STU_1109,21,Male,Undergraduate,Instagram,Laptop,6.5,6.0,6.3,5.9,2.56,Yes,Medium,19-21,0,Cluster 1,21.527023,7.9282746
+STU_1110,22,Male,Graduate,Instagram,Mobile,3.3,7.0,3.9,5.9,3.31,No,Low,22-24,0,Cluster 1,-17.154228,-12.715413
+STU_1111,16,Male,High School,Instagram,Laptop,4.8,6.6,5.7,8.5,2.49,No,Medium,16-18,0,Cluster 1,-15.893958,16.007193
+STU_1112,24,Female,Graduate,WhatsApp,Mobile,3.9,7.0,3.7,7.7,3.15,No,Low,22-24,2,Cluster 3,-23.889578,7.5796003
+STU_1113,18,Female,High School,Instagram,Mobile,8.2,6.0,6.1,5.6,2.91,Yes,Medium,16-18,1,Cluster 2,30.433056,4.0579567
+STU_1114,19,Female,Undergraduate,Instagram,Mobile,3.1,9.6,3.6,8.2,2.53,No,Low,19-21,2,Cluster 3,-45.731205,-5.423165
+STU_1115,16,Female,High School,YouTube,Laptop,7.3,5.5,6.5,7.2,3.26,Yes,Medium,16-18,0,Cluster 1,21.738188,18.952904
+STU_1116,18,Female,High School,TikTok,Laptop,7.3,5.8,6.9,5.8,2.47,No,Medium,16-18,1,Cluster 2,33.349964,3.7911468
+STU_1117,17,Male,High School,YouTube,Mobile,9.2,5.3,9.6,5.5,1.5,Yes,High,16-18,1,Cluster 2,41.538136,-0.7489659
+STU_1118,17,Female,High School,Instagram,Mobile,4.7,7.4,4.6,8.3,3.02,No,Medium,16-18,2,Cluster 3,-21.278929,15.373858
+STU_1119,16,Female,High School,TikTok,Mobile,6.9,6.4,7.5,4.4,2.46,No,High,16-18,1,Cluster 2,27.733732,-14.408046
+STU_1120,23,Female,Graduate,Instagram,Mobile,10.1,6.0,10.0,3.3,1.98,Yes,High,22-24,1,Cluster 2,47.2341,-9.169242
+STU_1121,18,Female,High School,Instagram,Mobile,4.3,5.4,4.3,8.4,3.32,No,Medium,16-18,0,Cluster 1,-8.197351,15.425683
+STU_1122,18,Male,High School,WhatsApp,Mobile,2.4,6.1,1.0,6.7,3.84,No,Low,16-18,2,Cluster 3,-22.473055,3.8061335
+STU_1123,21,Male,Undergraduate,Instagram,Mobile,1.7,7.9,2.5,8.4,3.45,Yes,Low,19-21,2,Cluster 3,-42.639214,5.249231
+STU_1124,23,Male,Graduate,TikTok,Mobile,6.9,7.1,8.6,3.4,2.39,Yes,High,22-24,1,Cluster 2,31.987614,-17.869976
+STU_1125,24,Male,Graduate,TikTok,Mobile,1.7,7.1,3.1,7.7,3.22,No,Low,22-24,2,Cluster 3,-34.914707,-5.8252296
+STU_1126,24,Female,Graduate,Instagram,Mobile,4.8,4.7,4.5,7.0,3.53,No,Medium,22-24,0,Cluster 1,-4.4287057,13.131787
+STU_1127,19,Female,Undergraduate,Facebook,Mobile,6.4,6.9,6.0,6.0,2.27,Yes,Medium,19-21,0,Cluster 1,12.319619,-7.7002873
+STU_1128,20,Male,Undergraduate,Instagram,Mobile,5.9,6.8,5.9,5.9,2.79,Yes,Medium,19-21,0,Cluster 1,10.775674,-9.251905
+STU_1129,17,Male,High School,Snapchat,Laptop,6.4,5.6,5.6,5.6,2.82,No,Medium,16-18,0,Cluster 1,24.369162,8.944622
+STU_1130,24,Male,Graduate,Twitter,Mobile,5.9,5.8,5.1,9.2,3.13,No,Medium,22-24,0,Cluster 1,-11.858733,21.040133
+STU_1131,23,Male,Graduate,TikTok,Mobile,8.1,5.0,9.2,6.3,1.89,Yes,High,22-24,1,Cluster 2,40.967762,7.4187074
+STU_1132,18,Male,High School,WhatsApp,Mobile,3.6,7.7,4.8,6.0,2.42,No,Medium,16-18,0,Cluster 1,-15.218304,-15.58003
+STU_1133,24,Male,Graduate,Instagram,Mobile,4.1,6.8,5.6,8.2,2.83,No,Medium,22-24,0,Cluster 1,-17.086683,16.137022
+STU_1134,18,Female,High School,TikTok,Mobile,4.0,7.8,6.3,5.8,2.75,No,Medium,16-18,0,Cluster 1,-6.2131453,-21.435972
+STU_1135,24,Male,Graduate,Instagram,Mobile,7.2,3.9,6.7,6.1,3.04,No,Medium,22-24,1,Cluster 2,32.44916,16.329002
+STU_1136,17,Male,High School,YouTube,Laptop,7.3,5.4,5.3,6.7,2.46,No,Medium,16-18,0,Cluster 1,13.939733,21.926422
+STU_1137,24,Female,Graduate,LinkedIn,Mobile,6.4,5.5,3.7,7.1,3.48,No,Low,22-24,0,Cluster 1,-0.9269516,16.81753
+STU_1138,23,Male,Graduate,Instagram,Mobile,7.9,5.6,7.9,6.2,3.09,No,High,22-24,1,Cluster 2,36.08602,4.223699
+STU_1139,24,Female,Graduate,Snapchat,Mobile,3.1,7.3,2.4,8.7,3.25,No,Low,22-24,2,Cluster 3,-36.070698,9.949539
+STU_1140,20,Female,Undergraduate,Instagram,Mobile,8.8,6.1,8.4,4.5,1.9,Yes,High,19-21,1,Cluster 2,40.690994,-5.7030725
+STU_1141,17,Male,High School,TikTok,Mobile,8.5,4.1,9.2,3.2,2.02,Yes,High,16-18,1,Cluster 2,49.349125,-2.7984335
+STU_1142,23,Male,Graduate,TikTok,Laptop,7.0,6.2,7.9,4.3,2.38,Yes,High,22-24,1,Cluster 2,32.757786,-14.155336
+STU_1143,21,Male,Undergraduate,Twitter,Mobile,9.1,5.8,8.0,3.6,2.54,No,High,19-21,1,Cluster 2,44.47691,-6.0397286
+STU_1144,23,Male,Graduate,Snapchat,Mobile,2.2,9.6,3.0,8.2,3.08,No,Low,22-24,2,Cluster 3,-46.01125,-6.444961
+STU_1145,20,Male,Undergraduate,Instagram,Mobile,4.5,6.8,4.6,6.1,3.45,No,Medium,19-21,0,Cluster 1,-3.5538423,-2.8113172
+STU_1146,17,Female,High School,Instagram,Mobile,4.0,7.6,4.2,7.2,2.71,No,Medium,16-18,2,Cluster 3,-18.895918,-7.742419
+STU_1147,21,Male,Undergraduate,Instagram,Tablet,6.9,4.8,5.9,7.9,2.22,No,Medium,19-21,0,Cluster 1,17.213652,21.888992
+STU_1148,20,Male,Undergraduate,Instagram,Mobile,3.4,5.7,6.0,7.6,3.05,Yes,Medium,19-21,0,Cluster 1,-9.048387,11.749599
+STU_1149,20,Male,Undergraduate,Instagram,Mobile,7.0,6.9,7.1,5.7,1.84,Yes,High,19-21,0,Cluster 1,23.568954,-4.7053437
+STU_1150,16,Female,High School,Facebook,Mobile,8.2,5.7,6.4,6.1,2.59,No,Medium,16-18,1,Cluster 2,31.72018,4.349968
+STU_1151,17,Male,High School,TikTok,Tablet,6.9,7.2,6.6,7.9,3.55,Yes,Medium,16-18,0,Cluster 1,6.7631245,5.340825
+STU_1152,23,Male,Graduate,TikTok,Mobile,6.1,5.5,9.8,4.6,2.03,Yes,High,22-24,1,Cluster 2,35.720333,-10.878184
+STU_1153,18,Male,High School,Instagram,Mobile,3.5,8.0,3.2,7.7,2.88,No,Low,16-18,2,Cluster 3,-33.16192,-2.1558962
+STU_1154,18,Female,High School,Facebook,Mobile,3.8,9.0,2.6,7.0,3.31,No,Low,16-18,2,Cluster 3,-38.960552,-11.048237
+STU_1155,23,Male,Graduate,YouTube,Mobile,8.0,6.1,7.3,6.0,2.47,No,High,22-24,1,Cluster 2,31.537039,1.4279755
+STU_1156,23,Female,Graduate,Instagram,Mobile,7.1,6.4,7.7,6.2,2.45,No,High,22-24,1,Cluster 2,23.042492,-1.8359627
+STU_1157,17,Female,High School,Snapchat,Mobile,5.4,6.8,6.3,5.6,2.87,Yes,Medium,16-18,0,Cluster 1,10.312894,-12.662308
+STU_1158,23,Male,Graduate,TikTok,Mobile,4.7,5.9,7.5,5.8,2.13,Yes,High,22-24,0,Cluster 1,18.774313,1.6375238
+STU_1159,16,Female,High School,Instagram,Mobile,1.4,9.5,3.2,7.7,3.74,No,Low,16-18,2,Cluster 3,-45.649586,-8.205422
+STU_1160,21,Male,Undergraduate,TikTok,Mobile,3.4,7.2,3.6,7.6,3.22,No,Low,19-21,2,Cluster 3,-24.277725,6.6133056
+STU_1161,23,Female,Graduate,TikTok,Mobile,9.3,5.7,9.2,2.0,2.36,No,High,22-24,1,Cluster 2,46.717445,-11.024331
+STU_1162,18,Female,High School,Instagram,Mobile,2.9,6.6,4.2,7.3,2.86,Yes,Medium,16-18,2,Cluster 3,-18.54329,6.0208883
+STU_1163,23,Female,Graduate,WhatsApp,Mobile,5.9,5.7,6.3,7.2,3.06,Yes,Medium,22-24,0,Cluster 1,18.392086,16.173706
+STU_1164,16,Male,High School,Facebook,Mobile,7.5,7.1,4.6,6.6,2.89,No,Medium,16-18,0,Cluster 1,2.6289973,3.6792111
+STU_1165,24,Female,Graduate,Snapchat,Tablet,3.0,7.5,4.6,7.3,3.06,No,Medium,22-24,2,Cluster 3,-25.582312,-5.866596
+STU_1166,24,Male,Graduate,TikTok,Mobile,5.9,7.8,6.9,5.1,2.28,Yes,Medium,22-24,0,Cluster 1,3.4554222,-21.663647
+STU_1167,20,Male,Undergraduate,TikTok,Mobile,7.4,6.0,8.7,5.1,1.93,Yes,High,19-21,1,Cluster 2,35.997704,-8.332837
+STU_1168,19,Male,Undergraduate,Snapchat,Mobile,5.5,5.3,5.3,6.6,3.05,No,Medium,19-21,0,Cluster 1,14.879743,18.670006
+STU_1169,21,Female,Undergraduate,TikTok,Tablet,11.2,5.2,10.0,3.1,1.87,Yes,High,19-21,1,Cluster 2,50.219776,-8.162137
+STU_1170,22,Female,Graduate,Instagram,Mobile,2.2,7.7,4.0,8.9,2.83,No,Low,22-24,2,Cluster 3,-37.530495,4.2015767
+STU_1171,20,Male,Undergraduate,TikTok,Mobile,7.6,6.5,8.7,5.7,2.03,Yes,High,19-21,1,Cluster 2,29.320126,-5.4704995
+STU_1172,24,Male,Graduate,YouTube,Mobile,5.2,7.0,5.6,6.0,3.0,Yes,Medium,22-24,0,Cluster 1,2.0113933,-10.436516
+STU_1173,18,Male,High School,TikTok,Mobile,7.0,4.9,7.6,5.9,2.24,Yes,High,16-18,1,Cluster 2,29.880047,13.971288
+STU_1174,22,Female,Graduate,Instagram,Mobile,6.4,6.6,6.0,6.9,2.68,Yes,Medium,22-24,0,Cluster 1,9.368653,8.819529
+STU_1175,20,Male,Undergraduate,YouTube,Mobile,4.0,9.1,2.2,9.3,3.41,No,Low,19-21,2,Cluster 3,-44.32558,-1.7772182
+STU_1176,22,Female,Graduate,Instagram,Mobile,6.0,7.0,7.1,4.1,1.95,No,High,22-24,1,Cluster 2,23.050812,-16.882853
+STU_1177,17,Male,High School,Instagram,Tablet,1.8,8.2,3.4,9.0,2.76,No,Low,16-18,2,Cluster 3,-42.456654,3.0482764
+STU_1178,19,Female,Undergraduate,Instagram,Mobile,6.7,7.2,5.9,5.9,2.84,Yes,Medium,19-21,0,Cluster 1,14.175842,-7.937692
+STU_1179,17,Male,High School,Instagram,Mobile,6.1,6.7,5.8,6.1,2.53,No,Medium,16-18,0,Cluster 1,10.239897,-7.9410014
+STU_1180,22,Male,Graduate,YouTube,Mobile,6.8,6.5,5.5,9.4,3.14,No,Medium,22-24,0,Cluster 1,-10.980483,22.873302
+STU_1181,17,Male,High School,TikTok,Mobile,7.6,5.1,6.6,6.3,2.9,Yes,Medium,16-18,1,Cluster 2,28.646976,16.896257
+STU_1182,16,Female,High School,Instagram,Mobile,6.2,6.7,5.7,6.2,3.0,Yes,Medium,16-18,0,Cluster 1,10.046548,-7.248756
+STU_1183,24,Female,Graduate,Facebook,Mobile,5.8,7.5,3.5,5.7,3.72,No,Low,22-24,0,Cluster 1,-6.4381347,-1.2686898
+STU_1184,16,Male,High School,Facebook,Mobile,3.7,6.8,2.6,9.8,3.31,Yes,Low,16-18,2,Cluster 3,-34.19587,13.700288
+STU_1185,23,Female,Graduate,Facebook,Laptop,4.1,8.5,2.5,7.1,3.54,Yes,Low,22-24,2,Cluster 3,-38.475136,-11.223399
+STU_1186,17,Female,High School,Instagram,Laptop,7.9,5.8,6.2,5.3,2.51,No,Medium,16-18,1,Cluster 2,30.518078,4.980228
+STU_1187,23,Female,Graduate,TikTok,Mobile,8.4,4.9,10.0,3.7,2.74,No,High,22-24,1,Cluster 2,48.748734,-4.8695154
+STU_1188,18,Female,High School,LinkedIn,Mobile,5.0,7.8,3.8,9.2,3.72,No,Low,16-18,2,Cluster 3,-28.889135,18.23438
+STU_1189,21,Male,Undergraduate,YouTube,Laptop,5.6,6.5,4.2,8.3,3.05,No,Medium,19-21,0,Cluster 1,-10.866786,18.610832
+STU_1190,18,Male,High School,Instagram,Mobile,3.7,8.1,4.7,7.0,3.07,No,Medium,16-18,2,Cluster 3,-26.820864,-10.260339
+STU_1191,22,Female,Graduate,Instagram,Laptop,7.8,5.6,8.2,5.4,2.73,Yes,High,22-24,1,Cluster 2,37.624557,2.6298738
+STU_1192,24,Female,Graduate,TikTok,Mobile,6.8,6.2,8.7,4.2,2.2,Yes,High,22-24,1,Cluster 2,33.749584,-14.726364
+STU_1193,17,Female,High School,WhatsApp,Mobile,9.4,5.6,6.2,6.4,2.49,Yes,Medium,16-18,1,Cluster 2,28.06325,22.479437
+STU_1194,20,Male,Undergraduate,TikTok,Mobile,3.7,7.7,6.1,6.4,2.97,Yes,Medium,19-21,0,Cluster 1,-7.5448394,-21.592585
+STU_1195,21,Male,Undergraduate,TikTok,Mobile,4.7,5.5,5.2,7.8,2.88,No,Medium,19-21,0,Cluster 1,-8.054692,13.996629
+STU_1196,19,Female,Undergraduate,Instagram,Mobile,6.0,5.7,4.9,8.0,2.97,No,Medium,19-21,0,Cluster 1,-3.9554303,18.761436
+STU_1197,19,Female,Undergraduate,Snapchat,Mobile,6.8,7.0,7.2,6.2,2.26,No,High,19-21,0,Cluster 1,21.950249,-4.359042
+STU_1198,19,Female,Undergraduate,Facebook,Mobile,5.1,6.9,5.3,6.4,2.32,Yes,Medium,19-21,0,Cluster 1,2.4354837,-8.860316
+STU_1199,17,Female,High School,TikTok,Mobile,3.8,7.1,7.6,6.2,2.5,No,High,16-18,0,Cluster 1,9.854892,-20.024715
+STU_1200,19,Female,Undergraduate,YouTube,Mobile,7.3,5.0,5.1,6.8,3.15,Yes,Medium,19-21,0,Cluster 1,14.673415,22.050722
+STU_1201,16,Male,High School,Twitter,Tablet,6.9,5.4,6.5,5.0,2.57,No,Medium,16-18,1,Cluster 2,29.546165,9.020797
+STU_1202,21,Male,Undergraduate,Instagram,Mobile,3.7,5.9,4.0,7.2,3.51,Yes,Low,19-21,0,Cluster 1,-11.135734,9.949313
+STU_1203,16,Female,High School,TikTok,Laptop,8.2,5.6,9.4,4.5,1.91,Yes,High,16-18,1,Cluster 2,42.58928,-8.1025505
+STU_1204,21,Female,Undergraduate,Instagram,Mobile,7.8,5.4,6.3,7.1,2.35,Yes,Medium,19-21,1,Cluster 2,22.249495,19.849613
+STU_1205,16,Male,High School,YouTube,Mobile,5.8,5.9,3.9,7.5,3.09,No,Low,16-18,0,Cluster 1,-1.9423728,15.530908
+STU_1206,21,Male,Undergraduate,TikTok,Tablet,5.7,6.7,5.8,5.3,2.74,No,Medium,19-21,0,Cluster 1,16.23317,-11.547236
+STU_1207,23,Female,Graduate,Snapchat,Mobile,6.6,6.6,6.4,6.2,2.89,Yes,Medium,22-24,0,Cluster 1,15.201963,-4.6689634
+STU_1208,17,Male,High School,YouTube,Mobile,3.8,9.2,2.9,8.4,3.05,No,Low,16-18,2,Cluster 3,-44.48151,-3.929813
+STU_1209,17,Male,High School,TikTok,Mobile,5.6,5.6,7.1,5.9,2.93,Yes,High,16-18,0,Cluster 1,24.164007,12.740914
+STU_1210,19,Female,Undergraduate,WhatsApp,Mobile,1.2,9.4,1.5,10.0,4.0,No,Low,19-21,2,Cluster 3,-49.95832,3.3396187
+STU_1211,18,Female,High School,TikTok,Mobile,7.3,6.9,8.4,6.0,2.28,Yes,High,16-18,1,Cluster 2,27.601614,-5.2575297
+STU_1212,19,Female,Undergraduate,Instagram,Laptop,2.4,7.4,5.0,6.4,3.27,No,Medium,19-21,2,Cluster 3,-19.040108,-13.211058
+STU_1213,22,Male,Graduate,Snapchat,Mobile,8.5,5.8,8.2,4.5,2.0,Yes,High,22-24,1,Cluster 2,41.73647,-5.361622
+STU_1214,16,Female,High School,YouTube,Mobile,4.8,6.7,3.2,7.1,3.55,No,Low,16-18,0,Cluster 1,-14.32773,6.5557494
+STU_1215,21,Male,Undergraduate,Instagram,Mobile,5.1,7.1,6.9,6.5,2.87,No,Medium,19-21,0,Cluster 1,9.159131,-3.3505945
+STU_1216,18,Male,High School,Facebook,Mobile,4.2,8.5,2.8,9.8,3.56,No,Low,16-18,2,Cluster 3,-40.3211,1.5408269
+STU_1217,22,Female,Graduate,WhatsApp,Mobile,4.9,7.5,4.3,7.1,3.01,No,Medium,22-24,0,Cluster 1,-16.055922,-2.5441008
+STU_1218,17,Female,High School,Instagram,Mobile,8.3,6.1,9.7,3.9,1.5,Yes,High,16-18,1,Cluster 2,41.259846,-9.477191
+STU_1219,17,Female,High School,LinkedIn,Mobile,1.0,8.3,1.0,10.0,3.43,No,Low,16-18,2,Cluster 3,-48.477386,6.910487
+STU_1220,19,Female,Undergraduate,Instagram,Mobile,8.1,4.6,6.4,6.6,2.45,Yes,Medium,19-21,1,Cluster 2,29.983358,18.428045
+STU_1221,16,Female,High School,Instagram,Mobile,6.2,6.4,5.5,7.1,2.51,No,Medium,16-18,0,Cluster 1,7.7140374,11.350188
+STU_1222,18,Male,High School,Instagram,Mobile,3.1,8.7,5.3,5.6,2.88,Yes,Medium,16-18,2,Cluster 3,-15.910483,-21.791784
+STU_1223,24,Male,Graduate,Facebook,Mobile,3.3,6.4,2.5,9.2,3.22,No,Low,22-24,2,Cluster 3,-31.236004,11.990815
+STU_1224,22,Male,Graduate,Snapchat,Mobile,8.9,4.6,8.2,4.2,2.08,No,High,22-24,1,Cluster 2,46.577652,0.09356658
+STU_1225,22,Male,Graduate,Instagram,Laptop,3.6,7.7,5.1,5.8,2.56,No,Medium,22-24,0,Cluster 1,-14.767916,-16.057259
+STU_1226,19,Female,Undergraduate,TikTok,Mobile,3.2,6.9,5.3,6.5,2.64,No,Medium,19-21,0,Cluster 1,-9.300229,-7.1452804
+STU_1227,17,Male,High School,Snapchat,Mobile,7.8,5.3,7.5,4.9,2.79,Yes,High,16-18,1,Cluster 2,39.700706,3.6872995
+STU_1228,19,Female,Undergraduate,Instagram,Mobile,6.2,6.2,6.2,6.0,2.48,Yes,Medium,19-21,0,Cluster 1,20.802471,7.3238654
+STU_1229,21,Female,Undergraduate,Facebook,Mobile,3.6,6.5,2.6,7.0,3.18,No,Low,19-21,2,Cluster 3,-21.346378,4.831718
+STU_1230,18,Female,High School,YouTube,Mobile,5.9,5.8,6.1,7.3,2.56,Yes,Medium,16-18,0,Cluster 1,17.679766,15.97291
+STU_1231,16,Male,High School,TikTok,Mobile,3.4,8.2,5.3,7.9,2.95,No,Medium,16-18,2,Cluster 3,-26.366234,-7.9136667
+STU_1232,23,Female,Graduate,Twitter,Mobile,7.7,4.9,6.1,4.4,2.84,Yes,Medium,22-24,1,Cluster 2,32.178375,9.096894
+STU_1233,20,Male,Undergraduate,TikTok,Mobile,7.6,4.7,9.2,5.5,1.5,Yes,High,19-21,1,Cluster 2,42.253685,5.9637427
+STU_1234,20,Male,Undergraduate,LinkedIn,Mobile,6.6,5.9,3.6,7.0,3.45,No,Low,19-21,0,Cluster 1,0.16550411,16.31568
+STU_1235,19,Female,Undergraduate,Snapchat,Mobile,6.2,7.1,5.1,7.8,3.31,No,Medium,19-21,0,Cluster 1,4.2192883,7.7496324
+STU_1236,21,Male,Undergraduate,Snapchat,Mobile,9.0,5.2,7.5,5.5,2.14,Yes,High,19-21,1,Cluster 2,37.701096,6.040481
+STU_1237,18,Male,High School,Instagram,Mobile,5.5,6.4,4.9,7.1,2.62,Yes,Medium,16-18,0,Cluster 1,4.6695786,12.501797
+STU_1238,24,Female,Graduate,Facebook,Tablet,3.1,7.8,2.2,8.5,3.26,Yes,Low,22-24,2,Cluster 3,-37.678932,8.554996
+STU_1239,20,Male,Undergraduate,TikTok,Laptop,6.4,5.0,8.4,6.2,2.07,Yes,High,19-21,1,Cluster 2,28.062319,14.679829
+STU_1240,18,Female,High School,Instagram,Laptop,9.7,5.5,8.4,3.7,2.35,Yes,High,16-18,1,Cluster 2,45.512512,-5.8765507
+STU_1241,16,Female,High School,Instagram,Laptop,3.5,7.9,4.5,7.9,2.41,No,Medium,16-18,2,Cluster 3,-27.685303,-6.48734
+STU_1242,21,Female,Undergraduate,TikTok,Laptop,4.8,6.8,5.2,8.0,2.53,Yes,Medium,19-21,0,Cluster 1,-17.013865,14.29888
+STU_1243,17,Male,High School,TikTok,Mobile,6.3,7.3,6.8,6.6,3.04,No,Medium,16-18,0,Cluster 1,11.954587,-3.6920476
+STU_1244,18,Male,High School,Snapchat,Mobile,5.4,5.9,3.8,10.0,2.84,No,Low,16-18,2,Cluster 3,-13.225895,22.137463
+STU_1245,16,Female,High School,Facebook,Mobile,3.5,8.5,2.6,7.9,3.7,No,Low,16-18,2,Cluster 3,-40.773476,-5.18063
+STU_1246,24,Male,Graduate,Instagram,Mobile,7.7,6.0,7.5,6.5,2.56,Yes,High,22-24,1,Cluster 2,29.1328,1.632348
+STU_1247,23,Female,Graduate,YouTube,Mobile,10.1,4.7,9.2,4.4,1.61,Yes,High,22-24,1,Cluster 2,50.315575,-5.9182725
+STU_1248,17,Female,High School,Instagram,Mobile,5.9,6.6,6.4,7.4,2.83,Yes,Medium,16-18,0,Cluster 1,8.716343,6.703369
+STU_1249,23,Female,Graduate,Facebook,Mobile,3.7,7.4,1.8,8.9,3.45,No,Low,22-24,2,Cluster 3,-37.172993,11.544565
+STU_1250,24,Male,Graduate,YouTube,Mobile,2.4,9.0,3.5,7.5,3.03,No,Low,22-24,2,Cluster 3,-42.810642,-8.721928
+STU_1251,16,Male,High School,TikTok,Laptop,6.0,5.7,7.0,7.1,2.61,Yes,Medium,16-18,0,Cluster 1,20.10738,15.8994465
+STU_1252,20,Female,Undergraduate,Snapchat,Mobile,7.7,5.3,7.4,5.1,2.62,Yes,High,19-21,1,Cluster 2,39.14693,3.970099
+STU_1253,23,Male,Graduate,Instagram,Mobile,6.5,7.2,6.7,4.6,2.82,Yes,Medium,22-24,0,Cluster 1,19.736134,-15.781525
+STU_1254,17,Male,High School,TikTok,Mobile,5.5,6.3,5.9,6.0,3.1,No,Medium,16-18,0,Cluster 1,7.8512864,-9.048297
+STU_1255,19,Female,Undergraduate,Facebook,Mobile,4.3,8.0,3.7,8.4,3.26,No,Low,19-21,2,Cluster 3,-34.21097,0.82706463
+STU_1256,22,Female,Graduate,TikTok,Laptop,3.3,9.0,5.1,8.3,2.46,Yes,Medium,22-24,2,Cluster 3,-33.56117,-9.858235
+STU_1257,18,Female,High School,TikTok,Mobile,7.2,5.8,6.0,6.5,2.58,No,Medium,16-18,0,Cluster 1,19.023527,11.197348
+STU_1258,20,Female,Undergraduate,TikTok,Laptop,7.3,6.6,7.3,6.9,3.36,Yes,High,19-21,0,Cluster 1,13.429796,4.51553
+STU_1259,23,Male,Graduate,Facebook,Mobile,2.4,7.1,1.7,7.6,3.72,No,Low,22-24,2,Cluster 3,-34.349327,8.244098
+STU_1260,18,Female,High School,Instagram,Mobile,8.7,6.1,8.7,4.3,2.94,Yes,High,16-18,1,Cluster 2,40.899406,-6.5098777
+STU_1261,19,Female,Undergraduate,Instagram,Mobile,6.6,6.5,8.0,4.9,2.78,Yes,High,19-21,1,Cluster 2,27.649933,-15.807713
+STU_1262,24,Male,Graduate,Snapchat,Mobile,8.3,6.1,6.9,5.8,2.64,Yes,Medium,22-24,1,Cluster 2,31.628122,2.240427
+STU_1263,22,Male,Graduate,Facebook,Mobile,2.8,7.4,1.8,9.0,3.57,No,Low,22-24,2,Cluster 3,-37.739147,10.652318
+STU_1264,16,Female,High School,Instagram,Mobile,2.8,6.6,3.2,8.8,3.21,No,Low,16-18,2,Cluster 3,-30.724625,10.693148
+STU_1265,19,Female,Undergraduate,Instagram,Mobile,5.2,7.3,4.9,6.6,2.4,No,Medium,19-21,0,Cluster 1,-6.094092,-11.9698715
+STU_1266,19,Female,Undergraduate,Instagram,Laptop,6.5,4.7,6.4,6.3,2.66,Yes,Medium,19-21,1,Cluster 2,30.718199,15.622887
+STU_1267,24,Female,Graduate,Instagram,Mobile,9.1,5.1,9.5,4.2,2.45,Yes,High,22-24,1,Cluster 2,48.163647,-5.9579244
+STU_1268,21,Male,Undergraduate,TikTok,Laptop,6.9,7.0,6.5,5.2,2.45,Yes,Medium,19-21,0,Cluster 1,17.559252,-14.152867
+STU_1269,24,Male,Graduate,YouTube,Mobile,5.0,7.1,4.9,6.9,3.03,No,Medium,22-24,0,Cluster 1,-13.316059,-2.9554753
+STU_1270,21,Female,Undergraduate,Snapchat,Mobile,3.4,9.2,2.1,8.6,3.69,No,Low,19-21,2,Cluster 3,-43.742947,-3.0856519
+STU_1271,21,Female,Undergraduate,Snapchat,Mobile,8.0,6.6,6.8,5.8,2.3,Yes,Medium,19-21,1,Cluster 2,25.698828,-1.8437297
+STU_1272,20,Female,Undergraduate,TikTok,Mobile,3.6,7.0,4.5,7.3,2.85,No,Medium,19-21,2,Cluster 3,-16.3488,-6.7306314
+STU_1273,20,Female,Undergraduate,Facebook,Mobile,8.8,5.5,8.7,4.9,1.93,Yes,High,19-21,1,Cluster 2,42.390217,-1.9380606
+STU_1274,17,Male,High School,TikTok,Mobile,4.9,7.0,5.7,6.2,2.53,No,Medium,16-18,0,Cluster 1,1.3913898,-9.73586
+STU_1275,23,Male,Graduate,Twitter,Mobile,8.7,4.3,4.9,8.3,2.52,No,Medium,22-24,0,Cluster 1,16.42559,24.356148
+STU_1276,23,Female,Graduate,Snapchat,Laptop,6.9,5.5,4.5,6.1,2.72,No,Medium,22-24,0,Cluster 1,9.859205,20.898197
+STU_1277,16,Female,High School,Instagram,Mobile,5.2,6.5,5.7,5.9,3.2,No,Medium,16-18,0,Cluster 1,7.3141217,-9.9661875
+STU_1278,23,Female,Graduate,Snapchat,Laptop,4.5,5.6,5.2,9.7,2.59,No,Medium,22-24,0,Cluster 1,-13.317411,20.117128
+STU_1279,20,Female,Undergraduate,Instagram,Mobile,4.8,7.1,5.7,5.5,2.81,Yes,Medium,19-21,0,Cluster 1,-0.14607432,-11.747178
+STU_1280,17,Female,High School,Snapchat,Mobile,6.4,6.3,6.3,4.9,2.52,Yes,Medium,16-18,1,Cluster 2,22.670221,-12.14845
+STU_1281,17,Male,High School,Instagram,Mobile,5.7,5.4,7.2,6.4,2.86,Yes,High,16-18,0,Cluster 1,23.312761,14.209071
+STU_1282,21,Male,Undergraduate,Instagram,Mobile,4.3,7.6,4.4,5.3,3.4,Yes,Medium,19-21,0,Cluster 1,-15.0480795,-18.196684
+STU_1283,24,Male,Graduate,Facebook,Mobile,5.2,7.5,5.0,6.7,3.15,No,Medium,22-24,0,Cluster 1,-6.6158895,-13.1296215
+STU_1284,16,Female,High School,Instagram,Mobile,5.7,6.9,4.4,9.5,3.1,No,Medium,16-18,2,Cluster 3,-15.831713,21.802666
+STU_1285,21,Male,Undergraduate,Facebook,Mobile,1.2,8.2,1.0,7.9,3.55,No,Low,19-21,2,Cluster 3,-45.344902,3.784535
+STU_1286,24,Male,Graduate,Instagram,Mobile,6.4,6.9,4.8,5.1,2.57,No,Medium,22-24,0,Cluster 1,15.215874,-10.406206
+STU_1287,23,Female,Graduate,Snapchat,Laptop,3.5,8.1,3.6,6.4,3.74,No,Low,22-24,2,Cluster 3,-19.857471,-18.413794
+STU_1288,21,Male,Undergraduate,Snapchat,Laptop,3.2,8.0,3.5,8.8,2.94,No,Low,19-21,2,Cluster 3,-37.43037,-0.9765422
+STU_1289,18,Female,High School,TikTok,Mobile,2.1,7.5,3.8,8.8,3.31,Yes,Low,16-18,2,Cluster 3,-37.24904,4.616252
+STU_1290,23,Male,Graduate,Instagram,Mobile,1.9,8.5,3.1,7.6,3.56,No,Low,22-24,2,Cluster 3,-41.40315,-8.063949
+STU_1291,24,Male,Graduate,Instagram,Mobile,2.8,8.8,2.8,9.0,3.13,No,Low,22-24,2,Cluster 3,-42.801685,-0.54525024
+STU_1292,16,Female,High School,Instagram,Mobile,4.1,6.9,4.6,8.6,3.29,No,Medium,16-18,2,Cluster 3,-20.204144,13.50045
+STU_1293,24,Male,Graduate,Instagram,Mobile,9.4,6.9,7.5,7.3,2.67,Yes,High,22-24,1,Cluster 2,28.979948,-1.7800028
+STU_1294,21,Male,Undergraduate,Snapchat,Mobile,4.4,6.8,5.9,6.2,3.25,No,Medium,19-21,0,Cluster 1,0.04001385,-8.346472
+STU_1295,21,Female,Undergraduate,WhatsApp,Mobile,5.9,6.7,3.9,5.4,2.96,Yes,Low,19-21,0,Cluster 1,-3.449834,1.0165027
+STU_1296,19,Female,Undergraduate,Facebook,Mobile,6.3,5.9,4.6,6.4,2.59,No,Medium,19-21,0,Cluster 1,8.631954,19.948996
+STU_1297,16,Male,High School,YouTube,Mobile,5.8,6.9,6.7,5.6,2.44,Yes,Medium,16-18,0,Cluster 1,11.988761,-12.917878
+STU_1298,23,Female,Graduate,YouTube,Laptop,5.3,5.5,3.5,7.6,3.23,Yes,Low,22-24,0,Cluster 1,-4.4606795,16.115356
+STU_1299,17,Male,High School,Snapchat,Laptop,3.1,7.3,2.4,8.4,3.39,No,Low,16-18,2,Cluster 3,-35.58423,9.211582
+STU_1300,16,Male,High School,Instagram,Mobile,8.4,4.8,7.1,6.8,2.4,No,High,16-18,1,Cluster 2,29.279535,18.968678
+STU_1301,17,Female,High School,WhatsApp,Laptop,9.1,5.5,6.7,7.2,2.02,Yes,Medium,16-18,1,Cluster 2,27.096035,22.014498
+STU_1302,16,Female,High School,Snapchat,Tablet,2.1,8.9,3.1,7.9,3.38,No,Low,16-18,2,Cluster 3,-43.16861,-7.6065087
+STU_1303,16,Female,High School,TikTok,Mobile,3.5,8.1,5.5,7.8,3.4,Yes,Medium,16-18,2,Cluster 3,-25.623848,-8.070156
+STU_1304,24,Female,Graduate,Instagram,Mobile,4.9,5.1,8.0,5.5,2.49,No,High,22-24,1,Cluster 2,20.638363,2.960936
+STU_1305,16,Female,High School,TikTok,Mobile,3.6,9.2,2.6,8.5,3.51,Yes,Low,16-18,2,Cluster 3,-44.218185,-3.5262084
+STU_1306,19,Male,Undergraduate,TikTok,Laptop,6.5,6.6,7.8,6.2,2.56,Yes,High,19-21,0,Cluster 1,20.870838,-2.4215171
+STU_1307,21,Male,Undergraduate,Facebook,Laptop,4.0,6.8,2.7,8.5,3.44,No,Low,19-21,2,Cluster 3,-27.553444,11.033435
+STU_1308,22,Female,Graduate,TikTok,Mobile,9.8,5.2,9.3,6.5,2.41,Yes,High,22-24,1,Cluster 2,41.761665,9.633924
+STU_1309,17,Male,High School,TikTok,Mobile,7.9,6.0,7.7,4.0,2.54,Yes,High,16-18,1,Cluster 2,38.5663,-14.21448
+STU_1310,21,Male,Undergraduate,Twitter,Mobile,5.9,6.1,4.0,7.1,2.98,No,Low,19-21,0,Cluster 1,-1.1059524,14.861167
+STU_1311,22,Male,Graduate,Instagram,Mobile,7.6,6.1,9.2,4.3,1.9,Yes,High,22-24,1,Cluster 2,38.892895,-10.080267
+STU_1312,17,Male,High School,TikTok,Mobile,7.7,5.4,9.0,5.0,2.1,Yes,High,16-18,1,Cluster 2,40.615532,0.9691258
+STU_1313,17,Female,High School,Instagram,Laptop,4.4,6.9,5.0,8.3,2.99,Yes,Medium,16-18,0,Cluster 1,-18.449413,14.692983
+STU_1314,22,Female,Graduate,YouTube,Mobile,3.9,6.9,4.9,7.0,2.82,No,Medium,22-24,0,Cluster 1,-12.063377,-5.23777
+STU_1315,16,Female,High School,WhatsApp,Laptop,5.7,5.6,2.5,7.1,3.44,No,Low,16-18,0,Cluster 1,-2.7074473,16.651672
+STU_1316,23,Male,Graduate,Instagram,Laptop,7.2,6.2,5.9,7.3,2.86,No,Medium,22-24,0,Cluster 1,10.378667,13.318915
+STU_1317,18,Male,High School,Facebook,Mobile,5.8,7.2,2.4,9.3,3.61,No,Low,16-18,2,Cluster 3,-31.973019,16.713087
+STU_1318,21,Male,Undergraduate,Instagram,Mobile,2.3,8.5,2.7,6.5,3.7,No,Low,19-21,2,Cluster 3,-41.604004,-12.010797
+STU_1319,24,Male,Graduate,WhatsApp,Mobile,3.9,8.1,2.8,8.3,3.32,No,Low,22-24,2,Cluster 3,-33.57068,-0.6282527
+STU_1320,21,Female,Undergraduate,YouTube,Mobile,5.4,7.1,4.9,5.5,2.53,No,Medium,19-21,0,Cluster 1,-1.5743594,-10.94909
+STU_1321,24,Female,Graduate,YouTube,Mobile,5.3,6.4,4.9,6.4,2.81,No,Medium,22-24,0,Cluster 1,-3.6751378,4.43227
+STU_1322,22,Female,Graduate,Instagram,Mobile,9.4,5.9,7.6,4.5,2.44,Yes,High,22-24,1,Cluster 2,41.88297,-4.154567
+STU_1323,24,Male,Graduate,Twitter,Mobile,2.7,6.8,3.2,8.9,2.68,No,Low,22-24,2,Cluster 3,-31.43573,10.507521
+STU_1324,17,Female,High School,YouTube,Mobile,6.5,5.7,5.9,6.5,3.15,No,Medium,16-18,0,Cluster 1,20.18253,11.414861
+STU_1325,23,Female,Graduate,Instagram,Mobile,8.5,4.8,9.0,3.3,2.22,Yes,High,22-24,1,Cluster 2,48.315506,-3.8313413
+STU_1326,23,Female,Graduate,Facebook,Mobile,10.0,5.8,6.1,7.2,2.81,Yes,Medium,22-24,1,Cluster 2,27.37986,22.725449
+STU_1327,17,Female,High School,Instagram,Mobile,4.7,7.9,5.6,5.2,3.21,No,Medium,16-18,0,Cluster 1,-0.8609568,-22.92516
+STU_1328,19,Male,Undergraduate,Facebook,Mobile,6.5,6.8,4.0,7.9,2.89,No,Low,19-21,0,Cluster 1,2.0669417,8.58887
+STU_1329,22,Male,Graduate,Instagram,Mobile,6.6,7.2,6.4,5.3,2.82,No,Medium,22-24,0,Cluster 1,16.663013,-14.131408
+STU_1330,19,Male,Undergraduate,Snapchat,Mobile,5.9,5.9,6.2,5.9,2.64,Yes,Medium,19-21,0,Cluster 1,22.17385,8.614638
+STU_1331,19,Female,Undergraduate,TikTok,Mobile,5.3,7.2,6.3,6.7,2.6,No,Medium,19-21,0,Cluster 1,4.88164,-5.162079
+STU_1332,21,Male,Undergraduate,Instagram,Mobile,6.4,6.4,5.7,7.1,2.53,No,Medium,19-21,0,Cluster 1,8.602419,11.0459385
+STU_1333,21,Male,Undergraduate,Instagram,Mobile,1.0,9.3,2.3,10.0,3.88,No,Low,19-21,2,Cluster 3,-48.820995,2.9518766
+STU_1334,18,Male,High School,Instagram,Mobile,6.9,6.2,5.5,6.6,2.7,No,Medium,16-18,0,Cluster 1,11.197956,10.818239
+STU_1335,24,Male,Graduate,TikTok,Laptop,5.8,6.4,7.8,5.7,2.61,Yes,High,22-24,0,Cluster 1,18.608206,-2.5995224
+STU_1336,17,Female,High School,Instagram,Mobile,5.1,7.4,5.3,6.4,2.28,No,Medium,16-18,0,Cluster 1,-4.9051414,-12.933406
+STU_1337,21,Female,Undergraduate,TikTok,Mobile,9.6,5.9,10.0,4.2,2.35,Yes,High,19-21,1,Cluster 2,46.10691,-8.45245
+STU_1338,22,Male,Graduate,Instagram,Mobile,4.2,6.8,4.3,7.9,3.34,Yes,Medium,22-24,2,Cluster 3,-18.842745,11.116481
+STU_1339,24,Male,Graduate,Instagram,Mobile,4.7,7.1,4.7,7.1,2.98,No,Medium,22-24,0,Cluster 1,-14.139202,-2.5944905
+STU_1340,18,Male,High School,YouTube,Mobile,9.5,4.4,7.3,3.8,2.41,No,High,16-18,1,Cluster 2,47.50908,-0.034806337
+STU_1341,18,Male,High School,Instagram,Mobile,3.8,5.5,5.4,7.1,2.94,No,Medium,16-18,0,Cluster 1,-8.557985,11.701522
+STU_1342,22,Male,Graduate,WhatsApp,Mobile,4.4,7.4,2.3,9.0,4.0,No,Low,22-24,2,Cluster 3,-32.598038,14.56062
+STU_1343,19,Male,Undergraduate,Facebook,Mobile,5.2,7.4,4.8,6.4,2.41,No,Medium,19-21,0,Cluster 1,-5.760495,-12.421366
+STU_1344,23,Male,Graduate,Snapchat,Mobile,7.2,6.3,6.4,4.9,2.89,Yes,Medium,22-24,1,Cluster 2,25.33382,-11.608511
+STU_1345,22,Female,Graduate,TikTok,Mobile,5.9,5.1,4.8,8.6,2.67,No,Medium,22-24,0,Cluster 1,-5.094708,20.018948
+STU_1346,20,Female,Undergraduate,Facebook,Mobile,2.9,7.6,1.8,9.4,3.48,No,Low,19-21,2,Cluster 3,-38.912277,12.310634
+STU_1347,22,Male,Graduate,Instagram,Tablet,4.4,5.5,3.9,7.4,3.03,Yes,Low,22-24,0,Cluster 1,-6.1051846,14.557078
+STU_1348,18,Male,High School,Instagram,Mobile,4.3,8.4,5.0,5.9,2.78,No,Medium,16-18,0,Cluster 1,-12.837311,-20.17873
+STU_1349,17,Female,High School,Instagram,Mobile,5.3,6.0,4.6,6.4,2.97,No,Medium,16-18,0,Cluster 1,-3.56653,6.465091
+STU_1350,21,Male,Undergraduate,YouTube,Mobile,6.4,7.5,6.5,7.4,2.29,Yes,Medium,19-21,0,Cluster 1,8.369342,2.63416
+STU_1351,17,Female,High School,Instagram,Mobile,6.3,7.2,6.5,6.3,2.94,No,Medium,16-18,0,Cluster 1,12.563859,-4.794044
+STU_1352,18,Female,High School,TikTok,Mobile,1.9,7.5,3.4,7.4,2.65,Yes,Low,16-18,2,Cluster 3,-35.826256,-6.6557765
+STU_1353,21,Male,Undergraduate,LinkedIn,Mobile,7.6,5.0,5.3,7.4,3.02,No,Medium,19-21,0,Cluster 1,15.481172,22.905087
+STU_1354,20,Male,Undergraduate,Facebook,Mobile,6.0,6.9,5.8,5.7,2.66,No,Medium,19-21,0,Cluster 1,11.969115,-9.816333
+STU_1355,23,Female,Graduate,TikTok,Mobile,8.3,5.0,8.6,6.3,1.9,Yes,High,22-24,1,Cluster 2,40.234917,7.515904
+STU_1356,24,Male,Graduate,Instagram,Mobile,6.4,6.5,5.8,7.8,2.81,No,Medium,22-24,0,Cluster 1,6.8734846,9.868375
+STU_1357,18,Female,High School,Facebook,Mobile,7.7,5.5,4.4,6.9,2.54,No,Medium,16-18,0,Cluster 1,12.908791,23.03097
+STU_1358,18,Female,High School,TikTok,Laptop,6.4,5.0,6.5,5.5,2.65,Yes,Medium,16-18,1,Cluster 2,29.893637,11.782653
+STU_1359,18,Female,High School,Instagram,Mobile,8.2,3.9,7.4,2.9,2.03,No,High,16-18,1,Cluster 2,48.770706,-1.0763726
+STU_1360,21,Male,Undergraduate,Instagram,Mobile,6.5,6.6,6.8,4.4,2.71,No,Medium,19-21,1,Cluster 2,24.547632,-14.828674
+STU_1361,16,Female,High School,WhatsApp,Mobile,5.3,6.4,3.4,6.6,2.91,No,Low,16-18,0,Cluster 1,-6.4801145,6.900299
+STU_1362,22,Male,Graduate,Snapchat,Mobile,10.0,4.5,9.7,4.3,1.91,Yes,High,22-24,1,Cluster 2,50.81819,-5.6234746
+STU_1363,16,Female,High School,Facebook,Mobile,7.3,6.6,5.2,6.5,2.95,No,Medium,16-18,0,Cluster 1,12.519739,9.98079
+STU_1364,20,Female,Undergraduate,Facebook,Mobile,6.6,7.3,5.3,5.5,2.62,No,Medium,19-21,0,Cluster 1,14.223656,-9.682848
+STU_1365,23,Male,Graduate,TikTok,Mobile,2.9,7.6,5.5,6.4,2.79,No,Medium,22-24,0,Cluster 1,-19.604727,-13.355469
+STU_1366,19,Female,Undergraduate,TikTok,Mobile,2.9,7.6,4.7,7.7,2.5,No,Medium,19-21,2,Cluster 3,-26.021074,-5.2359104
+STU_1367,20,Female,Undergraduate,TikTok,Mobile,6.1,7.0,6.8,6.4,2.76,Yes,Medium,19-21,0,Cluster 1,12.625435,-2.9701643
+STU_1368,19,Male,Undergraduate,Instagram,Mobile,5.8,5.6,5.5,4.8,3.33,No,Medium,19-21,0,Cluster 1,25.806826,7.5252967
+STU_1369,19,Male,Undergraduate,TikTok,Laptop,4.3,7.5,4.8,7.0,3.78,Yes,Medium,19-21,0,Cluster 1,-18.411425,-6.7176313
+STU_1370,23,Male,Graduate,YouTube,Mobile,5.8,7.1,4.3,6.1,3.06,No,Medium,22-24,0,Cluster 1,-5.1996655,-0.14320728
+STU_1371,17,Male,High School,Snapchat,Mobile,8.7,6.1,7.4,6.5,2.7,Yes,High,16-18,1,Cluster 2,30.48585,0.8265331
+STU_1372,16,Male,High School,Facebook,Mobile,6.9,4.7,6.3,7.0,2.14,Yes,Medium,16-18,1,Cluster 2,19.109509,21.32493
+STU_1373,18,Female,High School,TikTok,Mobile,3.2,7.1,4.4,6.5,3.47,No,Medium,16-18,0,Cluster 1,-17.13131,-10.782127
+STU_1374,24,Male,Graduate,Snapchat,Laptop,5.3,6.2,3.9,6.9,3.34,No,Low,22-24,0,Cluster 1,-5.4755077,7.392563
+STU_1375,19,Male,Undergraduate,Snapchat,Mobile,3.9,7.5,5.9,6.0,2.6,No,Medium,19-21,0,Cluster 1,-6.933415,-20.854414
+STU_1376,20,Female,Undergraduate,TikTok,Mobile,4.7,7.5,6.1,4.1,3.07,Yes,Medium,19-21,0,Cluster 1,1.5014011,-24.641388
+STU_1377,17,Male,High School,Snapchat,Mobile,4.7,8.3,3.3,8.3,3.12,No,Low,16-18,2,Cluster 3,-33.389034,0.62108475
+STU_1378,19,Female,Undergraduate,Instagram,Mobile,4.5,6.8,4.7,6.9,2.82,No,Medium,19-21,0,Cluster 1,-12.429586,-0.8217371
+STU_1379,17,Male,High School,TikTok,Mobile,3.0,7.4,4.5,8.3,3.13,Yes,Medium,16-18,2,Cluster 3,-26.37423,-3.2131224
+STU_1380,17,Male,High School,Instagram,Mobile,5.2,7.8,7.4,4.5,2.15,Yes,High,16-18,0,Cluster 1,3.5289779,-23.552914
+STU_1381,19,Female,Undergraduate,TikTok,Mobile,4.4,7.5,4.4,6.7,3.32,No,Medium,19-21,0,Cluster 1,-15.067797,-9.168677
+STU_1382,21,Female,Undergraduate,TikTok,Mobile,1.0,9.6,3.8,6.2,2.8,No,Low,19-21,2,Cluster 3,-44.6176,-12.196514
+STU_1383,22,Female,Graduate,Snapchat,Mobile,9.6,5.4,10.0,3.0,1.68,Yes,High,22-24,1,Cluster 2,48.185978,-8.529228
+STU_1384,18,Female,High School,Twitter,Laptop,7.7,5.0,5.7,5.4,2.5,No,Medium,16-18,1,Cluster 2,32.00894,10.223628
+STU_1385,18,Female,High School,Snapchat,Laptop,4.7,6.0,4.5,8.3,3.21,No,Medium,16-18,0,Cluster 1,-10.265049,15.646144
+STU_1386,21,Male,Undergraduate,YouTube,Laptop,5.5,5.5,3.9,7.0,2.91,Yes,Low,19-21,0,Cluster 1,-3.267197,15.31849
+STU_1387,18,Male,High School,TikTok,Mobile,3.2,8.3,4.3,7.5,2.62,No,Medium,16-18,2,Cluster 3,-30.028822,-8.977079
+STU_1388,17,Female,High School,Snapchat,Mobile,8.9,6.4,8.1,4.8,2.16,No,High,16-18,1,Cluster 2,39.012466,-5.28931
+STU_1389,23,Female,Graduate,Instagram,Laptop,9.3,6.8,9.6,3.0,2.06,No,High,22-24,1,Cluster 2,45.540874,-12.251732
+STU_1390,20,Female,Undergraduate,Instagram,Mobile,5.8,7.3,7.2,5.5,2.14,Yes,High,19-21,0,Cluster 1,13.065705,-17.948486
+STU_1391,16,Male,High School,TikTok,Mobile,7.5,6.9,7.3,6.2,2.14,Yes,High,16-18,0,Cluster 1,25.419807,-3.5596592
+STU_1392,18,Male,High School,TikTok,Laptop,5.9,6.2,4.7,6.0,3.59,No,Medium,16-18,0,Cluster 1,-1.7439927,3.743218
+STU_1393,23,Female,Graduate,Instagram,Laptop,2.8,6.9,3.7,8.6,2.87,No,Low,22-24,2,Cluster 3,-31.092836,9.635501
+STU_1394,19,Male,Undergraduate,Instagram,Mobile,4.7,7.8,5.5,5.8,2.71,Yes,Medium,19-21,0,Cluster 1,-7.3047853,-18.957321
+STU_1395,22,Female,Graduate,Instagram,Mobile,5.8,7.0,6.4,5.7,2.54,No,Medium,22-24,0,Cluster 1,11.798362,-11.9965725
+STU_1396,17,Female,High School,Twitter,Mobile,4.6,7.2,3.5,8.4,3.04,Yes,Low,16-18,2,Cluster 3,-25.320383,12.8681345
+STU_1397,22,Male,Graduate,Instagram,Laptop,5.1,7.3,5.7,5.9,2.96,Yes,Medium,22-24,0,Cluster 1,1.0959249,-12.020702
+STU_1398,20,Female,Undergraduate,TikTok,Laptop,5.3,7.1,7.8,5.4,2.69,No,High,19-21,0,Cluster 1,14.395236,-18.938831
+STU_1399,20,Female,Undergraduate,Instagram,Mobile,5.3,7.9,6.2,6.0,2.6,Yes,Medium,19-21,0,Cluster 1,0.4732174,-17.884369
+STU_1400,21,Male,Undergraduate,Snapchat,Mobile,5.6,7.8,5.1,7.1,2.51,No,Medium,19-21,0,Cluster 1,-8.478686,-13.1398
+STU_1401,24,Female,Graduate,Instagram,Laptop,3.4,8.1,3.7,5.4,3.52,No,Low,22-24,2,Cluster 3,-17.40395,-18.914991
+STU_1402,21,Male,Undergraduate,Instagram,Mobile,4.1,8.1,4.6,5.4,2.95,No,Medium,19-21,0,Cluster 1,-15.019397,-19.31799
+STU_1403,23,Female,Graduate,TikTok,Mobile,2.9,8.2,6.0,7.0,3.24,No,Medium,22-24,2,Cluster 3,-24.04713,-11.451324
+STU_1404,22,Male,Graduate,Instagram,Tablet,7.5,5.6,7.3,6.7,1.82,Yes,High,22-24,1,Cluster 2,25.233595,18.091108
+STU_1405,24,Female,Graduate,Instagram,Mobile,1.3,9.1,2.5,7.6,3.41,No,Low,22-24,2,Cluster 3,-45.400288,-9.438754
+STU_1406,19,Male,Undergraduate,Instagram,Mobile,7.8,4.8,7.3,5.4,3.07,Yes,High,19-21,1,Cluster 2,36.10317,9.687313
+STU_1407,17,Male,High School,Instagram,Mobile,8.3,6.5,9.2,4.8,2.03,No,High,16-18,1,Cluster 2,38.226425,-6.7369876
+STU_1408,22,Female,Graduate,Instagram,Mobile,4.9,6.1,7.4,6.3,2.4,Yes,High,22-24,0,Cluster 1,17.625885,0.92242986
+STU_1409,21,Male,Undergraduate,Instagram,Laptop,1.0,8.8,2.8,6.3,3.39,No,Low,19-21,2,Cluster 3,-43.31732,-12.022837
+STU_1410,16,Male,High School,YouTube,Mobile,4.8,6.4,4.4,6.5,2.84,No,Medium,16-18,0,Cluster 1,-5.3424253,4.78781
+STU_1411,24,Female,Graduate,TikTok,Tablet,5.4,7.3,6.3,5.9,2.57,Yes,Medium,22-24,0,Cluster 1,5.4849715,-14.319738
+STU_1412,24,Female,Graduate,TikTok,Mobile,3.5,7.6,2.4,9.3,3.27,No,Low,22-24,2,Cluster 3,-37.530624,12.489191
+STU_1413,17,Female,High School,Instagram,Mobile,4.5,5.9,5.8,9.0,2.56,No,Medium,16-18,0,Cluster 1,-13.647979,19.178606
+STU_1414,18,Female,High School,WhatsApp,Mobile,8.6,5.9,6.5,5.9,3.0,Yes,Medium,16-18,1,Cluster 2,31.337759,3.4721875
+STU_1415,20,Male,Undergraduate,TikTok,Mobile,6.8,5.8,7.9,3.9,2.52,No,High,19-21,1,Cluster 2,36.043854,-15.034138
+STU_1416,20,Male,Undergraduate,Instagram,Mobile,3.7,8.2,3.7,8.2,3.21,No,Low,19-21,2,Cluster 3,-35.022526,-1.0754778
+STU_1417,16,Male,High School,Snapchat,Mobile,2.3,8.1,2.5,9.8,3.6,Yes,Low,16-18,2,Cluster 3,-44.446045,7.8624287
+STU_1418,23,Female,Graduate,Instagram,Mobile,4.8,7.4,5.0,7.1,2.83,No,Medium,22-24,0,Cluster 1,-14.92823,-4.308317
+STU_1419,23,Female,Graduate,Instagram,Mobile,5.1,6.2,6.6,5.1,2.38,No,Medium,22-24,0,Cluster 1,21.218655,-9.230846
+STU_1420,19,Female,Undergraduate,TikTok,Mobile,6.5,5.9,6.8,6.9,2.39,No,Medium,19-21,0,Cluster 1,19.745798,15.0247
+STU_1421,22,Female,Graduate,Facebook,Mobile,4.4,6.9,5.6,7.3,2.79,No,Medium,22-24,0,Cluster 1,-10.715121,-3.481582
+STU_1422,18,Male,High School,TikTok,Mobile,6.5,7.1,7.6,4.4,2.11,No,High,16-18,1,Cluster 2,21.73183,-17.31236
+STU_1423,21,Male,Undergraduate,Snapchat,Mobile,9.4,6.6,7.2,6.0,2.35,No,High,19-21,1,Cluster 2,30.361294,-0.9326784
+STU_1424,24,Male,Graduate,LinkedIn,Mobile,7.1,5.5,4.1,8.6,2.91,Yes,Medium,22-24,0,Cluster 1,-4.0412207,21.389093
+STU_1425,16,Female,High School,Instagram,Mobile,5.4,7.7,5.2,8.1,3.51,Yes,Medium,16-18,0,Cluster 1,-20.364021,-2.8336272
+STU_1426,20,Male,Undergraduate,Instagram,Mobile,5.1,5.2,3.4,7.9,2.35,No,Low,19-21,0,Cluster 1,-5.41182,16.365274
+STU_1427,19,Female,Undergraduate,TikTok,Mobile,4.8,6.1,7.4,5.2,2.41,No,High,19-21,0,Cluster 1,21.457893,-7.781877
+STU_1428,23,Male,Graduate,TikTok,Laptop,7.9,5.1,9.0,5.8,2.7,Yes,High,22-24,1,Cluster 2,41.04208,6.462834
+STU_1429,16,Male,High School,TikTok,Laptop,4.2,6.2,5.9,5.2,2.77,No,Medium,16-18,0,Cluster 1,-0.5900842,-4.799334
+STU_1430,24,Male,Graduate,WhatsApp,Mobile,5.6,5.5,4.1,8.0,3.28,No,Medium,22-24,0,Cluster 1,-4.817614,17.432411
+STU_1431,21,Female,Undergraduate,Snapchat,Mobile,5.6,7.1,4.1,6.2,3.09,No,Medium,19-21,0,Cluster 1,-5.6627984,-0.09543032
+STU_1432,19,Female,Undergraduate,Snapchat,Laptop,4.5,7.0,4.1,8.6,2.86,No,Medium,19-21,2,Cluster 3,-22.782753,14.077204
+STU_1433,24,Male,Graduate,Instagram,Mobile,2.8,8.2,4.5,7.0,2.31,No,Medium,22-24,2,Cluster 3,-29.95738,-10.977009
+STU_1434,20,Male,Undergraduate,Facebook,Laptop,6.1,7.1,3.9,8.9,3.17,No,Low,19-21,2,Cluster 3,-24.765316,18.83721
+STU_1435,20,Female,Undergraduate,Twitter,Laptop,5.4,7.1,2.0,9.3,3.21,No,Low,19-21,2,Cluster 3,-32.65762,16.243113
+STU_1436,20,Male,Undergraduate,Facebook,Laptop,6.5,6.9,5.0,5.8,2.66,No,Medium,19-21,0,Cluster 1,1.7666737,0.7489706
+STU_1437,16,Female,High School,Instagram,Mobile,4.4,7.2,4.9,8.5,2.77,No,Medium,16-18,2,Cluster 3,-20.137905,14.986494
+STU_1438,16,Female,High School,Snapchat,Mobile,7.9,4.9,7.5,7.1,2.98,Yes,High,16-18,1,Cluster 2,27.976439,18.843496
+STU_1439,23,Male,Graduate,Instagram,Mobile,3.7,8.3,5.2,7.7,3.58,No,Medium,22-24,2,Cluster 3,-26.439962,-8.567994
+STU_1440,23,Male,Graduate,Instagram,Mobile,8.9,5.0,9.3,3.7,2.2,Yes,High,22-24,1,Cluster 2,47.953644,-5.2718945
+STU_1441,21,Female,Undergraduate,Instagram,Mobile,2.0,7.4,3.4,7.7,3.06,Yes,Low,19-21,2,Cluster 3,-35.534286,-6.0337377
+STU_1442,19,Male,Undergraduate,Snapchat,Mobile,6.4,6.3,7.3,5.8,2.13,No,High,19-21,1,Cluster 2,19.815155,-1.5631802
+STU_1443,17,Male,High School,Snapchat,Mobile,6.5,5.7,4.6,6.5,3.11,Yes,Medium,16-18,0,Cluster 1,9.138186,20.231596
+STU_1444,17,Female,High School,Instagram,Laptop,3.9,7.1,5.1,8.6,3.41,No,Medium,16-18,2,Cluster 3,-19.692602,14.255324
+STU_1445,24,Female,Graduate,TikTok,Mobile,6.3,6.7,7.7,5.5,2.34,Yes,High,22-24,1,Cluster 2,17.22177,-18.12989
+STU_1446,20,Female,Undergraduate,TikTok,Laptop,8.1,6.1,7.2,3.0,1.79,Yes,High,19-21,1,Cluster 2,40.242054,-15.566788
+STU_1447,19,Female,Undergraduate,TikTok,Laptop,1.1,7.9,1.4,9.5,3.76,No,Low,19-21,2,Cluster 3,-47.069553,7.4660892
+STU_1448,16,Male,High School,Instagram,Mobile,6.5,6.0,6.0,6.1,3.02,No,Medium,16-18,0,Cluster 1,20.791267,8.679429
+STU_1449,22,Male,Graduate,TikTok,Mobile,1.0,9.5,2.1,8.6,2.94,No,Low,22-24,2,Cluster 3,-49.82648,0.18884857
+STU_1450,18,Female,High School,YouTube,Laptop,3.6,8.0,4.1,7.2,3.11,No,Medium,16-18,2,Cluster 3,-28.420244,-9.36582
+STU_1451,21,Female,Undergraduate,Instagram,Mobile,8.8,7.2,7.9,6.1,2.51,Yes,High,19-21,1,Cluster 2,28.14801,-3.0590699
+STU_1452,20,Male,Undergraduate,Instagram,Mobile,4.3,8.2,4.1,8.7,3.04,Yes,Medium,19-21,2,Cluster 3,-35.61152,0.9007736
+STU_1453,20,Female,Undergraduate,TikTok,Mobile,3.2,8.7,3.9,7.9,2.86,No,Low,19-21,2,Cluster 3,-32.82466,-8.547521
+STU_1454,20,Male,Undergraduate,WhatsApp,Mobile,5.1,5.8,4.7,6.8,3.26,No,Medium,19-21,0,Cluster 1,-3.6693382,7.9668736
+STU_1455,16,Male,High School,Snapchat,Mobile,9.6,5.8,8.7,4.7,2.11,Yes,High,16-18,1,Cluster 2,43.09729,-3.9033852
+STU_1456,16,Male,High School,Snapchat,Mobile,1.8,8.2,2.3,8.6,2.94,No,Low,16-18,2,Cluster 3,-43.27556,5.070337
+STU_1457,18,Male,High School,TikTok,Mobile,3.4,7.2,4.6,6.4,2.36,No,Medium,16-18,0,Cluster 1,-16.525854,-11.24165
+STU_1458,19,Male,Undergraduate,TikTok,Mobile,8.5,5.7,10.0,4.6,2.38,Yes,High,19-21,1,Cluster 2,42.371815,-8.488614
+STU_1459,20,Male,Undergraduate,Instagram,Mobile,9.2,6.1,8.1,5.6,2.52,Yes,High,19-21,1,Cluster 2,36.833138,-2.310877
+STU_1460,17,Male,High School,Snapchat,Mobile,5.3,7.3,6.6,7.6,2.65,Yes,Medium,16-18,0,Cluster 1,7.855709,1.216274
+STU_1461,23,Female,Graduate,WhatsApp,Mobile,3.0,7.1,2.1,10.0,3.28,No,Low,22-24,2,Cluster 3,-38.05773,13.903559
+STU_1462,17,Female,High School,Snapchat,Laptop,9.7,5.7,8.6,4.2,2.09,Yes,High,16-18,1,Cluster 2,44.269764,-4.868103
+STU_1463,24,Female,Graduate,Facebook,Mobile,8.7,5.0,9.5,5.1,1.78,Yes,High,22-24,1,Cluster 2,42.35766,0.01391619
+STU_1464,17,Female,High School,YouTube,Mobile,6.9,6.4,4.9,6.1,2.78,No,Medium,16-18,0,Cluster 1,0.20714663,3.8522406
+STU_1465,24,Male,Graduate,Instagram,Mobile,3.9,7.2,4.2,8.1,2.4,No,Medium,22-24,2,Cluster 3,-21.254395,11.985464
+STU_1466,22,Male,Graduate,WhatsApp,Mobile,5.4,6.7,2.6,7.9,3.11,No,Low,22-24,2,Cluster 3,-23.475542,10.510976
+STU_1467,23,Female,Graduate,Instagram,Mobile,5.2,7.5,6.6,5.0,2.52,No,Medium,22-24,0,Cluster 1,1.9291501,-23.247438
+STU_1468,17,Male,High School,TikTok,Laptop,6.2,5.7,8.6,5.1,2.43,No,High,16-18,1,Cluster 2,34.44434,-11.480183
+STU_1469,22,Female,Graduate,Instagram,Mobile,8.4,7.2,9.9,1.4,2.01,Yes,High,22-24,1,Cluster 2,45.2012,-13.483289
+STU_1470,21,Male,Undergraduate,Instagram,Laptop,7.3,4.6,8.5,3.1,2.5,Yes,High,19-21,1,Cluster 2,48.338715,-2.2736866
+STU_1471,19,Female,Undergraduate,TikTok,Mobile,3.3,7.2,4.5,7.1,3.4,Yes,Medium,19-21,2,Cluster 3,-16.913795,-7.89922
+STU_1472,22,Male,Graduate,Instagram,Mobile,8.3,6.0,7.7,5.4,2.72,Yes,High,22-24,1,Cluster 2,34.61361,0.16124299
+STU_1473,19,Female,Undergraduate,TikTok,Mobile,6.1,7.0,5.2,6.5,3.0,No,Medium,19-21,0,Cluster 1,3.900197,1.2686721
+STU_1474,17,Female,High School,TikTok,Laptop,6.9,6.2,9.5,2.7,2.09,Yes,High,16-18,1,Cluster 2,42.660805,-13.816717
+STU_1475,22,Female,Graduate,Instagram,Mobile,8.4,5.6,8.7,4.0,1.94,No,High,22-24,1,Cluster 2,43.536777,-7.092751
+STU_1476,23,Male,Graduate,Instagram,Mobile,3.3,8.0,3.6,8.2,3.37,Yes,Low,22-24,2,Cluster 3,-35.09583,-2.058303
+STU_1477,17,Female,High School,TikTok,Mobile,5.4,6.6,7.7,6.0,2.92,Yes,High,16-18,0,Cluster 1,17.385984,-2.1102052
+STU_1478,20,Female,Undergraduate,Instagram,Mobile,4.4,8.3,4.1,7.5,3.17,No,Medium,19-21,2,Cluster 3,-29.463675,-7.045253
+STU_1479,16,Female,High School,YouTube,Mobile,2.4,8.7,2.8,9.5,3.87,No,Low,16-18,2,Cluster 3,-43.76685,0.9817569
+STU_1480,22,Female,Graduate,Snapchat,Mobile,6.2,7.2,5.8,6.9,2.3,No,Medium,22-24,0,Cluster 1,5.9124413,2.3312297
+STU_1481,23,Female,Graduate,Facebook,Mobile,10.5,4.0,9.1,3.8,1.82,Yes,High,22-24,1,Cluster 2,51.93308,-5.6033635
+STU_1482,21,Male,Undergraduate,Snapchat,Mobile,1.8,8.2,2.4,8.3,3.63,No,Low,19-21,2,Cluster 3,-42.762196,4.6629777
+STU_1483,20,Female,Undergraduate,TikTok,Mobile,5.4,6.6,4.9,5.7,3.0,Yes,Medium,19-21,0,Cluster 1,-1.6467162,-0.6875264
+STU_1484,21,Female,Undergraduate,Snapchat,Laptop,6.8,5.5,6.5,6.0,3.02,No,Medium,19-21,1,Cluster 2,26.87846,11.782117
+STU_1485,17,Female,High School,Instagram,Laptop,5.7,7.0,7.1,6.8,2.51,Yes,High,16-18,0,Cluster 1,10.843782,-1.4524423
+STU_1486,16,Male,High School,Instagram,Laptop,5.3,6.5,5.7,7.3,2.52,No,Medium,16-18,0,Cluster 1,3.8283165,11.467297
+STU_1487,22,Male,Graduate,YouTube,Mobile,2.9,8.4,3.6,9.2,3.09,No,Low,22-24,2,Cluster 3,-40.41317,-0.42164147
+STU_1488,22,Female,Graduate,TikTok,Mobile,6.0,5.8,5.7,6.3,2.31,Yes,Medium,22-24,0,Cluster 1,21.200455,10.293623
+STU_1489,17,Female,High School,YouTube,Mobile,4.0,8.8,3.7,9.1,2.8,No,Low,16-18,2,Cluster 3,-39.370636,0.23576519
+STU_1490,17,Male,High School,Facebook,Mobile,1.1,7.8,1.0,9.2,3.91,No,Low,16-18,2,Cluster 3,-46.845936,7.9255137
+STU_1491,16,Female,High School,Facebook,Mobile,7.9,6.0,7.1,7.2,2.79,Yes,High,16-18,1,Cluster 2,24.266373,20.039259
+STU_1492,23,Male,Graduate,WhatsApp,Mobile,7.4,6.7,5.5,6.7,2.93,Yes,Medium,22-24,0,Cluster 1,12.37562,9.390299
+STU_1493,23,Male,Graduate,TikTok,Mobile,5.6,6.3,7.2,6.4,1.99,Yes,High,22-24,0,Cluster 1,16.779764,-0.38430893
+STU_1494,16,Male,High School,Instagram,Mobile,6.0,7.3,7.4,7.1,2.37,Yes,High,16-18,0,Cluster 1,10.221483,0.59734637
+STU_1495,23,Male,Graduate,TikTok,Laptop,7.6,5.0,8.8,4.5,1.85,No,High,22-24,1,Cluster 2,43.289124,2.710734
+STU_1496,24,Female,Graduate,TikTok,Mobile,5.9,7.8,7.0,6.0,2.89,Yes,Medium,22-24,0,Cluster 1,3.707766,-18.05487
+STU_1497,19,Male,Undergraduate,Snapchat,Mobile,7.3,6.1,5.8,7.8,2.57,No,Medium,19-21,0,Cluster 1,10.739049,14.601636
+STU_1498,16,Female,High School,Snapchat,Mobile,4.9,6.6,4.9,6.9,2.59,Yes,Medium,16-18,0,Cluster 1,-11.05357,-0.39722633
+STU_1499,16,Female,High School,Snapchat,Mobile,8.1,5.5,7.0,4.5,2.56,Yes,Medium,16-18,1,Cluster 2,40.217617,2.9715192
+STU_1500,18,Female,High School,TikTok,Mobile,6.1,7.2,6.6,8.2,2.43,Yes,Medium,16-18,0,Cluster 1,6.733999,6.0224485
+STU_1501,20,Female,Undergraduate,Instagram,Laptop,5.9,6.2,5.8,6.0,3.19,Yes,Medium,19-21,0,Cluster 1,20.4131,6.5605664
+STU_1502,20,Male,Undergraduate,TikTok,Laptop,3.0,7.2,3.4,8.1,2.97,No,Low,19-21,2,Cluster 3,-31.260233,7.9887004
+STU_1503,24,Female,Graduate,Instagram,Mobile,6.1,6.4,4.4,8.5,2.59,No,Medium,22-24,0,Cluster 1,-10.634824,19.52655
+STU_1504,17,Female,High School,Facebook,Laptop,3.8,6.5,2.4,8.0,2.72,No,Low,16-18,2,Cluster 3,-27.710257,9.701592
+STU_1505,17,Male,High School,Instagram,Tablet,4.2,8.8,5.1,5.9,2.88,No,Medium,16-18,2,Cluster 3,-13.397427,-21.223795
+STU_1506,21,Female,Undergraduate,Instagram,Laptop,3.9,7.0,3.2,8.3,3.05,No,Low,19-21,2,Cluster 3,-26.73526,11.318563
+STU_1507,24,Female,Graduate,Instagram,Laptop,3.4,8.3,4.2,5.7,2.61,No,Medium,22-24,2,Cluster 3,-17.369955,-19.978725
+STU_1508,16,Female,High School,Snapchat,Mobile,9.7,5.3,10.0,3.7,2.36,Yes,High,16-18,1,Cluster 2,48.399136,-7.4677305
+STU_1509,24,Female,Graduate,Snapchat,Mobile,8.2,4.9,8.6,5.1,2.46,Yes,High,22-24,1,Cluster 2,42.740997,1.8513119
+STU_1510,24,Female,Graduate,Instagram,Mobile,9.3,5.3,10.0,3.7,1.99,Yes,High,22-24,1,Cluster 2,47.921448,-7.073093
+STU_1511,24,Male,Graduate,Instagram,Mobile,3.1,8.4,4.3,5.9,3.43,No,Medium,22-24,2,Cluster 3,-18.11907,-20.2988
+STU_1512,20,Female,Undergraduate,TikTok,Tablet,5.6,6.6,7.7,7.0,2.62,Yes,High,19-21,0,Cluster 1,12.323008,0.058933415
+STU_1513,24,Female,Graduate,Instagram,Mobile,2.9,8.8,3.1,8.2,2.99,No,Low,22-24,2,Cluster 3,-42.53633,-5.4889255
+STU_1514,19,Male,Undergraduate,Snapchat,Mobile,4.1,8.2,3.6,9.2,2.83,No,Low,19-21,2,Cluster 3,-38.085876,0.9229007
+STU_1515,17,Male,High School,Snapchat,Laptop,3.7,8.3,1.2,9.0,3.83,No,Low,16-18,2,Cluster 3,-42.058548,11.019095
+STU_1516,21,Male,Undergraduate,TikTok,Laptop,8.0,5.4,9.6,3.4,2.2,Yes,High,19-21,1,Cluster 2,44.1714,-9.9824915
+STU_1517,19,Female,Undergraduate,Instagram,Tablet,4.7,6.3,6.8,6.2,2.63,Yes,Medium,19-21,0,Cluster 1,17.048063,1.1535857
+STU_1518,21,Female,Undergraduate,LinkedIn,Mobile,7.6,5.5,4.1,7.4,2.82,Yes,Medium,19-21,0,Cluster 1,13.163886,23.775867
+STU_1519,18,Male,High School,TikTok,Mobile,6.7,6.5,7.1,4.6,2.7,No,High,16-18,1,Cluster 2,25.759287,-14.448744
+STU_1520,21,Female,Undergraduate,Snapchat,Mobile,10.1,5.4,8.3,6.5,2.07,Yes,High,19-21,1,Cluster 2,41.698387,10.298677
+STU_1521,17,Male,High School,Instagram,Mobile,2.5,6.2,3.9,7.0,3.06,Yes,Low,16-18,2,Cluster 3,-18.795935,5.1544175
+STU_1522,17,Female,High School,TikTok,Mobile,8.0,5.8,9.5,2.4,2.52,Yes,High,16-18,1,Cluster 2,43.634785,-12.942247
+STU_1523,24,Female,Graduate,Instagram,Mobile,7.8,6.0,6.0,7.7,2.52,No,Medium,22-24,0,Cluster 1,11.43301,15.045175
+STU_1524,22,Female,Graduate,TikTok,Laptop,3.6,7.4,5.3,6.3,2.38,No,Medium,22-24,0,Cluster 1,-14.9941225,-13.487862
+STU_1525,18,Male,High School,Twitter,Mobile,7.5,7.0,5.9,5.8,2.42,No,Medium,16-18,0,Cluster 1,15.916286,-6.9870214
+STU_1526,16,Male,High School,TikTok,Mobile,6.2,6.9,7.1,4.0,2.83,Yes,High,16-18,1,Cluster 2,23.565191,-16.562265
+STU_1527,23,Male,Graduate,Instagram,Mobile,5.0,8.0,6.0,8.1,2.8,No,Medium,22-24,0,Cluster 1,-21.479656,-2.3509622
+STU_1528,21,Male,Undergraduate,Instagram,Mobile,3.9,7.3,4.4,6.1,2.97,No,Medium,19-21,0,Cluster 1,-15.656248,-12.276836
+STU_1529,22,Female,Graduate,TikTok,Mobile,4.1,8.1,5.1,7.0,2.72,No,Medium,22-24,2,Cluster 3,-25.134558,-10.089041
+STU_1530,24,Female,Graduate,Instagram,Laptop,9.6,6.5,9.0,5.5,2.33,Yes,High,22-24,1,Cluster 2,37.799824,-3.7589743
+STU_1531,20,Female,Undergraduate,Instagram,Mobile,5.5,7.8,6.9,6.3,2.31,Yes,Medium,19-21,0,Cluster 1,3.0021088,-17.164732
+STU_1532,16,Female,High School,YouTube,Laptop,7.1,5.3,6.6,6.0,2.71,Yes,Medium,16-18,1,Cluster 2,27.691183,12.245979
+STU_1533,22,Female,Graduate,TikTok,Mobile,3.9,7.2,5.4,5.1,2.62,Yes,Medium,22-24,0,Cluster 1,-3.8291972,-19.759619
+STU_1534,20,Female,Undergraduate,Instagram,Laptop,3.9,7.1,3.4,7.2,2.92,No,Low,19-21,2,Cluster 3,-24.752897,5.8664317
+STU_1535,18,Female,High School,WhatsApp,Mobile,7.7,6.3,5.3,7.0,2.66,No,Medium,16-18,0,Cluster 1,10.931527,12.1221695
+STU_1536,24,Female,Graduate,Instagram,Mobile,2.8,8.4,4.6,6.4,2.85,No,Medium,22-24,2,Cluster 3,-30.09813,-12.917866
+STU_1537,16,Male,High School,Twitter,Mobile,4.7,6.5,4.0,7.8,3.07,No,Low,16-18,0,Cluster 1,-16.759642,10.37923
+STU_1538,16,Male,High School,Instagram,Laptop,5.6,6.8,6.6,6.7,2.68,Yes,Medium,16-18,0,Cluster 1,7.906449,-2.9866047
+STU_1539,16,Male,High School,Facebook,Mobile,5.7,5.1,6.3,7.2,1.55,Yes,Medium,16-18,0,Cluster 1,17.955938,18.603985
+STU_1540,18,Female,High School,Snapchat,Mobile,5.1,8.1,6.2,5.1,2.45,Yes,Medium,16-18,0,Cluster 1,0.59293395,-22.340155
+STU_1541,21,Female,Undergraduate,Facebook,Tablet,6.3,6.1,5.1,9.1,2.76,Yes,Medium,19-21,0,Cluster 1,-11.250598,21.61621
+STU_1542,18,Male,High School,LinkedIn,Laptop,6.9,6.3,3.5,8.7,3.62,Yes,Low,16-18,0,Cluster 1,-9.323399,21.822327
+STU_1543,23,Female,Graduate,Instagram,Mobile,7.0,6.0,4.5,7.3,2.66,Yes,Medium,22-24,0,Cluster 1,6.4328604,16.78726
+STU_1544,17,Female,High School,Twitter,Mobile,3.5,8.5,2.9,9.4,3.34,No,Low,16-18,2,Cluster 3,-41.0349,0.670182
+STU_1545,24,Male,Graduate,TikTok,Mobile,4.9,4.8,5.6,9.0,3.24,No,Medium,22-24,0,Cluster 1,-5.9966288,20.871016
+STU_1546,18,Male,High School,TikTok,Mobile,7.9,5.8,8.7,3.3,1.84,Yes,High,16-18,1,Cluster 2,41.15099,-13.226622
+STU_1547,20,Female,Undergraduate,Instagram,Mobile,7.3,6.0,7.2,5.5,2.63,Yes,High,19-21,1,Cluster 2,33.682587,3.003446
+STU_1548,23,Female,Graduate,TikTok,Laptop,2.8,7.5,3.9,5.3,2.86,Yes,Low,22-24,2,Cluster 3,-17.582136,-16.066586
+STU_1549,17,Female,High School,Instagram,Laptop,6.2,7.9,4.7,7.4,2.81,No,Medium,16-18,0,Cluster 1,-9.086903,-11.625528
+STU_1550,21,Female,Undergraduate,TikTok,Mobile,1.5,7.7,2.3,9.0,3.15,No,Low,19-21,2,Cluster 3,-44.474255,6.1498184
+STU_1551,20,Female,Undergraduate,TikTok,Mobile,5.6,7.4,7.0,5.8,2.33,Yes,Medium,19-21,0,Cluster 1,6.4721594,-16.456999
+STU_1552,24,Female,Graduate,YouTube,Mobile,9.3,5.6,9.7,3.6,2.88,No,High,22-24,1,Cluster 2,47.143448,-7.791103
+STU_1553,20,Female,Undergraduate,Facebook,Tablet,3.6,8.6,2.8,6.3,3.55,No,Low,19-21,2,Cluster 3,-38.777035,-12.43934
+STU_1554,17,Female,High School,TikTok,Tablet,3.8,6.9,5.4,7.1,3.16,No,Medium,16-18,0,Cluster 1,-11.070417,-4.9155517
+STU_1555,20,Male,Undergraduate,Instagram,Mobile,7.0,5.6,8.1,6.6,2.49,Yes,High,19-21,1,Cluster 2,25.808807,16.380278
+STU_1556,19,Male,Undergraduate,Instagram,Laptop,2.4,8.9,2.6,7.8,2.85,No,Low,19-21,2,Cluster 3,-42.79037,-6.8492675
+STU_1557,22,Male,Graduate,Instagram,Mobile,4.2,7.6,5.3,7.3,2.97,No,Medium,22-24,0,Cluster 1,-21.027285,-6.923162
+STU_1558,21,Female,Undergraduate,Instagram,Mobile,6.7,5.1,6.1,4.8,3.02,Yes,Medium,19-21,1,Cluster 2,30.305056,9.987332
+STU_1559,17,Female,High School,Instagram,Mobile,4.2,6.9,5.7,7.0,2.51,No,Medium,16-18,0,Cluster 1,-10.413791,-4.215
+STU_1560,20,Female,Undergraduate,Instagram,Mobile,5.0,7.3,5.7,6.2,3.07,No,Medium,19-21,0,Cluster 1,1.8018087,-11.807111
+STU_1561,22,Male,Graduate,Twitter,Mobile,7.0,6.9,6.1,5.6,2.92,Yes,Medium,22-24,0,Cluster 1,15.772964,-7.796423
+STU_1562,22,Male,Graduate,TikTok,Mobile,6.3,5.9,6.3,5.5,3.22,Yes,Medium,22-24,0,Cluster 1,23.160284,7.607677
+STU_1563,20,Male,Undergraduate,Instagram,Mobile,6.0,4.3,7.0,5.4,2.41,Yes,Medium,19-21,1,Cluster 2,32.5211,14.24934
+STU_1564,24,Male,Graduate,TikTok,Laptop,4.8,7.5,7.9,5.6,2.04,No,High,22-24,0,Cluster 1,11.415914,-20.019608
+STU_1565,19,Female,Undergraduate,Instagram,Mobile,6.2,5.5,5.5,5.4,2.7,Yes,Medium,19-21,0,Cluster 1,25.008072,8.634468
+STU_1566,18,Male,High School,TikTok,Mobile,5.3,5.3,5.9,6.1,3.18,No,Medium,16-18,0,Cluster 1,22.305943,12.203946
+STU_1567,19,Male,Undergraduate,Snapchat,Mobile,6.4,4.2,6.4,6.1,2.11,Yes,Medium,19-21,1,Cluster 2,32.02152,15.483167
+STU_1568,20,Female,Undergraduate,TikTok,Mobile,4.5,7.8,6.4,5.1,2.03,Yes,Medium,19-21,0,Cluster 1,0.39267075,-23.029963
+STU_1569,21,Male,Undergraduate,TikTok,Mobile,5.1,7.0,5.5,8.5,2.83,No,Medium,19-21,0,Cluster 1,-18.460302,16.041828
+STU_1570,18,Male,High School,LinkedIn,Mobile,3.5,7.4,1.0,8.5,3.49,Yes,Low,16-18,2,Cluster 3,-38.96639,10.038395
+STU_1571,17,Female,High School,Facebook,Mobile,5.4,7.9,5.7,5.9,2.78,No,Medium,16-18,0,Cluster 1,-0.6493297,-17.823252
+STU_1572,19,Male,Undergraduate,Snapchat,Mobile,3.9,8.0,4.9,6.1,3.21,Yes,Medium,19-21,0,Cluster 1,-14.083338,-16.962465
+STU_1573,20,Female,Undergraduate,TikTok,Mobile,3.3,9.0,2.9,10.0,3.12,No,Low,19-21,2,Cluster 3,-44.399857,-0.061874688
+STU_1574,19,Female,Undergraduate,Snapchat,Mobile,6.0,5.5,5.2,7.4,2.3,No,Medium,19-21,0,Cluster 1,12.886521,18.611294
+STU_1575,18,Female,High School,Instagram,Mobile,5.9,6.6,7.8,4.4,3.01,No,High,16-18,1,Cluster 2,25.619253,-16.932356
+STU_1576,23,Male,Graduate,TikTok,Mobile,7.1,4.9,9.1,5.6,1.86,No,High,22-24,1,Cluster 2,42.2924,6.422029
+STU_1577,19,Female,Undergraduate,Instagram,Mobile,4.6,7.0,6.1,6.5,2.38,Yes,Medium,19-21,0,Cluster 1,1.1242527,-8.296987
+STU_1578,17,Male,High School,TikTok,Laptop,6.3,6.3,6.9,6.1,2.89,Yes,Medium,16-18,0,Cluster 1,19.51804,-0.8305339
+STU_1579,17,Male,High School,TikTok,Mobile,6.6,6.9,7.4,5.2,2.36,Yes,High,16-18,1,Cluster 2,18.995693,-17.495176
+STU_1580,16,Male,High School,Instagram,Mobile,6.4,6.5,6.5,5.4,2.61,Yes,Medium,16-18,0,Cluster 1,20.744694,-12.685626
+STU_1581,19,Female,Undergraduate,Twitter,Laptop,3.8,8.0,4.4,7.7,3.15,Yes,Medium,19-21,2,Cluster 3,-28.266874,-7.3581967
+STU_1582,24,Male,Graduate,WhatsApp,Mobile,5.8,7.2,3.3,7.5,3.54,No,Low,22-24,0,Cluster 1,-14.468491,1.7676945
+STU_1583,22,Male,Graduate,YouTube,Mobile,6.2,8.2,4.7,9.0,2.86,No,Medium,22-24,2,Cluster 3,-28.503584,20.237093
+STU_1584,22,Female,Graduate,TikTok,Laptop,5.5,6.5,7.4,4.3,2.92,Yes,High,22-24,1,Cluster 2,25.064362,-17.461926
+STU_1585,22,Male,Graduate,Facebook,Laptop,1.3,7.7,1.0,10.0,2.98,Yes,Low,22-24,2,Cluster 3,-47.654995,8.743707
+STU_1586,23,Male,Graduate,Instagram,Tablet,5.8,6.9,7.5,5.4,2.67,Yes,High,22-24,0,Cluster 1,15.912144,-17.92043
+STU_1587,16,Male,High School,YouTube,Mobile,9.9,4.4,7.8,5.6,2.15,Yes,High,16-18,1,Cluster 2,46.10411,2.8744512
+STU_1588,23,Male,Graduate,Instagram,Mobile,4.8,8.3,5.3,7.7,3.26,No,Medium,22-24,2,Cluster 3,-23.69439,-7.618939
+STU_1589,19,Male,Undergraduate,YouTube,Mobile,4.0,7.2,2.8,7.7,3.34,No,Low,19-21,2,Cluster 3,-26.551254,7.2308917
+STU_1590,19,Male,Undergraduate,Instagram,Mobile,6.2,6.0,6.5,7.0,2.43,Yes,Medium,19-21,0,Cluster 1,18.905836,14.693187
+STU_1591,19,Female,Undergraduate,Facebook,Mobile,6.1,6.2,3.4,5.2,3.38,No,Low,19-21,0,Cluster 1,-2.998511,1.6935259
+STU_1592,21,Male,Undergraduate,WhatsApp,Mobile,7.9,6.4,5.3,6.1,3.11,No,Medium,19-21,0,Cluster 1,15.145781,8.987354
+STU_1593,22,Male,Graduate,Instagram,Laptop,3.0,7.7,2.5,7.6,3.55,No,Low,22-24,2,Cluster 3,-34.368435,6.1021247
+STU_1594,21,Female,Undergraduate,TikTok,Mobile,7.0,5.7,8.3,3.8,2.0,No,High,19-21,1,Cluster 2,36.613934,-14.436338
+STU_1595,16,Male,High School,LinkedIn,Mobile,6.7,7.7,4.6,7.0,2.83,No,Medium,16-18,0,Cluster 1,-8.719776,-11.092201
+STU_1596,23,Female,Graduate,TikTok,Mobile,5.2,6.2,4.4,7.7,3.0,No,Medium,22-24,0,Cluster 1,-11.37632,14.275367
+STU_1597,22,Male,Graduate,Facebook,Mobile,6.2,6.6,6.3,6.9,2.66,Yes,Medium,22-24,0,Cluster 1,9.424768,7.9100165
+STU_1598,21,Male,Undergraduate,TikTok,Mobile,7.6,6.5,10.0,4.2,2.22,Yes,High,19-21,1,Cluster 2,40.14822,-10.015693
+STU_1599,21,Male,Undergraduate,TikTok,Mobile,7.2,4.8,7.8,4.6,1.78,No,High,19-21,1,Cluster 2,42.513126,3.924045
+STU_1600,20,Male,Undergraduate,Instagram,Mobile,3.2,8.1,3.4,8.3,3.28,Yes,Low,19-21,2,Cluster 3,-35.912823,-1.8348418
+STU_1601,21,Male,Undergraduate,Instagram,Mobile,7.1,5.3,10.0,4.1,1.91,Yes,High,19-21,1,Cluster 2,42.632275,-10.667733
+STU_1602,24,Male,Graduate,YouTube,Laptop,5.4,7.5,3.5,8.8,2.92,No,Low,22-24,2,Cluster 3,-27.097963,18.120039
+STU_1603,24,Male,Graduate,TikTok,Laptop,5.6,6.0,6.5,6.9,2.4,Yes,Medium,22-24,0,Cluster 1,18.281132,14.620894
+STU_1604,23,Male,Graduate,TikTok,Mobile,5.6,7.3,6.7,6.0,2.53,Yes,Medium,22-24,0,Cluster 1,6.0546007,-15.403186
+STU_1605,24,Male,Graduate,TikTok,Mobile,5.2,7.8,7.5,4.6,1.5,Yes,High,22-24,0,Cluster 1,3.60724,-23.322474
+STU_1606,23,Male,Graduate,TikTok,Laptop,7.9,6.5,8.7,4.1,2.03,Yes,High,22-24,1,Cluster 2,38.998676,-8.706654
+STU_1607,23,Male,Graduate,Facebook,Laptop,5.3,7.1,3.8,7.2,2.86,Yes,Low,22-24,0,Cluster 1,-13.43728,1.8997872
+STU_1608,16,Male,High School,LinkedIn,Mobile,3.3,7.5,1.0,9.1,3.78,No,Low,16-18,2,Cluster 3,-39.343697,11.057193
+STU_1609,20,Female,Undergraduate,TikTok,Mobile,4.7,6.7,5.4,7.0,2.58,No,Medium,19-21,0,Cluster 1,-10.672363,-2.1757946
+STU_1610,19,Male,Undergraduate,Facebook,Mobile,5.9,7.8,3.7,8.5,3.07,Yes,Low,19-21,2,Cluster 3,-27.442295,19.146645
+STU_1611,17,Female,High School,YouTube,Laptop,8.0,5.3,6.9,5.8,3.02,Yes,Medium,16-18,1,Cluster 2,35.011513,6.243012
+STU_1612,23,Female,Graduate,TikTok,Tablet,6.7,5.5,6.8,5.9,2.87,No,Medium,22-24,1,Cluster 2,26.605734,12.225908
+STU_1613,18,Male,High School,Twitter,Mobile,3.8,8.0,1.7,9.1,3.76,No,Low,16-18,2,Cluster 3,-41.108757,11.353235
+STU_1614,19,Female,Undergraduate,Instagram,Laptop,10.5,4.2,10.0,3.5,1.85,No,High,19-21,1,Cluster 2,51.845623,-6.374341
+STU_1615,22,Female,Graduate,Instagram,Mobile,6.0,5.8,5.8,5.6,2.91,No,Medium,22-24,0,Cluster 1,23.374968,8.504449
+STU_1616,24,Male,Graduate,Facebook,Tablet,8.1,4.6,5.2,5.1,2.8,No,Medium,22-24,1,Cluster 2,32.99282,10.271523
+STU_1617,17,Male,High School,TikTok,Mobile,5.2,6.5,6.0,5.7,2.66,Yes,Medium,16-18,0,Cluster 1,8.065717,-10.830195
+STU_1618,18,Female,High School,Facebook,Laptop,6.6,6.3,5.3,7.3,2.96,No,Medium,16-18,0,Cluster 1,8.114111,12.822229
+STU_1619,19,Female,Undergraduate,Facebook,Mobile,7.2,6.3,4.0,6.9,2.9,No,Low,19-21,0,Cluster 1,4.88362,16.483797
+STU_1620,16,Male,High School,Instagram,Mobile,7.9,6.6,8.2,4.9,2.78,No,High,16-18,1,Cluster 2,36.42112,-6.330929
+STU_1621,22,Male,Graduate,Facebook,Mobile,7.6,6.4,5.0,7.4,2.84,No,Medium,22-24,0,Cluster 1,8.941243,14.387027
+STU_1622,17,Male,High School,TikTok,Tablet,7.2,5.9,9.5,4.8,2.27,Yes,High,16-18,1,Cluster 2,37.386147,-9.801368
+STU_1623,20,Male,Undergraduate,TikTok,Laptop,4.9,6.9,6.4,5.1,3.08,Yes,Medium,19-21,0,Cluster 1,10.5896225,-15.101387
+STU_1624,16,Female,High School,Snapchat,Laptop,4.4,7.7,4.1,8.5,3.37,No,Medium,16-18,2,Cluster 3,-33.42689,2.2797265
+STU_1625,18,Male,High School,WhatsApp,Laptop,6.2,7.6,3.7,8.9,2.71,No,Low,16-18,2,Cluster 3,-26.77932,19.430483
+STU_1626,17,Male,High School,Instagram,Mobile,7.4,6.2,7.3,4.5,2.62,Yes,High,16-18,1,Cluster 2,28.570503,-13.333359
+STU_1627,16,Female,High School,TikTok,Mobile,5.1,6.6,6.7,5.2,2.86,Yes,Medium,16-18,0,Cluster 1,11.913861,-15.01134
+STU_1628,22,Male,Graduate,Snapchat,Mobile,7.6,5.2,7.1,6.9,2.79,Yes,High,22-24,1,Cluster 2,26.78597,18.648638
+STU_1629,20,Male,Undergraduate,YouTube,Mobile,8.4,4.5,7.0,5.6,2.2,Yes,Medium,19-21,1,Cluster 2,35.64551,11.026265
+STU_1630,16,Female,High School,Snapchat,Mobile,3.7,8.1,4.0,5.4,2.88,No,Low,16-18,2,Cluster 3,-16.531702,-19.325008
+STU_1631,21,Female,Undergraduate,Instagram,Mobile,3.8,7.9,4.0,6.2,3.39,No,Low,19-21,2,Cluster 3,-19.032999,-18.368515
+STU_1632,20,Male,Undergraduate,Instagram,Mobile,5.2,7.4,5.3,6.6,2.61,No,Medium,19-21,0,Cluster 1,-5.6654162,-13.2526245
+STU_1633,18,Female,High School,TikTok,Mobile,6.1,6.5,4.8,6.0,2.84,Yes,Medium,16-18,0,Cluster 1,-0.8985844,2.6403835
+STU_1634,22,Male,Graduate,YouTube,Mobile,4.5,8.3,5.0,6.6,3.37,No,Medium,22-24,2,Cluster 3,-11.3349,-18.34668
+STU_1635,24,Male,Graduate,Instagram,Mobile,8.2,5.3,8.4,5.0,2.28,Yes,High,22-24,1,Cluster 2,41.579597,1.5316234
+STU_1636,24,Female,Graduate,Instagram,Tablet,6.3,7.2,5.8,8.0,2.54,No,Medium,22-24,0,Cluster 1,5.6470814,6.720234
+STU_1637,24,Male,Graduate,Twitter,Laptop,5.6,6.7,6.6,5.8,2.36,No,Medium,22-24,0,Cluster 1,10.751507,-12.034159
+STU_1638,17,Male,High School,Instagram,Tablet,2.6,7.5,3.7,8.9,3.24,Yes,Low,16-18,2,Cluster 3,-36.74218,4.6790075
+STU_1639,18,Male,High School,LinkedIn,Mobile,2.9,8.3,1.0,10.0,3.22,Yes,Low,16-18,2,Cluster 3,-44.27787,10.526753
+STU_1640,22,Male,Graduate,Snapchat,Mobile,6.1,6.9,6.7,7.4,2.52,Yes,Medium,22-24,0,Cluster 1,8.994844,4.403084
+STU_1641,20,Male,Undergraduate,Facebook,Laptop,1.2,8.8,1.4,9.5,3.65,No,Low,19-21,2,Cluster 3,-48.978897,4.7315283
+STU_1642,17,Male,High School,Instagram,Mobile,7.5,6.1,7.9,3.3,2.77,Yes,High,16-18,1,Cluster 2,39.750553,-14.647738
+STU_1643,18,Male,High School,Instagram,Mobile,5.2,6.9,5.2,7.3,3.06,No,Medium,16-18,0,Cluster 1,-12.044688,-2.0087152
+STU_1644,21,Male,Undergraduate,YouTube,Mobile,12.0,6.1,10.0,5.0,1.79,Yes,High,19-21,1,Cluster 2,45.305576,-3.4808812
+STU_1645,22,Female,Graduate,Facebook,Mobile,10.1,5.9,7.8,5.2,2.74,Yes,High,22-24,1,Cluster 2,38.06297,-2.0781662
+STU_1646,24,Female,Graduate,YouTube,Mobile,5.1,7.5,5.2,8.6,2.78,No,Medium,22-24,2,Cluster 3,-20.447327,16.649973
+STU_1647,16,Female,High School,Instagram,Mobile,5.3,7.0,3.8,8.6,2.74,No,Low,16-18,2,Cluster 3,-23.758572,15.919544
+STU_1648,22,Female,Graduate,YouTube,Mobile,7.5,6.8,6.1,6.9,2.66,Yes,Medium,22-24,0,Cluster 1,12.19544,8.21443
+STU_1649,23,Male,Graduate,YouTube,Mobile,8.9,5.9,9.3,5.5,2.55,Yes,High,22-24,1,Cluster 2,39.88984,-2.2074924
+STU_1650,18,Male,High School,Snapchat,Mobile,2.2,8.1,2.0,9.1,3.49,No,Low,16-18,2,Cluster 3,-43.66707,7.1881027
+STU_1651,19,Female,Undergraduate,YouTube,Laptop,1.9,8.0,1.4,6.6,3.54,No,Low,19-21,2,Cluster 3,-41.92325,-13.366929
+STU_1652,21,Female,Undergraduate,Facebook,Mobile,4.3,7.2,3.0,7.7,3.76,No,Low,19-21,2,Cluster 3,-25.873695,7.5156713
+STU_1653,22,Female,Graduate,Snapchat,Mobile,6.7,3.8,5.1,8.1,2.45,No,Medium,22-24,0,Cluster 1,17.369799,23.60133
+STU_1654,19,Male,Undergraduate,Instagram,Laptop,6.5,6.6,4.5,6.5,2.61,Yes,Medium,19-21,0,Cluster 1,0.6930697,3.0352714
+STU_1655,23,Male,Graduate,TikTok,Mobile,7.6,5.6,7.9,5.0,1.9,Yes,High,22-24,1,Cluster 2,38.68043,2.6017282
+STU_1656,20,Male,Undergraduate,Instagram,Mobile,3.1,9.0,4.1,6.5,3.17,No,Medium,19-21,2,Cluster 3,-32.91762,-13.127513
+STU_1657,16,Male,High School,TikTok,Mobile,1.0,8.6,2.7,10.0,3.36,Yes,Low,16-18,2,Cluster 3,-47.830807,4.3533463
+STU_1658,19,Female,Undergraduate,TikTok,Mobile,7.2,5.2,7.6,7.1,2.89,Yes,High,19-21,1,Cluster 2,26.448523,17.97197
+STU_1659,18,Female,High School,Instagram,Mobile,3.8,7.4,4.6,6.3,3.04,No,Medium,16-18,0,Cluster 1,-15.394306,-11.8318405
+STU_1660,24,Male,Graduate,Instagram,Laptop,1.5,7.6,3.7,7.9,3.01,No,Low,22-24,2,Cluster 3,-36.33356,-5.7599144
+STU_1661,23,Female,Graduate,Instagram,Mobile,5.8,7.1,5.9,5.8,2.73,No,Medium,22-24,0,Cluster 1,11.505443,-10.549317
+STU_1662,16,Female,High School,YouTube,Mobile,7.1,6.4,5.6,7.3,2.83,No,Medium,16-18,0,Cluster 1,9.714975,12.756014
+STU_1663,21,Male,Undergraduate,WhatsApp,Mobile,5.3,7.7,3.4,8.5,2.68,Yes,Low,19-21,2,Cluster 3,-27.696716,18.056234
+STU_1664,24,Male,Graduate,Instagram,Mobile,4.6,6.5,5.7,7.4,3.58,Yes,Medium,22-24,0,Cluster 1,-9.670219,-2.2350428
+STU_1665,22,Male,Graduate,Twitter,Mobile,5.2,7.0,5.8,6.9,2.92,No,Medium,22-24,0,Cluster 1,4.7662234,-3.9745958
+STU_1666,19,Male,Undergraduate,TikTok,Mobile,4.8,6.0,5.2,9.8,2.93,No,Medium,19-21,0,Cluster 1,-13.704647,20.644695
+STU_1667,16,Male,High School,Instagram,Mobile,2.8,8.4,3.8,6.7,3.29,No,Low,16-18,2,Cluster 3,-31.209822,-12.103487
+STU_1668,17,Male,High School,Instagram,Mobile,4.1,7.8,5.1,5.2,3.1,Yes,Medium,16-18,0,Cluster 1,-14.008556,-18.550652
+STU_1669,20,Male,Undergraduate,TikTok,Mobile,6.5,6.8,6.2,5.9,2.63,Yes,Medium,19-21,0,Cluster 1,13.016644,-7.7192335
+STU_1670,20,Male,Undergraduate,YouTube,Mobile,6.1,6.5,5.4,5.2,2.63,No,Medium,19-21,0,Cluster 1,17.365248,-11.011426
+STU_1671,23,Female,Graduate,Snapchat,Laptop,5.8,7.0,4.2,6.0,3.22,Yes,Medium,22-24,0,Cluster 1,-4.920413,0.08476532
+STU_1672,21,Male,Undergraduate,Instagram,Mobile,3.5,8.9,2.5,7.5,3.46,Yes,Low,19-21,2,Cluster 3,-39.32523,-10.159694
+STU_1673,23,Female,Graduate,Instagram,Mobile,5.1,6.7,6.0,5.5,2.48,No,Medium,22-24,0,Cluster 1,9.101825,-12.864001
+STU_1674,17,Male,High School,TikTok,Mobile,1.1,8.7,2.5,7.5,3.77,No,Low,16-18,2,Cluster 3,-44.972313,-10.287914
+STU_1675,18,Female,High School,Instagram,Mobile,5.9,5.8,6.4,6.7,2.74,Yes,Medium,16-18,0,Cluster 1,20.01694,14.211783
+STU_1676,21,Male,Undergraduate,Instagram,Mobile,8.4,5.0,8.2,4.6,2.55,Yes,High,19-21,1,Cluster 2,43.80477,1.260369
+STU_1677,18,Male,High School,Instagram,Mobile,2.6,8.1,2.6,8.3,3.76,No,Low,16-18,2,Cluster 3,-41.13023,4.804495
+STU_1678,21,Female,Undergraduate,YouTube,Laptop,4.3,8.2,3.9,8.5,3.1,No,Low,19-21,2,Cluster 3,-34.99435,0.5594826
+STU_1679,21,Female,Undergraduate,WhatsApp,Laptop,6.2,6.3,3.2,7.3,3.32,No,Low,19-21,0,Cluster 1,-0.17410839,15.191822
+STU_1680,17,Female,High School,TikTok,Mobile,8.0,5.6,9.8,3.9,2.28,No,High,16-18,1,Cluster 2,43.093044,-9.641796
+STU_1681,22,Male,Graduate,WhatsApp,Mobile,4.6,6.8,1.8,9.3,3.25,Yes,Low,22-24,2,Cluster 3,-33.579678,15.4523325
+STU_1682,17,Male,High School,Instagram,Laptop,4.1,6.9,4.6,5.3,2.99,No,Medium,16-18,0,Cluster 1,-3.9093635,-8.748832
+STU_1683,21,Female,Undergraduate,TikTok,Tablet,1.6,8.6,2.2,6.3,3.44,No,Low,19-21,2,Cluster 3,-42.472797,-12.365256
+STU_1684,16,Female,High School,Instagram,Laptop,5.7,5.5,6.6,6.4,2.32,Yes,Medium,16-18,0,Cluster 1,22.432234,13.676132
+STU_1685,18,Female,High School,Snapchat,Mobile,9.6,6.2,8.3,5.5,2.99,No,High,16-18,1,Cluster 2,37.365955,-2.8180573
+STU_1686,17,Female,High School,Twitter,Mobile,6.1,6.0,4.5,9.3,2.56,No,Medium,16-18,0,Cluster 1,-11.877708,21.773296
+STU_1687,22,Male,Graduate,Snapchat,Mobile,5.5,7.4,6.2,6.4,2.29,Yes,Medium,22-24,0,Cluster 1,3.5994272,-13.289867
+STU_1688,19,Female,Undergraduate,TikTok,Mobile,6.1,5.5,6.9,6.7,2.94,Yes,Medium,19-21,0,Cluster 1,21.647678,15.2465105
+STU_1689,23,Male,Graduate,Snapchat,Mobile,5.5,7.3,5.9,6.3,2.95,No,Medium,22-24,0,Cluster 1,3.1365645,-12.537214
+STU_1690,21,Male,Undergraduate,Instagram,Mobile,3.9,8.0,3.6,8.1,2.84,No,Low,19-21,2,Cluster 3,-34.191563,-0.9961667
+STU_1691,19,Male,Undergraduate,Facebook,Laptop,7.1,6.4,4.3,9.1,3.21,No,Medium,19-21,0,Cluster 1,-10.120649,22.286377
+STU_1692,20,Male,Undergraduate,TikTok,Mobile,6.0,5.8,6.9,3.8,3.0,Yes,Medium,19-21,1,Cluster 2,35.192276,-17.023651
+STU_1693,24,Male,Graduate,TikTok,Laptop,5.5,7.0,6.1,6.7,2.69,Yes,Medium,22-24,0,Cluster 1,5.5903754,-4.35261
+STU_1694,22,Male,Graduate,TikTok,Mobile,3.5,6.6,5.5,8.9,3.6,Yes,Medium,22-24,2,Cluster 3,-17.580948,17.743925
+STU_1695,24,Female,Graduate,Snapchat,Mobile,8.1,5.6,7.4,5.8,1.95,Yes,High,22-24,1,Cluster 2,35.374405,4.712894
+STU_1696,22,Male,Graduate,Instagram,Mobile,6.8,7.1,7.2,7.3,2.72,Yes,High,22-24,0,Cluster 1,10.543554,3.424657
+STU_1697,16,Female,High School,Snapchat,Laptop,4.4,7.9,2.9,7.6,3.63,No,Low,16-18,2,Cluster 3,-31.530449,-0.16904011
+STU_1698,23,Male,Graduate,Instagram,Mobile,7.5,6.0,9.4,4.3,2.38,No,High,22-24,1,Cluster 2,39.16052,-10.300833
+STU_1699,19,Male,Undergraduate,Snapchat,Mobile,4.5,6.4,4.4,7.4,2.94,Yes,Medium,19-21,0,Cluster 1,-15.026576,9.629632
+STU_1700,18,Female,High School,Facebook,Tablet,3.9,7.9,3.8,5.5,3.02,No,Low,16-18,2,Cluster 3,-16.582415,-18.497122
+STU_1701,22,Male,Graduate,YouTube,Mobile,4.0,7.4,2.8,7.1,3.42,No,Low,22-24,2,Cluster 3,-26.272478,5.544181
+STU_1702,18,Male,High School,TikTok,Mobile,2.0,6.4,3.9,6.6,3.35,No,Low,16-18,2,Cluster 3,-18.812069,4.582065
+STU_1703,23,Male,Graduate,TikTok,Mobile,6.4,7.0,5.9,7.3,2.93,No,Medium,22-24,0,Cluster 1,7.0497174,4.022579
+STU_1704,21,Male,Undergraduate,Instagram,Mobile,1.8,8.2,3.4,8.8,3.5,Yes,Low,19-21,2,Cluster 3,-42.230522,3.1703942
+STU_1705,20,Female,Undergraduate,YouTube,Mobile,3.0,8.7,2.6,8.8,3.03,Yes,Low,19-21,2,Cluster 3,-42.436672,-1.2848551
+STU_1706,19,Male,Undergraduate,Instagram,Mobile,1.3,7.6,2.6,9.3,3.26,No,Low,19-21,2,Cluster 3,-44.965454,6.302305
+STU_1707,23,Female,Graduate,TikTok,Mobile,5.3,4.3,7.0,5.7,2.27,Yes,Medium,22-24,1,Cluster 2,33.051117,14.591401
+STU_1708,23,Male,Graduate,Instagram,Mobile,5.2,7.1,4.4,8.5,2.89,No,Medium,22-24,2,Cluster 3,-22.47503,15.89533
+STU_1709,16,Female,High School,Instagram,Mobile,4.8,7.3,4.7,7.2,3.26,No,Medium,16-18,0,Cluster 1,-15.129387,-3.272399
+STU_1710,24,Female,Graduate,Snapchat,Mobile,3.4,6.3,4.2,7.5,3.08,Yes,Medium,22-24,0,Cluster 1,-17.753654,6.6723967
+STU_1711,20,Female,Undergraduate,Instagram,Mobile,3.2,7.0,6.1,6.1,3.48,Yes,Medium,19-21,0,Cluster 1,-8.099051,-7.704509
+STU_1712,19,Male,Undergraduate,YouTube,Mobile,6.4,8.6,5.5,7.4,2.87,Yes,Medium,19-21,0,Cluster 1,-10.21344,-12.522872
+STU_1713,21,Male,Undergraduate,Instagram,Mobile,4.4,7.0,5.6,6.2,2.81,Yes,Medium,19-21,0,Cluster 1,0.11852937,-9.14633
+STU_1714,21,Male,Undergraduate,Instagram,Mobile,6.1,7.1,6.3,7.2,2.7,Yes,Medium,19-21,0,Cluster 1,7.77576,3.5195704
+STU_1715,17,Female,High School,TikTok,Mobile,3.7,7.0,6.9,4.7,2.36,Yes,Medium,16-18,0,Cluster 1,-2.425941,-21.04154
+STU_1716,23,Female,Graduate,Instagram,Laptop,5.9,5.0,4.4,6.2,2.98,No,Medium,22-24,0,Cluster 1,11.421953,20.583944
+STU_1717,22,Female,Graduate,Instagram,Mobile,8.1,5.6,8.1,5.8,2.68,Yes,High,22-24,1,Cluster 2,36.714813,3.534219
+STU_1718,16,Male,High School,Snapchat,Laptop,6.7,6.1,4.7,7.1,2.99,No,Medium,16-18,0,Cluster 1,6.8228164,16.117523
+STU_1719,20,Female,Undergraduate,Instagram,Tablet,4.7,6.8,2.7,7.9,3.07,No,Low,19-21,2,Cluster 3,-24.494553,10.22561
+STU_1720,21,Female,Undergraduate,Facebook,Mobile,6.0,6.5,5.1,7.8,2.6,No,Medium,19-21,0,Cluster 1,5.1299634,10.630205
+STU_1721,19,Male,Undergraduate,Instagram,Mobile,5.0,7.2,5.7,6.0,2.65,No,Medium,19-21,0,Cluster 1,1.2204536,-11.187493
+STU_1722,17,Male,High School,Instagram,Mobile,5.5,6.7,5.6,6.4,2.81,No,Medium,16-18,0,Cluster 1,6.5320477,-6.72529
+STU_1723,19,Female,Undergraduate,YouTube,Laptop,4.8,6.0,4.3,8.8,3.39,Yes,Medium,19-21,0,Cluster 1,-10.493185,16.553623
+STU_1724,16,Female,High School,Instagram,Mobile,5.2,7.3,8.7,6.3,1.83,Yes,High,16-18,0,Cluster 1,12.433746,-20.360703
+STU_1725,22,Female,Graduate,Instagram,Mobile,5.9,5.1,6.0,8.0,2.63,No,Medium,22-24,0,Cluster 1,17.147154,19.930256
+STU_1726,17,Male,High School,TikTok,Mobile,3.5,6.0,5.3,6.5,2.89,No,Medium,16-18,0,Cluster 1,-4.3446736,-5.2063627
+STU_1727,17,Female,High School,Instagram,Laptop,3.5,8.2,3.6,9.1,2.6,No,Low,16-18,2,Cluster 3,-38.32538,-0.02512752
+STU_1728,24,Male,Graduate,Facebook,Laptop,2.7,8.3,2.5,7.6,3.1,No,Low,22-24,2,Cluster 3,-40.17082,-6.6674523
+STU_1729,20,Male,Undergraduate,Instagram,Mobile,2.3,8.0,3.1,7.2,3.04,No,Low,19-21,2,Cluster 3,-38.477776,-7.4437604
+STU_1730,17,Male,High School,YouTube,Mobile,3.1,6.7,2.5,6.1,3.1,No,Low,16-18,2,Cluster 3,-21.286415,3.7386525
+STU_1731,24,Female,Graduate,Facebook,Mobile,5.8,6.1,6.5,7.8,2.69,No,Medium,22-24,0,Cluster 1,16.125645,14.904282
+STU_1732,24,Female,Graduate,TikTok,Mobile,3.7,7.3,6.1,5.4,2.65,Yes,Medium,22-24,0,Cluster 1,-4.2727146,-20.624477
+STU_1733,16,Female,High School,WhatsApp,Laptop,6.5,5.1,4.9,7.0,2.76,No,Medium,16-18,0,Cluster 1,14.064317,20.851639
+STU_1734,18,Male,High School,TikTok,Mobile,5.6,6.2,4.2,6.6,3.18,No,Medium,16-18,0,Cluster 1,-4.562377,6.6191344
+STU_1735,19,Female,Undergraduate,Twitter,Mobile,1.6,8.9,1.1,10.0,4.0,Yes,Low,19-21,2,Cluster 3,-49.655853,4.8460054
+STU_1736,22,Male,Graduate,Instagram,Mobile,6.8,7.4,9.7,3.8,2.55,No,High,22-24,1,Cluster 2,31.733305,-18.3956
+STU_1737,19,Female,Undergraduate,Snapchat,Laptop,7.1,5.8,6.5,4.8,2.06,Yes,Medium,19-21,1,Cluster 2,29.007486,7.2505336
+STU_1738,17,Male,High School,TikTok,Laptop,3.5,8.2,5.9,6.9,2.91,No,Medium,16-18,2,Cluster 3,-23.853765,-10.870822
+STU_1739,22,Male,Graduate,TikTok,Mobile,6.3,4.9,8.5,3.5,2.21,Yes,High,22-24,1,Cluster 2,37.027153,-12.51888
+STU_1740,21,Male,Undergraduate,Snapchat,Laptop,3.8,8.0,4.2,6.6,3.08,No,Medium,19-21,2,Cluster 3,-20.42757,-17.631386
+STU_1741,18,Male,High School,Snapchat,Mobile,5.7,6.1,4.7,5.1,2.83,No,Medium,16-18,0,Cluster 1,0.76294106,-1.7912307
+STU_1742,21,Female,Undergraduate,Instagram,Mobile,3.0,8.1,1.4,7.7,3.58,Yes,Low,19-21,2,Cluster 3,-39.2164,6.934812
+STU_1743,21,Male,Undergraduate,Instagram,Mobile,1.9,8.0,3.7,7.9,3.18,No,Low,19-21,2,Cluster 3,-37.33442,-5.2274733
+STU_1744,20,Male,Undergraduate,Snapchat,Mobile,4.7,8.2,4.0,5.7,2.91,No,Low,19-21,0,Cluster 1,-14.7024975,-20.175264
+STU_1745,19,Female,Undergraduate,Snapchat,Mobile,5.3,6.2,5.4,5.3,2.56,No,Medium,19-21,0,Cluster 1,1.1520284,-2.7374291
+STU_1746,16,Male,High School,Twitter,Laptop,4.7,7.6,2.7,8.4,3.18,Yes,Low,16-18,2,Cluster 3,-29.672611,14.890162
+STU_1747,21,Female,Undergraduate,YouTube,Mobile,3.1,7.5,2.7,7.8,3.38,No,Low,19-21,2,Cluster 3,-33.859394,6.873193
+STU_1748,17,Female,High School,Twitter,Mobile,4.7,7.0,4.0,9.6,3.26,No,Low,16-18,2,Cluster 3,-26.07771,15.62405
+STU_1749,18,Female,High School,Snapchat,Mobile,6.0,6.4,6.1,8.2,2.96,Yes,Medium,16-18,0,Cluster 1,6.0373797,9.593275
+STU_1750,23,Male,Graduate,Instagram,Mobile,5.4,6.2,4.7,6.3,2.8,No,Medium,22-24,0,Cluster 1,-3.422996,5.3602495
+STU_1751,21,Female,Undergraduate,Instagram,Laptop,5.9,6.6,7.4,6.1,2.56,Yes,High,19-21,0,Cluster 1,18.014797,-1.728857
+STU_1752,18,Female,High School,YouTube,Mobile,4.2,7.3,3.2,8.8,3.51,Yes,Low,16-18,2,Cluster 3,-27.584538,13.386844
+STU_1753,22,Male,Graduate,Snapchat,Mobile,7.8,6.1,5.6,6.0,3.14,Yes,Medium,22-24,0,Cluster 1,15.9164715,8.897617
+STU_1754,19,Male,Undergraduate,Instagram,Laptop,3.1,7.8,3.9,6.2,3.08,No,Low,19-21,2,Cluster 3,-19.012373,-17.349854
+STU_1755,24,Female,Graduate,TikTok,Mobile,6.5,7.0,7.2,5.7,2.44,Yes,High,22-24,0,Cluster 1,16.69802,-16.412151
+STU_1756,20,Female,Undergraduate,Twitter,Mobile,7.9,6.6,6.7,5.8,2.66,Yes,Medium,19-21,1,Cluster 2,25.362394,-1.9428104
+STU_1757,18,Female,High School,TikTok,Mobile,6.5,5.6,8.5,4.4,1.92,Yes,High,16-18,1,Cluster 2,35.167873,-12.876778
+STU_1758,17,Female,High School,TikTok,Mobile,5.1,7.7,5.8,6.9,2.69,No,Medium,16-18,0,Cluster 1,-8.427677,-14.926945
+STU_1759,17,Female,High School,TikTok,Tablet,4.4,6.3,5.4,6.0,3.05,Yes,Medium,16-18,0,Cluster 1,-1.8407264,-6.091832
+STU_1760,18,Male,High School,Instagram,Laptop,7.6,6.4,6.5,5.0,2.83,No,Medium,16-18,1,Cluster 2,25.797937,-11.208678
+STU_1761,17,Male,High School,TikTok,Mobile,2.7,8.4,4.9,7.1,2.83,No,Medium,16-18,2,Cluster 3,-29.529474,-11.463535
+STU_1762,19,Male,Undergraduate,TikTok,Laptop,3.6,6.0,5.0,7.4,2.96,Yes,Medium,19-21,0,Cluster 1,-9.863554,11.185656
+STU_1763,17,Female,High School,Instagram,Mobile,4.7,7.2,4.8,5.9,2.68,Yes,Medium,16-18,0,Cluster 1,-2.8620856,-10.416099
+STU_1764,24,Male,Graduate,YouTube,Mobile,8.0,5.4,5.0,7.9,3.12,No,Medium,22-24,0,Cluster 1,14.418443,24.246733
+STU_1765,17,Female,High School,TikTok,Mobile,6.3,5.9,8.5,3.2,2.26,Yes,High,16-18,1,Cluster 2,37.170826,-16.269758
+STU_1766,24,Female,Graduate,Facebook,Mobile,3.6,8.7,1.6,8.4,3.42,No,Low,22-24,2,Cluster 3,-42.483578,-3.1363056
+STU_1767,21,Female,Undergraduate,Facebook,Mobile,4.9,6.5,3.3,7.8,3.1,Yes,Low,19-21,0,Cluster 1,-22.171171,10.188011
+STU_1768,16,Male,High School,Instagram,Mobile,4.3,6.6,5.3,6.2,2.83,No,Medium,16-18,0,Cluster 1,-2.1539392,-6.899468
+STU_1769,19,Female,Undergraduate,Snapchat,Laptop,4.1,7.4,3.1,7.6,3.11,No,Low,19-21,2,Cluster 3,-25.943266,6.6169295
+STU_1770,16,Male,High School,TikTok,Mobile,7.5,6.6,6.5,8.0,2.83,Yes,Medium,16-18,0,Cluster 1,12.387472,13.491954
+STU_1771,21,Female,Undergraduate,Facebook,Mobile,2.8,7.8,1.0,8.5,3.5,No,Low,19-21,2,Cluster 3,-39.99952,9.350822
+STU_1772,19,Male,Undergraduate,Instagram,Mobile,8.7,6.4,9.2,6.9,2.62,Yes,High,19-21,1,Cluster 2,30.86491,-3.533281
+STU_1773,18,Male,High School,Snapchat,Mobile,7.2,6.6,6.2,6.7,3.13,Yes,Medium,16-18,0,Cluster 1,12.6929245,8.064633
+STU_1774,18,Female,High School,Snapchat,Mobile,7.7,4.2,10.0,4.1,1.73,Yes,High,16-18,1,Cluster 2,50.244965,-3.1473582
+STU_1775,24,Male,Graduate,Instagram,Mobile,4.6,6.7,4.2,8.0,3.07,No,Medium,22-24,0,Cluster 1,-17.919962,11.234175
+STU_1776,21,Male,Undergraduate,Instagram,Laptop,5.2,6.5,4.7,9.7,2.75,No,Medium,19-21,2,Cluster 3,-14.64868,21.609468
+STU_1777,24,Female,Graduate,Snapchat,Mobile,2.6,8.3,2.5,7.5,3.24,No,Low,22-24,2,Cluster 3,-40.06355,-7.1220927
+STU_1778,20,Female,Undergraduate,YouTube,Mobile,4.5,5.1,4.3,6.3,3.63,No,Medium,19-21,0,Cluster 1,-4.3735104,12.366468
+STU_1779,17,Female,High School,Instagram,Mobile,6.5,8.4,6.2,5.5,2.59,No,Medium,16-18,0,Cluster 1,2.0611298,-19.654097
+STU_1780,23,Female,Graduate,Snapchat,Mobile,8.1,6.2,8.1,5.2,2.45,Yes,High,22-24,1,Cluster 2,34.981884,-1.1911443
+STU_1781,20,Female,Undergraduate,TikTok,Mobile,3.3,7.8,3.6,6.1,3.31,No,Low,19-21,2,Cluster 3,-18.682861,-17.74032
+STU_1782,17,Male,High School,Snapchat,Mobile,4.8,8.0,3.4,8.0,2.88,No,Low,16-18,2,Cluster 3,-32.42476,0.7034092
+STU_1783,19,Male,Undergraduate,Instagram,Mobile,5.2,8.8,3.9,9.4,2.85,No,Low,19-21,2,Cluster 3,-37.316574,2.0716696
+STU_1784,24,Male,Graduate,Facebook,Mobile,2.7,8.6,1.0,9.6,3.26,No,Low,22-24,2,Cluster 3,-44.21324,10.081139
+STU_1785,19,Female,Undergraduate,Instagram,Mobile,6.7,7.1,6.3,5.9,2.4,Yes,Medium,19-21,0,Cluster 1,14.1137905,-7.1781197
+STU_1786,19,Female,Undergraduate,TikTok,Mobile,4.1,7.5,4.9,6.4,2.06,No,Medium,19-21,0,Cluster 1,-14.445052,-12.254047
+STU_1787,17,Male,High School,Instagram,Mobile,5.1,6.8,5.0,7.9,3.07,No,Medium,16-18,0,Cluster 1,-16.726686,13.455322
+STU_1788,21,Male,Undergraduate,Instagram,Laptop,4.6,6.8,6.4,5.3,3.26,Yes,Medium,19-21,0,Cluster 1,10.0408535,-14.927823
+STU_1789,17,Female,High School,TikTok,Mobile,3.9,6.8,6.4,8.0,2.7,No,Medium,16-18,0,Cluster 1,-16.4871,17.001923
+STU_1790,22,Male,Graduate,Instagram,Laptop,5.5,6.3,5.6,8.6,2.38,Yes,Medium,22-24,0,Cluster 1,-13.532947,17.79975
+STU_1791,18,Female,High School,Facebook,Mobile,5.1,5.9,2.3,8.9,3.2,Yes,Low,16-18,2,Cluster 3,-7.9607744,18.279737
+STU_1792,18,Male,High School,Instagram,Laptop,4.8,7.0,4.7,7.1,2.81,No,Medium,16-18,0,Cluster 1,-13.513568,-1.8888704
+STU_1793,20,Female,Undergraduate,TikTok,Mobile,4.0,6.0,4.6,8.2,2.66,No,Medium,19-21,0,Cluster 1,-9.805986,14.813477
+STU_1794,18,Male,High School,Instagram,Mobile,6.1,6.7,5.8,7.6,3.02,No,Medium,16-18,0,Cluster 1,6.8845797,8.742274
+STU_1795,17,Female,High School,Instagram,Mobile,8.8,5.4,7.8,4.5,2.63,Yes,High,16-18,1,Cluster 2,43.86312,-1.4538485
+STU_1796,24,Female,Graduate,Instagram,Laptop,5.8,6.8,5.5,6.2,2.47,No,Medium,22-24,0,Cluster 1,7.3299036,-7.4381127
+STU_1797,17,Female,High School,TikTok,Mobile,7.5,5.6,7.6,4.1,2.65,Yes,High,16-18,1,Cluster 2,37.466347,-14.205402
+STU_1798,17,Female,High School,TikTok,Mobile,2.7,10.0,3.5,8.3,3.62,No,Low,16-18,2,Cluster 3,-46.457478,-5.6031494
+STU_1799,23,Female,Graduate,TikTok,Mobile,5.8,7.8,6.9,6.6,3.14,Yes,Medium,22-24,0,Cluster 1,2.723873,-16.644146
+STU_1800,24,Female,Graduate,TikTok,Laptop,3.3,6.7,5.0,5.6,3.76,No,Medium,22-24,0,Cluster 1,-4.4490123,-7.293413
+STU_1801,22,Male,Graduate,TikTok,Mobile,2.5,8.2,3.1,7.7,2.97,No,Low,22-24,2,Cluster 3,-39.188576,-6.661431
+STU_1802,18,Female,High School,Instagram,Laptop,4.0,6.9,6.0,5.1,3.57,No,Medium,16-18,0,Cluster 1,-2.9889596,-20.134195
+STU_1803,24,Female,Graduate,TikTok,Mobile,7.9,5.0,7.3,4.7,2.37,Yes,High,22-24,1,Cluster 2,40.78095,3.9348114
+STU_1804,18,Male,High School,Twitter,Mobile,7.4,5.0,4.5,7.8,2.81,No,Medium,16-18,0,Cluster 1,14.943815,23.7361
+STU_1805,20,Female,Undergraduate,TikTok,Mobile,6.0,7.0,7.2,5.0,2.61,Yes,High,19-21,0,Cluster 1,18.184433,-17.213596
+STU_1806,24,Female,Graduate,Snapchat,Tablet,2.4,7.5,2.1,8.4,3.24,No,Low,22-24,2,Cluster 3,-36.657635,8.567601
+STU_1807,18,Female,High School,Instagram,Mobile,5.1,7.7,5.9,4.8,2.86,No,Medium,16-18,0,Cluster 1,0.88725376,-23.68983
+STU_1808,22,Male,Graduate,YouTube,Laptop,6.1,7.4,3.0,8.4,2.87,No,Low,22-24,2,Cluster 3,-26.126787,18.795551
+STU_1809,16,Male,High School,YouTube,Mobile,5.9,7.8,6.6,6.0,2.55,Yes,Medium,16-18,0,Cluster 1,2.919854,-18.17579
+STU_1810,19,Female,Undergraduate,TikTok,Mobile,1.8,7.6,4.1,6.8,3.44,No,Medium,19-21,2,Cluster 3,-35.38528,-7.796324
+STU_1811,19,Female,Undergraduate,Twitter,Mobile,3.7,7.9,1.7,8.8,3.48,No,Low,19-21,2,Cluster 3,-40.636097,10.801011
+STU_1812,22,Male,Graduate,Instagram,Mobile,5.4,7.4,4.3,7.6,3.07,No,Medium,22-24,0,Cluster 1,-16.172804,-0.8322157
+STU_1813,23,Female,Graduate,Instagram,Laptop,6.6,6.0,8.4,4.1,2.43,Yes,High,22-24,1,Cluster 2,34.59227,-14.443436
+STU_1814,16,Female,High School,YouTube,Laptop,1.1,7.9,1.0,7.9,3.97,No,Low,16-18,2,Cluster 3,-45.280483,3.920371
+STU_1815,20,Male,Undergraduate,YouTube,Laptop,5.2,8.2,3.8,9.5,2.62,No,Low,19-21,2,Cluster 3,-29.660212,18.91236
+STU_1816,22,Female,Graduate,Instagram,Mobile,5.8,6.9,3.9,7.0,3.28,No,Low,22-24,0,Cluster 1,-12.39691,2.2194357
+STU_1817,19,Male,Undergraduate,Instagram,Mobile,7.2,6.6,6.9,5.8,2.48,Yes,Medium,19-21,0,Cluster 1,23.9664,-3.5251057
+STU_1818,19,Male,Undergraduate,Instagram,Mobile,6.9,5.6,6.8,6.9,2.63,Yes,Medium,19-21,0,Cluster 1,21.607813,17.477001
+STU_1819,19,Male,Undergraduate,Instagram,Tablet,6.7,5.4,7.5,9.0,2.76,Yes,High,19-21,0,Cluster 1,14.556004,15.838958
+STU_1820,21,Female,Undergraduate,YouTube,Mobile,3.9,7.0,2.2,7.4,3.04,No,Low,19-21,2,Cluster 3,-27.526733,6.7585526
+STU_1821,22,Male,Graduate,TikTok,Mobile,1.7,8.2,1.8,9.4,3.17,Yes,Low,22-24,2,Cluster 3,-45.896713,7.0773225
+STU_1822,17,Male,High School,Instagram,Mobile,4.7,6.3,5.7,5.9,2.19,No,Medium,16-18,0,Cluster 1,-0.9003811,-6.195302
+STU_1823,20,Male,Undergraduate,TikTok,Mobile,7.5,6.0,9.0,4.1,2.01,Yes,High,19-21,1,Cluster 2,39.036186,-11.037656
+STU_1824,19,Female,Undergraduate,Instagram,Tablet,8.3,4.3,6.6,5.3,3.02,Yes,Medium,19-21,1,Cluster 2,35.0925,11.241991
+STU_1825,18,Female,High School,Instagram,Mobile,6.9,5.3,8.1,4.0,2.3,No,High,16-18,1,Cluster 2,36.453197,-13.4214945
+STU_1826,22,Male,Graduate,Snapchat,Mobile,6.4,7.0,6.1,6.3,2.3,No,Medium,22-24,0,Cluster 1,12.379947,-6.3866215
+STU_1827,21,Male,Undergraduate,Twitter,Mobile,6.3,7.0,6.3,4.7,2.52,Yes,Medium,19-21,0,Cluster 1,19.456709,-14.844126
+STU_1828,22,Female,Graduate,Facebook,Mobile,4.4,6.9,3.4,8.9,2.73,No,Low,22-24,2,Cluster 3,-26.360697,13.531424
+STU_1829,20,Male,Undergraduate,Instagram,Mobile,5.2,6.1,3.2,8.2,2.89,No,Low,19-21,0,Cluster 1,-8.802657,17.352718
+STU_1830,21,Male,Undergraduate,Facebook,Mobile,8.8,4.6,6.9,6.3,2.67,Yes,Medium,19-21,1,Cluster 2,30.750145,18.758694
+STU_1831,20,Male,Undergraduate,YouTube,Laptop,3.6,7.3,4.5,6.9,2.65,No,Medium,19-21,2,Cluster 3,-16.906553,-8.868064
+STU_1832,22,Male,Graduate,YouTube,Laptop,8.7,6.0,6.6,5.7,2.95,Yes,Medium,22-24,1,Cluster 2,31.03352,2.962635
+STU_1833,17,Male,High School,TikTok,Mobile,4.9,7.8,5.5,7.0,2.79,No,Medium,16-18,0,Cluster 1,-9.042145,-14.666965
+STU_1834,20,Male,Undergraduate,TikTok,Mobile,8.2,5.3,8.3,3.8,2.32,No,High,19-21,1,Cluster 2,44.24345,-7.2302475
+STU_1835,21,Male,Undergraduate,Instagram,Laptop,2.7,7.0,1.0,9.0,3.54,No,Low,19-21,2,Cluster 3,-38.43865,10.968383
+STU_1836,21,Female,Undergraduate,Instagram,Mobile,6.7,6.5,8.5,4.0,2.5,Yes,High,19-21,1,Cluster 2,32.825172,-15.592262
+STU_1837,20,Male,Undergraduate,Instagram,Mobile,4.0,6.7,3.8,6.8,3.35,No,Low,19-21,0,Cluster 1,-15.511807,5.090287
+STU_1838,22,Female,Graduate,Instagram,Mobile,2.7,7.5,4.1,5.4,3.16,No,Medium,22-24,2,Cluster 3,-17.762918,-15.686214
+STU_1839,23,Female,Graduate,TikTok,Mobile,5.9,7.7,6.7,7.3,2.77,Yes,Medium,22-24,0,Cluster 1,8.665094,1.7738248
+STU_1840,22,Male,Graduate,YouTube,Mobile,7.5,6.7,7.8,4.6,2.34,Yes,High,22-24,1,Cluster 2,29.247976,-14.398735
+STU_1841,20,Female,Undergraduate,TikTok,Tablet,3.8,7.6,5.5,7.9,2.98,No,Medium,19-21,2,Cluster 3,-23.649645,-4.8719873
+STU_1842,16,Male,High School,Instagram,Mobile,2.5,7.0,3.3,9.1,3.11,No,Low,16-18,2,Cluster 3,-32.142395,10.255311
+STU_1843,20,Female,Undergraduate,Twitter,Mobile,5.3,7.0,3.6,6.6,3.16,No,Low,19-21,0,Cluster 1,-11.287077,2.3090518
+STU_1844,17,Male,High School,WhatsApp,Mobile,5.3,7.7,4.6,6.2,2.9,Yes,Medium,16-18,0,Cluster 1,-6.3916736,-15.468893
+STU_1845,20,Male,Undergraduate,YouTube,Mobile,6.6,6.1,3.9,10.0,2.96,No,Low,19-21,0,Cluster 1,-12.458477,22.851011
+STU_1846,20,Male,Undergraduate,LinkedIn,Mobile,7.4,7.1,5.1,8.7,2.68,No,Medium,19-21,0,Cluster 1,1.5963093,10.036414
+STU_1847,17,Female,High School,TikTok,Laptop,5.4,7.9,5.2,6.8,3.0,No,Medium,16-18,0,Cluster 1,-8.108488,-14.108275
+STU_1848,20,Male,Undergraduate,Twitter,Laptop,9.2,6.6,8.8,5.0,2.61,Yes,High,19-21,1,Cluster 2,38.057213,-4.803567
+STU_1849,19,Female,Undergraduate,Instagram,Mobile,5.9,6.9,6.4,5.5,3.0,Yes,Medium,19-21,0,Cluster 1,12.604828,-12.3747425
+STU_1850,16,Male,High School,TikTok,Laptop,4.8,7.5,6.5,6.5,2.25,Yes,Medium,16-18,0,Cluster 1,2.9154806,-14.4369755
+STU_1851,18,Female,High School,Instagram,Laptop,2.3,9.2,3.4,7.2,3.57,No,Low,16-18,2,Cluster 3,-43.109463,-9.3721285
+STU_1852,16,Male,High School,Instagram,Laptop,5.0,7.4,3.7,5.7,3.03,No,Low,16-18,0,Cluster 1,-6.5605474,-1.8130562
+STU_1853,20,Female,Undergraduate,Instagram,Mobile,4.8,6.7,4.5,6.0,3.17,No,Medium,19-21,0,Cluster 1,-3.251719,-2.0025954
+STU_1854,19,Male,Undergraduate,Snapchat,Mobile,7.4,5.7,7.6,5.5,2.16,Yes,High,19-21,1,Cluster 2,35.121418,3.020567
+STU_1855,22,Male,Graduate,YouTube,Mobile,6.4,6.6,5.8,5.4,2.8,No,Medium,22-24,0,Cluster 1,17.066248,-10.471732
+STU_1856,20,Male,Undergraduate,TikTok,Mobile,3.1,6.7,5.7,6.5,2.87,Yes,Medium,19-21,0,Cluster 1,-8.489092,-6.8810105
+STU_1857,19,Male,Undergraduate,Instagram,Mobile,5.8,6.5,6.6,5.0,2.17,Yes,Medium,19-21,0,Cluster 1,21.398397,-11.537973
+STU_1858,17,Female,High School,YouTube,Mobile,6.8,7.1,5.0,6.2,3.08,No,Medium,16-18,0,Cluster 1,2.4609303,1.3438817
+STU_1859,19,Male,Undergraduate,Snapchat,Laptop,8.6,3.8,7.0,6.6,2.93,Yes,Medium,19-21,1,Cluster 2,31.954697,18.162235
+STU_1860,17,Female,High School,TikTok,Laptop,7.3,7.3,7.9,5.5,2.32,Yes,High,16-18,1,Cluster 2,26.319235,-6.146432
+STU_1861,23,Male,Graduate,Snapchat,Laptop,7.0,7.1,4.3,7.4,3.43,No,Medium,22-24,0,Cluster 1,2.1328344,7.3269625
+STU_1862,18,Female,High School,Instagram,Mobile,5.6,6.4,7.7,6.3,2.36,No,High,16-18,0,Cluster 1,17.261074,-1.1046324
+STU_1863,24,Male,Graduate,Instagram,Mobile,6.3,6.9,7.0,6.3,2.8,Yes,Medium,22-24,0,Cluster 1,13.390113,-2.762694
+STU_1864,19,Male,Undergraduate,WhatsApp,Mobile,8.0,5.8,7.1,7.2,1.85,Yes,High,19-21,1,Cluster 2,24.395515,19.610584
+STU_1865,21,Female,Undergraduate,Instagram,Mobile,2.8,8.9,2.2,8.2,4.0,No,Low,19-21,2,Cluster 3,-42.918587,-4.5320106
+STU_1866,20,Male,Undergraduate,TikTok,Mobile,4.8,7.9,7.1,5.3,2.97,Yes,High,19-21,0,Cluster 1,2.032659,-22.255442
+STU_1867,16,Male,High School,Facebook,Mobile,4.0,6.3,5.4,5.5,2.74,Yes,Medium,16-18,0,Cluster 1,-1.844472,-5.2267995
+STU_1868,24,Female,Graduate,Snapchat,Mobile,6.3,7.0,4.7,6.8,2.36,Yes,Medium,22-24,0,Cluster 1,3.2914476,2.2128525
+STU_1869,16,Female,High School,Instagram,Laptop,8.0,5.7,8.6,5.8,2.33,No,High,16-18,1,Cluster 2,36.74908,2.3560855
+STU_1870,23,Male,Graduate,Instagram,Mobile,4.3,7.3,4.9,8.3,2.48,No,Medium,22-24,2,Cluster 3,-20.667149,14.6793
+STU_1871,24,Male,Graduate,Instagram,Mobile,1.0,8.0,1.0,10.0,3.75,No,Low,22-24,2,Cluster 3,-48.11731,7.855454
+STU_1872,24,Female,Graduate,Snapchat,Mobile,4.7,8.5,5.2,5.1,2.98,No,Medium,22-24,0,Cluster 1,-12.16714,-21.855396
+STU_1873,16,Male,High School,TikTok,Mobile,7.3,6.9,8.7,5.9,1.95,No,High,16-18,1,Cluster 2,28.1037,-5.4696918
+STU_1874,17,Male,High School,Instagram,Mobile,6.6,5.8,6.2,4.5,3.03,Yes,Medium,16-18,1,Cluster 2,27.85733,7.007684
+STU_1875,16,Male,High School,Twitter,Mobile,6.4,5.4,6.5,7.0,2.88,Yes,Medium,16-18,0,Cluster 1,19.950912,17.48797
+STU_1876,17,Female,High School,TikTok,Mobile,4.9,6.7,4.3,7.1,3.32,No,Medium,16-18,0,Cluster 1,-13.195225,3.946889
+STU_1877,23,Female,Graduate,Instagram,Mobile,2.9,8.2,2.4,9.3,3.38,No,Low,22-24,2,Cluster 3,-42.74748,7.599124
+STU_1878,20,Male,Undergraduate,TikTok,Mobile,6.5,6.6,7.4,4.3,2.05,Yes,High,19-21,1,Cluster 2,25.527357,-15.65975
+STU_1879,22,Male,Graduate,Snapchat,Mobile,3.8,8.5,4.1,8.7,3.36,No,Medium,22-24,2,Cluster 3,-36.75944,0.14639306
+STU_1880,17,Male,High School,Instagram,Mobile,9.9,5.7,8.7,3.3,2.16,Yes,High,16-18,1,Cluster 2,45.99343,-6.9935503
+STU_1881,23,Female,Graduate,Instagram,Laptop,6.6,7.1,7.6,4.8,2.01,Yes,High,22-24,1,Cluster 2,20.38198,-17.531528
+STU_1882,21,Male,Undergraduate,YouTube,Mobile,4.3,7.5,4.5,6.3,3.4,Yes,Medium,19-21,0,Cluster 1,-14.016218,-11.774899
+STU_1883,23,Male,Graduate,TikTok,Mobile,4.3,6.2,6.3,4.5,3.3,Yes,Medium,22-24,0,Cluster 1,19.738314,-8.359493
+STU_1884,16,Female,High School,TikTok,Mobile,5.3,6.7,6.1,6.4,2.68,Yes,Medium,16-18,0,Cluster 1,6.8999414,-5.2147307
+STU_1885,16,Male,High School,TikTok,Laptop,5.0,7.8,6.6,7.8,3.26,Yes,Medium,16-18,0,Cluster 1,-21.429853,-1.6874887
+STU_1886,22,Female,Graduate,Instagram,Laptop,7.7,5.9,7.2,8.3,2.52,Yes,High,22-24,0,Cluster 1,13.74057,15.266844
+STU_1887,23,Male,Graduate,Instagram,Mobile,5.9,7.1,8.3,5.1,2.2,No,High,22-24,1,Cluster 2,18.09679,-19.63123
+STU_1888,18,Male,High School,TikTok,Mobile,4.0,7.1,4.4,8.5,2.82,No,Medium,16-18,2,Cluster 3,-21.188456,13.401234
+STU_1889,20,Male,Undergraduate,Instagram,Laptop,9.3,4.5,10.0,4.2,2.49,Yes,High,19-21,1,Cluster 2,50.227016,-4.923518
+STU_1890,16,Female,High School,Instagram,Mobile,5.6,6.7,6.0,6.9,2.48,Yes,Medium,16-18,0,Cluster 1,6.411329,-3.215293
+STU_1891,22,Female,Graduate,Facebook,Mobile,7.0,6.4,4.3,7.1,3.25,No,Medium,22-24,0,Cluster 1,5.3705707,16.0217
+STU_1892,20,Female,Undergraduate,LinkedIn,Mobile,4.3,6.8,3.3,8.2,3.04,No,Low,19-21,2,Cluster 3,-25.676405,11.060442
+STU_1893,23,Male,Graduate,YouTube,Laptop,6.2,6.3,5.6,7.2,2.65,No,Medium,22-24,0,Cluster 1,7.6669364,11.82206
+STU_1894,23,Female,Graduate,Facebook,Laptop,6.1,5.8,5.7,6.0,3.07,No,Medium,22-24,0,Cluster 1,22.06507,9.545001
+STU_1895,24,Male,Graduate,Instagram,Mobile,1.7,9.2,4.1,7.5,2.95,No,Medium,22-24,2,Cluster 3,-44.166233,-8.609816
+STU_1896,22,Male,Graduate,Twitter,Mobile,9.5,5.0,8.2,5.0,2.21,Yes,High,22-24,1,Cluster 2,44.667454,-0.01287358
+STU_1897,16,Female,High School,Instagram,Mobile,8.1,6.9,7.4,6.4,2.81,Yes,High,16-18,1,Cluster 2,26.8286,-2.9694707
+STU_1898,18,Male,High School,Twitter,Mobile,4.7,8.3,4.9,6.0,3.39,No,Medium,16-18,0,Cluster 1,-12.052777,-19.566587
+STU_1899,23,Male,Graduate,LinkedIn,Tablet,3.3,7.6,1.1,9.3,3.79,No,Low,22-24,2,Cluster 3,-39.69341,11.713913
+STU_1900,18,Male,High School,Snapchat,Mobile,6.2,5.7,6.6,7.9,2.41,Yes,Medium,16-18,0,Cluster 1,16.40575,16.050009
+STU_1901,23,Male,Graduate,LinkedIn,Mobile,5.7,5.1,1.0,10.0,3.47,No,Low,22-24,2,Cluster 3,-7.7498794,19.407764
+STU_1902,16,Male,High School,TikTok,Mobile,6.2,5.3,7.4,6.9,2.49,Yes,High,16-18,1,Cluster 2,22.61491,15.87769
+STU_1903,20,Female,Undergraduate,Instagram,Mobile,5.9,5.5,5.6,6.7,2.89,No,Medium,19-21,0,Cluster 1,15.57909,18.270721
+STU_1904,19,Male,Undergraduate,TikTok,Mobile,6.5,7.5,8.9,5.0,1.91,Yes,High,19-21,1,Cluster 2,19.09074,-20.144608
+STU_1905,20,Female,Undergraduate,TikTok,Mobile,8.4,5.7,9.3,5.4,2.34,Yes,High,19-21,1,Cluster 2,40.21961,-1.455496
+STU_1906,23,Female,Graduate,Instagram,Mobile,6.6,6.7,7.0,7.3,2.56,Yes,Medium,22-24,0,Cluster 1,11.068854,4.4129477
+STU_1907,19,Male,Undergraduate,Snapchat,Mobile,3.4,5.9,4.2,5.5,2.53,No,Medium,19-21,0,Cluster 1,-7.8564334,4.176428
+STU_1908,19,Male,Undergraduate,LinkedIn,Mobile,8.2,4.8,4.1,6.2,2.79,No,Medium,19-21,1,Cluster 2,11.649372,23.182867
+STU_1909,18,Male,High School,Instagram,Mobile,8.8,6.2,10.0,5.3,1.85,No,High,16-18,1,Cluster 2,39.623238,-3.3416204
+STU_1910,22,Female,Graduate,YouTube,Mobile,11.8,4.5,10.0,3.7,1.98,Yes,High,22-24,1,Cluster 2,51.61537,-7.4984217
+STU_1911,18,Male,High School,WhatsApp,Laptop,3.3,7.6,2.5,7.8,3.92,No,Low,16-18,2,Cluster 3,-34.48655,6.7845373
+STU_1912,18,Female,High School,WhatsApp,Laptop,6.0,7.1,5.9,5.2,2.81,No,Medium,16-18,0,Cluster 1,14.673718,-12.452053
+STU_1913,20,Male,Undergraduate,Twitter,Tablet,1.3,9.8,1.0,8.8,3.37,No,Low,19-21,2,Cluster 3,-50.469486,1.0882431
+STU_1914,20,Female,Undergraduate,TikTok,Mobile,6.6,6.2,6.5,4.7,2.7,Yes,Medium,19-21,1,Cluster 2,24.027336,-12.341069
+STU_1915,21,Male,Undergraduate,Twitter,Tablet,4.4,7.3,3.8,9.8,3.02,Yes,Low,19-21,2,Cluster 3,-26.828173,15.633596
+STU_1916,23,Male,Graduate,YouTube,Mobile,9.3,5.4,8.4,4.9,2.38,Yes,High,22-24,1,Cluster 2,43.16216,-2.0569904
+STU_1917,21,Female,Undergraduate,Instagram,Mobile,4.0,9.3,4.3,7.4,3.21,No,Medium,19-21,2,Cluster 3,-35.46892,-11.456435
+STU_1918,16,Female,High School,TikTok,Mobile,2.1,6.5,4.2,8.0,3.4,Yes,Medium,16-18,2,Cluster 3,-19.505053,6.7104983
+STU_1919,23,Male,Graduate,Snapchat,Mobile,4.6,7.7,5.0,8.0,2.9,Yes,Medium,22-24,2,Cluster 3,-21.528076,-4.0997176
+STU_1920,23,Female,Graduate,Instagram,Mobile,1.5,8.3,1.7,9.9,3.98,Yes,Low,22-24,2,Cluster 3,-47.4962,6.407731
+STU_1921,24,Male,Graduate,Snapchat,Mobile,7.0,6.7,7.1,6.8,2.79,No,High,22-24,0,Cluster 1,12.969899,4.2277107
+STU_1922,24,Female,Graduate,Snapchat,Mobile,1.4,7.9,3.0,7.6,3.06,No,Low,22-24,2,Cluster 3,-37.354393,-6.6172404
+STU_1923,17,Female,High School,Instagram,Mobile,5.6,6.7,6.1,6.0,3.36,Yes,Medium,16-18,0,Cluster 1,9.462292,-9.7844515
+STU_1924,17,Male,High School,TikTok,Mobile,1.3,9.0,4.2,8.2,3.14,Yes,Medium,16-18,2,Cluster 3,-44.622334,-7.928117
+STU_1925,18,Male,High School,YouTube,Mobile,4.9,9.5,3.2,7.6,2.98,No,Low,16-18,2,Cluster 3,-36.53442,-11.441505
+STU_1926,16,Male,High School,TikTok,Mobile,8.8,6.1,9.5,4.3,2.59,No,High,16-18,1,Cluster 2,41.28659,-7.9051332
+STU_1927,19,Female,Undergraduate,Instagram,Laptop,6.2,5.8,5.3,7.2,3.47,No,Medium,19-21,0,Cluster 1,11.9273405,17.965244
+STU_1928,19,Female,Undergraduate,Instagram,Laptop,3.8,7.2,3.4,8.7,3.18,Yes,Low,19-21,2,Cluster 3,-27.378323,12.706571
+STU_1929,24,Male,Graduate,TikTok,Mobile,5.4,6.5,5.7,4.8,2.62,Yes,Medium,22-24,0,Cluster 1,18.886305,-10.535999
+STU_1930,24,Male,Graduate,WhatsApp,Mobile,5.5,5.3,3.0,8.9,3.21,No,Low,22-24,0,Cluster 1,-7.086748,18.290445
+STU_1931,24,Female,Graduate,Instagram,Mobile,6.4,6.2,6.1,6.1,2.91,Yes,Medium,22-24,0,Cluster 1,20.287313,7.8031454
+STU_1932,22,Female,Graduate,Snapchat,Laptop,2.8,8.5,3.0,8.9,3.64,No,Low,22-24,2,Cluster 3,-42.13176,0.052338544
+STU_1933,17,Female,High School,Instagram,Mobile,6.7,5.3,7.7,6.2,2.59,Yes,High,16-18,1,Cluster 2,26.96568,14.770025
+STU_1934,20,Male,Undergraduate,Instagram,Mobile,1.0,9.4,2.0,10.0,3.47,No,Low,19-21,2,Cluster 3,-49.39238,3.0011673
+STU_1935,19,Male,Undergraduate,Facebook,Mobile,4.2,7.7,1.8,10.0,3.92,No,Low,19-21,2,Cluster 3,-36.61247,14.489781
+STU_1936,23,Male,Graduate,YouTube,Mobile,4.5,6.6,5.3,8.2,2.76,No,Medium,22-24,0,Cluster 1,-16.717838,15.267981
+STU_1937,17,Female,High School,Instagram,Mobile,6.8,6.2,6.1,7.8,3.02,Yes,Medium,16-18,0,Cluster 1,11.16536,13.906708
+STU_1938,21,Male,Undergraduate,TikTok,Laptop,5.5,8.1,6.4,6.5,2.57,Yes,Medium,19-21,0,Cluster 1,1.3844798,-17.14244
+STU_1939,20,Female,Undergraduate,Instagram,Mobile,2.7,8.5,4.1,7.6,3.19,No,Medium,19-21,2,Cluster 3,-31.759377,-9.220732
+STU_1940,17,Male,High School,TikTok,Mobile,3.5,7.6,5.0,7.9,2.86,No,Medium,16-18,2,Cluster 3,-24.90887,-4.770352
+STU_1941,16,Female,High School,Snapchat,Laptop,5.9,6.5,6.8,6.6,2.56,Yes,Medium,16-18,0,Cluster 1,14.4836,-0.29839495
+STU_1942,23,Female,Graduate,Instagram,Laptop,5.3,6.9,6.3,5.9,2.56,No,Medium,22-24,0,Cluster 1,9.53397,-11.800336
+STU_1943,17,Female,High School,Instagram,Mobile,4.3,6.9,4.1,7.9,3.46,No,Medium,16-18,2,Cluster 3,-19.535055,10.950795
+STU_1944,22,Male,Graduate,TikTok,Mobile,4.5,5.5,7.8,5.3,2.17,No,High,22-24,1,Cluster 2,20.175137,2.4898794
+STU_1945,24,Male,Graduate,WhatsApp,Mobile,6.9,7.9,5.2,6.0,2.64,No,Medium,22-24,0,Cluster 1,-2.9701645,-15.665964
+STU_1946,24,Male,Graduate,LinkedIn,Laptop,4.5,7.3,1.9,10.0,4.0,No,Low,22-24,2,Cluster 3,-35.57911,14.85091
+STU_1947,23,Female,Graduate,Instagram,Mobile,5.3,7.2,6.7,6.0,2.88,Yes,Medium,22-24,0,Cluster 1,6.538824,-14.717281
+STU_1948,24,Female,Graduate,YouTube,Laptop,9.8,5.0,8.6,6.9,1.53,Yes,High,22-24,1,Cluster 2,41.39565,10.024456
+STU_1949,17,Female,High School,TikTok,Mobile,2.7,7.4,4.5,5.7,2.82,No,Medium,16-18,0,Cluster 1,-17.772629,-14.880387
+STU_1950,21,Female,Undergraduate,TikTok,Mobile,1.8,8.1,5.9,5.9,2.19,No,Medium,19-21,2,Cluster 3,-21.474592,-14.086144
+STU_1951,19,Female,Undergraduate,YouTube,Mobile,7.1,4.9,5.9,6.5,2.46,Yes,Medium,19-21,1,Cluster 2,19.888382,21.593372
+STU_1952,19,Male,Undergraduate,WhatsApp,Mobile,4.1,9.2,2.5,9.6,2.41,No,Low,19-21,2,Cluster 3,-44.5924,-1.2367682
+STU_1953,20,Female,Undergraduate,Twitter,Mobile,4.9,6.1,4.2,7.9,3.0,No,Medium,19-21,0,Cluster 1,-10.941964,14.8445015
+STU_1954,18,Male,High School,TikTok,Mobile,3.9,6.6,6.2,6.6,2.34,Yes,Medium,16-18,0,Cluster 1,-7.1637497,-6.0514
+STU_1955,16,Male,High School,TikTok,Mobile,5.0,6.7,4.5,6.2,3.01,No,Medium,16-18,0,Cluster 1,-3.320233,-1.3038284
+STU_1956,23,Male,Graduate,YouTube,Tablet,8.7,6.6,5.5,5.5,2.32,Yes,Medium,22-24,1,Cluster 2,25.634525,1.4993081
+STU_1957,20,Male,Undergraduate,Instagram,Mobile,7.1,6.2,6.6,6.4,2.64,No,Medium,19-21,0,Cluster 1,18.346928,9.315614
+STU_1958,18,Male,High School,TikTok,Mobile,7.2,5.1,6.1,4.9,2.57,Yes,Medium,16-18,1,Cluster 2,30.974762,9.580427
+STU_1959,22,Female,Graduate,TikTok,Mobile,2.7,8.9,3.7,7.2,3.58,No,Low,22-24,2,Cluster 3,-42.055233,-9.731872
+STU_1960,22,Male,Graduate,Snapchat,Mobile,3.2,8.3,4.1,8.1,3.49,No,Medium,22-24,2,Cluster 3,-32.07587,-7.027044
+STU_1961,16,Female,High School,Instagram,Mobile,1.0,9.0,1.4,8.2,3.78,No,Low,16-18,2,Cluster 3,-50.354404,-0.6516662
+STU_1962,24,Male,Graduate,Instagram,Mobile,3.9,8.0,3.2,9.7,3.13,No,Low,22-24,2,Cluster 3,-39.208122,1.8238475
+STU_1963,17,Male,High School,WhatsApp,Laptop,7.4,8.0,5.5,7.9,3.41,No,Medium,16-18,0,Cluster 1,4.4351106,5.2593603
+STU_1964,20,Male,Undergraduate,Instagram,Mobile,6.5,8.1,7.6,3.9,1.97,Yes,High,19-21,1,Cluster 2,4.8224635,-24.672668
+STU_1965,20,Male,Undergraduate,TikTok,Mobile,5.1,6.4,4.4,6.5,2.6,No,Medium,19-21,0,Cluster 1,-4.748432,5.185186
+STU_1966,23,Female,Graduate,Instagram,Mobile,5.5,8.1,6.7,3.7,2.57,Yes,Medium,22-24,0,Cluster 1,3.8468683,-24.800772
+STU_1967,23,Male,Graduate,Instagram,Mobile,4.1,7.7,5.6,5.8,3.47,No,Medium,22-24,0,Cluster 1,-7.316882,-20.135252
+STU_1968,22,Female,Graduate,Instagram,Mobile,5.9,7.0,7.2,6.5,2.45,No,High,22-24,0,Cluster 1,12.02182,-2.033827
+STU_1969,22,Male,Graduate,Instagram,Laptop,7.0,4.8,8.3,4.6,2.24,Yes,High,22-24,1,Cluster 2,43.09192,3.8000643
+STU_1970,21,Female,Undergraduate,Facebook,Laptop,2.3,8.0,4.0,8.1,2.64,No,Low,19-21,2,Cluster 3,-36.7986,-4.3296285
+STU_1971,21,Female,Undergraduate,Instagram,Mobile,6.1,5.9,6.0,4.9,3.0,No,Medium,19-21,0,Cluster 1,25.804655,6.548821
+STU_1972,24,Female,Graduate,Twitter,Mobile,7.4,6.7,6.2,7.1,2.97,Yes,Medium,22-24,0,Cluster 1,11.884333,8.053601
+STU_1973,21,Male,Undergraduate,TikTok,Mobile,4.7,8.0,5.3,6.3,3.08,No,Medium,19-21,0,Cluster 1,-9.714233,-17.755426
+STU_1974,17,Male,High School,TikTok,Mobile,6.9,4.6,7.5,5.5,2.26,Yes,High,16-18,1,Cluster 2,31.353228,13.473909
+STU_1975,17,Male,High School,TikTok,Mobile,11.1,4.5,10.0,3.9,1.79,Yes,High,16-18,1,Cluster 2,51.255363,-6.9170103
+STU_1976,20,Female,Undergraduate,TikTok,Mobile,5.3,7.8,4.9,5.8,2.53,Yes,Medium,19-21,0,Cluster 1,-6.3847694,-16.738665
+STU_1977,19,Male,Undergraduate,YouTube,Mobile,6.3,6.3,4.7,6.0,2.98,Yes,Medium,19-21,0,Cluster 1,-0.8864871,3.43654
+STU_1978,17,Male,High School,Instagram,Mobile,4.0,8.0,6.1,7.3,2.38,Yes,Medium,16-18,0,Cluster 1,-23.445854,-9.654095
+STU_1979,18,Female,High School,TikTok,Mobile,5.9,6.9,7.7,5.8,2.06,Yes,High,16-18,0,Cluster 1,15.9186125,-18.658094
+STU_1980,22,Male,Graduate,Facebook,Mobile,6.4,6.7,4.8,8.2,2.81,No,Medium,22-24,0,Cluster 1,2.9680786,9.362717
+STU_1981,23,Female,Graduate,WhatsApp,Mobile,5.9,6.4,5.1,7.3,2.74,No,Medium,22-24,0,Cluster 1,5.721628,12.062056
+STU_1982,21,Male,Undergraduate,Facebook,Mobile,3.5,6.6,3.1,8.3,3.08,No,Low,19-21,2,Cluster 3,-28.494524,10.536788
+STU_1983,20,Male,Undergraduate,TikTok,Laptop,5.9,5.7,8.2,3.3,2.46,Yes,High,19-21,1,Cluster 2,36.553352,-16.442238
+STU_1984,16,Female,High School,YouTube,Mobile,8.4,6.2,7.3,5.3,2.51,Yes,High,16-18,1,Cluster 2,33.65254,0.16902956
+STU_1985,23,Male,Graduate,TikTok,Mobile,6.4,6.5,8.1,5.1,2.25,Yes,High,22-24,1,Cluster 2,27.631607,-16.301577
+STU_1986,18,Female,High School,TikTok,Mobile,7.4,5.9,10.0,6.0,2.05,No,High,16-18,1,Cluster 2,32.875877,-4.9196343
+STU_1987,21,Male,Undergraduate,Instagram,Laptop,5.0,6.7,6.1,7.0,2.4,Yes,Medium,19-21,0,Cluster 1,5.584527,-2.785648
+STU_1988,18,Male,High School,TikTok,Mobile,7.0,6.0,7.6,6.9,2.45,Yes,High,16-18,1,Cluster 2,24.17272,17.297691
+STU_1989,22,Female,Graduate,Instagram,Mobile,6.1,7.4,7.1,6.4,2.57,Yes,High,22-24,0,Cluster 1,11.367278,-3.7290914
+STU_1990,22,Female,Graduate,Instagram,Mobile,3.6,7.3,4.0,6.9,2.63,Yes,Low,22-24,2,Cluster 3,-17.59596,-8.828428
+STU_1991,24,Female,Graduate,Facebook,Mobile,6.1,5.5,7.3,5.7,2.79,Yes,High,22-24,1,Cluster 2,25.12642,12.871845
+STU_1992,20,Male,Undergraduate,Instagram,Tablet,3.5,8.2,4.5,7.5,2.73,Yes,Medium,19-21,2,Cluster 3,-28.816385,-8.514108
+STU_1993,23,Female,Graduate,Instagram,Mobile,4.2,7.1,4.6,6.3,3.0,Yes,Medium,22-24,0,Cluster 1,-13.91008,-10.657882
+STU_1994,23,Male,Graduate,Instagram,Laptop,5.9,6.7,5.4,6.4,3.18,Yes,Medium,22-24,0,Cluster 1,7.4626217,-6.65779
+STU_1995,16,Male,High School,WhatsApp,Laptop,6.1,7.8,5.5,6.5,3.09,No,Medium,16-18,0,Cluster 1,-4.060019,-15.294272
+STU_1996,20,Female,Undergraduate,TikTok,Laptop,3.1,7.7,5.4,8.4,2.84,No,Medium,19-21,2,Cluster 3,-25.029392,-3.6291256
+STU_1997,18,Male,High School,TikTok,Mobile,7.6,6.2,7.6,3.4,2.33,Yes,High,16-18,1,Cluster 2,39.43127,-15.198381
+STU_1998,16,Female,High School,YouTube,Mobile,6.6,5.4,6.4,7.4,2.93,Yes,Medium,16-18,0,Cluster 1,19.46563,18.252373
+STU_1999,19,Male,Undergraduate,Facebook,Mobile,4.1,7.2,1.8,8.0,3.68,Yes,Low,19-21,2,Cluster 3,-28.590479,7.3763647

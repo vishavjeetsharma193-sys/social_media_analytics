@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Academic_Level,Most_Used_Platform,Device_Used,Avg_Daily_Usage_Hours,Sleep_Hours_Per_Night,Addicted_Score,Mental_Health_Score,GPA,Affects_Academic_Performance
+STU_1000,23,Male,Graduate,Instagram,Mobile,5.9,5.4,6.8,6.1,2.16,Yes
+STU_1001,18,Female,High School,TikTok,Mobile,8.8,5.4,7.5,6.0,2.81,Yes
+STU_1002,23,Female,Graduate,YouTube,Laptop,4.0,7.0,3.9,9.4,3.31,No
+STU_1003,20,Female,Undergraduate,Instagram,Mobile,9.1,5.4,8.9,3.9,2.57,Yes
+STU_1004,16,Male,High School,TikTok,Mobile,7.1,5.9,7.7,4.1,2.66,No
+STU_1005,22,Male,Graduate,YouTube,Laptop,6.6,4.8,6.8,5.0,3.19,Yes
+STU_1006,20,Male,Undergraduate,Snapchat,Mobile,6.0,6.3,6.1,5.0,2.87,Yes
+STU_1007,21,Female,Undergraduate,Instagram,Mobile,5.0,6.8,7.0,7.1,2.5,Yes
+STU_1008,21,Female,Undergraduate,TikTok,Mobile,7.9,6.3,7.3,7.2,2.58,Yes
+STU_1009,23,Female,Graduate,YouTube,Mobile,5.8,6.1,5.3,7.2,3.23,No
+STU_1010,24,Male,Graduate,TikTok,Mobile,1.6,9.7,3.3,9.2,2.97,No
+STU_1011,17,Female,High School,Instagram,Laptop,3.3,6.2,3.0,8.3,3.06,No
+STU_1012,24,Female,Graduate,YouTube,Mobile,5.1,8.0,5.6,6.6,2.71,No
+STU_1013,24,Male,Graduate,Instagram,Mobile,6.1,6.4,8.7,4.4,1.6,Yes
+STU_1014,22,Male,Graduate,YouTube,Mobile,5.4,7.5,4.8,6.8,2.98,Yes
+STU_1015,16,Male,High School,Instagram,Mobile,7.9,5.9,8.4,3.4,1.73,Yes
+STU_1016,22,Male,Graduate,Twitter,Tablet,1.6,9.3,1.6,9.3,3.53,Yes
+STU_1017,20,Female,Undergraduate,TikTok,Mobile,5.8,6.4,5.9,6.4,2.99,No
+STU_1018,21,Male,Undergraduate,Instagram,Mobile,1.9,7.4,1.2,10.0,3.45,No
+STU_1019,22,Male,Graduate,Instagram,Mobile,7.0,7.3,6.4,6.2,3.15,Yes
+STU_1020,20,Female,Undergraduate,Instagram,Mobile,5.3,6.8,4.4,7.2,2.58,No
+STU_1021,22,Male,Graduate,Facebook,Mobile,6.3,6.6,6.8,5.1,2.94,Yes
+STU_1022,24,Male,Graduate,LinkedIn,Mobile,3.8,8.5,1.4,9.2,3.75,No
+STU_1023,18,Male,High School,TikTok,Tablet,8.1,5.0,8.1,5.9,1.83,Yes
+STU_1024,23,Male,Graduate,TikTok,Mobile,7.6,6.4,9.0,3.5,3.0,Yes
+STU_1025,17,Female,High School,YouTube,Mobile,6.7,5.9,4.7,7.3,2.93,No
+STU_1026,22,Male,Graduate,Facebook,Mobile,5.2,6.8,3.4,8.2,2.92,No
+STU_1027,17,Male,High School,TikTok,Laptop,6.7,6.4,7.4,4.8,2.05,Yes
+STU_1028,19,Female,Undergraduate,TikTok,Mobile,4.1,6.2,6.3,5.6,2.6,Yes
+STU_1029,22,Male,Graduate,TikTok,Mobile,7.2,5.5,8.3,5.3,2.27,Yes
+STU_1030,18,Female,High School,Snapchat,Mobile,8.8,6.6,8.3,3.9,2.34,No
+STU_1031,17,Male,High School,Instagram,Mobile,7.6,6.7,7.7,5.7,2.33,Yes
+STU_1032,22,Male,Graduate,Snapchat,Laptop,4.0,7.3,4.6,6.3,3.16,No
+STU_1033,16,Female,High School,TikTok,Mobile,6.2,6.7,7.2,6.8,2.39,Yes
+STU_1034,23,Female,Graduate,YouTube,Mobile,2.9,7.6,1.8,10.0,2.9,No
+STU_1035,18,Female,High School,Instagram,Laptop,6.6,7.4,6.9,5.0,2.52,No
+STU_1036,17,Male,High School,TikTok,Laptop,6.4,6.3,6.0,6.9,2.0,No
+STU_1037,18,Male,High School,TikTok,Tablet,1.8,8.5,3.5,7.2,3.28,No
+STU_1038,20,Female,Undergraduate,Snapchat,Laptop,3.2,8.6,3.1,9.2,2.96,No
+STU_1039,23,Male,Graduate,Instagram,Mobile,4.9,6.4,8.0,3.9,2.41,Yes
+STU_1040,22,Male,Graduate,TikTok,Mobile,4.9,8.3,5.9,7.0,3.14,No
+STU_1041,22,Male,Graduate,TikTok,Mobile,3.1,6.5,3.1,7.3,2.96,No
+STU_1042,22,Male,Graduate,TikTok,Mobile,6.3,7.8,6.9,5.7,2.88,Yes
+STU_1043,23,Female,Graduate,Snapchat,Mobile,6.0,6.3,6.3,5.2,2.53,Yes
+STU_1044,16,Male,High School,Snapchat,Mobile,5.1,6.8,6.8,6.8,3.11,No
+STU_1045,19,Female,Undergraduate,YouTube,Mobile,4.0,5.9,3.1,7.3,3.13,Yes
+STU_1046,21,Male,Undergraduate,Instagram,Laptop,7.6,5.6,6.0,7.0,2.47,Yes
+STU_1047,24,Female,Graduate,Facebook,Mobile,8.8,4.6,7.9,4.9,2.59,Yes
+STU_1048,17,Female,High School,TikTok,Tablet,4.5,6.7,4.2,7.3,2.91,No
+STU_1049,16,Male,High School,Instagram,Mobile,4.3,7.2,4.5,7.5,2.74,No
+STU_1050,17,Female,High School,Instagram,Mobile,6.5,7.2,6.4,5.4,2.5,Yes
+STU_1051,22,Female,Graduate,Instagram,Mobile,4.8,7.3,5.3,7.1,2.84,No
+STU_1052,18,Female,High School,YouTube,Mobile,5.2,7.2,5.4,8.3,3.24,No
+STU_1053,17,Female,High School,Snapchat,Mobile,7.0,5.3,5.9,5.7,2.16,No
+STU_1054,22,Female,Graduate,YouTube,Laptop,1.7,7.6,1.6,10.0,3.52,No
+STU_1055,17,Female,High School,TikTok,Mobile,8.1,7.2,8.5,6.4,2.46,No
+STU_1056,18,Male,High School,TikTok,Mobile,5.6,6.2,6.7,5.2,2.66,Yes
+STU_1057,22,Male,Graduate,Instagram,Mobile,4.7,8.5,5.3,5.3,3.23,Yes
+STU_1058,19,Male,Undergraduate,Instagram,Mobile,5.3,6.7,6.2,6.6,2.66,Yes
+STU_1059,16,Male,High School,TikTok,Laptop,5.4,6.8,7.2,5.1,2.45,Yes
+STU_1060,20,Male,Undergraduate,Instagram,Laptop,2.0,9.0,3.5,9.8,3.34,No
+STU_1061,24,Male,Graduate,Instagram,Mobile,8.5,6.6,8.7,4.8,2.26,Yes
+STU_1062,23,Female,Graduate,TikTok,Mobile,5.6,6.7,4.9,6.3,2.8,No
+STU_1063,24,Male,Graduate,YouTube,Mobile,6.4,6.1,5.7,5.5,2.94,No
+STU_1064,24,Male,Graduate,LinkedIn,Laptop,7.4,6.0,4.9,8.1,2.72,No
+STU_1065,22,Female,Graduate,WhatsApp,Mobile,3.5,7.9,3.0,7.6,3.08,No
+STU_1066,19,Male,Undergraduate,Snapchat,Mobile,6.4,7.1,5.5,6.8,2.66,Yes
+STU_1067,20,Female,Undergraduate,TikTok,Laptop,5.0,7.0,5.3,7.8,3.25,Yes
+STU_1068,16,Male,High School,Snapchat,Mobile,7.2,6.6,6.2,5.8,1.72,No
+STU_1069,16,Female,High School,YouTube,Laptop,1.2,9.8,2.0,8.7,3.55,Yes
+STU_1070,18,Female,High School,Instagram,Mobile,5.3,7.2,6.8,5.9,2.59,Yes
+STU_1071,23,Male,Graduate,TikTok,Mobile,4.3,7.5,5.0,7.7,2.39,No
+STU_1072,17,Male,High School,Facebook,Mobile,6.4,5.2,6.0,7.0,2.81,No
+STU_1073,19,Female,Undergraduate,TikTok,Tablet,6.4,4.3,7.3,5.4,2.63,No
+STU_1074,17,Female,High School,TikTok,Laptop,4.1,7.7,5.1,7.0,3.05,No
+STU_1075,20,Female,Undergraduate,TikTok,Mobile,4.1,7.3,5.0,6.6,2.1,Yes
+STU_1076,24,Female,Graduate,Instagram,Mobile,5.3,6.5,6.5,4.6,3.05,Yes
+STU_1077,16,Male,High School,TikTok,Mobile,3.7,7.7,5.3,7.1,2.63,Yes
+STU_1078,20,Male,Undergraduate,Instagram,Laptop,7.2,6.1,9.5,6.2,2.29,No
+STU_1079,24,Male,Graduate,Instagram,Mobile,4.8,8.0,4.5,6.4,3.22,Yes
+STU_1080,16,Female,High School,Instagram,Mobile,1.0,8.7,2.8,7.5,3.03,No
+STU_1081,24,Female,Graduate,Facebook,Mobile,4.8,6.5,3.3,7.2,3.41,Yes
+STU_1082,23,Male,Graduate,Instagram,Laptop,3.4,8.4,3.4,8.7,3.08,Yes
+STU_1083,19,Male,Undergraduate,TikTok,Mobile,2.2,7.9,3.8,8.2,2.5,No
+STU_1084,20,Male,Undergraduate,Instagram,Mobile,3.0,8.2,4.1,7.4,3.42,No
+STU_1085,20,Male,Undergraduate,WhatsApp,Mobile,5.7,6.3,7.0,4.9,2.31,Yes
+STU_1086,21,Female,Undergraduate,Instagram,Laptop,8.2,5.2,7.8,5.4,2.13,Yes
+STU_1087,22,Female,Graduate,TikTok,Mobile,6.1,6.6,5.8,5.0,2.64,No
+STU_1088,23,Female,Graduate,Facebook,Mobile,4.3,7.3,3.7,7.9,3.22,No
+STU_1089,23,Male,Graduate,Facebook,Tablet,6.4,6.8,3.1,9.0,3.23,No
+STU_1090,17,Male,High School,Instagram,Mobile,4.6,7.0,5.1,5.7,3.05,No
+STU_1091,24,Female,Graduate,YouTube,Mobile,4.1,5.9,3.8,6.2,2.71,No
+STU_1092,22,Female,Graduate,TikTok,Mobile,3.2,7.4,5.3,8.4,2.61,No
+STU_1093,19,Female,Undergraduate,TikTok,Laptop,2.0,8.8,4.6,6.6,2.94,No
+STU_1094,19,Female,Undergraduate,Instagram,Mobile,4.7,6.9,4.8,8.3,3.51,No
+STU_1095,23,Male,Graduate,Instagram,Tablet,5.8,6.5,6.0,6.2,2.69,Yes
+STU_1096,19,Female,Undergraduate,YouTube,Mobile,5.3,7.7,4.0,7.5,3.41,No
+STU_1097,21,Male,Undergraduate,TikTok,Mobile,4.7,6.6,4.6,7.7,2.98,No
+STU_1098,20,Male,Undergraduate,TikTok,Mobile,3.6,6.3,5.2,6.0,2.72,No
+STU_1099,18,Male,High School,YouTube,Laptop,6.7,6.2,4.6,7.4,2.9,Yes
+STU_1100,17,Male,High School,YouTube,Mobile,2.9,7.5,2.4,8.2,3.32,No
+STU_1101,24,Female,Graduate,Instagram,Laptop,7.1,5.4,6.1,5.0,2.87,No
+STU_1102,24,Male,Graduate,Snapchat,Mobile,3.5,7.5,4.3,7.7,3.43,No
+STU_1103,16,Male,High School,Instagram,Mobile,4.0,7.8,6.5,5.8,2.74,Yes
+STU_1104,18,Female,High School,YouTube,Mobile,2.6,8.0,1.3,9.1,3.93,No
+STU_1105,23,Male,Graduate,Snapchat,Laptop,4.5,7.4,2.7,7.1,3.02,No
+STU_1106,21,Male,Undergraduate,Twitter,Mobile,7.5,7.5,6.0,8.0,2.59,Yes
+STU_1107,20,Female,Undergraduate,Instagram,Mobile,6.5,6.1,6.7,6.8,2.37,Yes
+STU_1108,20,Male,Undergraduate,Instagram,Mobile,7.5,6.2,7.7,6.4,2.51,Yes
+STU_1109,21,Male,Undergraduate,Instagram,Laptop,6.5,6.0,6.3,5.9,2.56,Yes
+STU_1110,22,Male,Graduate,Instagram,Mobile,3.3,7.0,3.9,5.9,3.31,No
+STU_1111,16,Male,High School,Instagram,Laptop,4.8,6.6,5.7,8.5,2.49,No
+STU_1112,24,Female,Graduate,WhatsApp,Mobile,3.9,7.0,3.7,7.7,3.15,No
+STU_1113,18,Female,High School,Instagram,Mobile,8.2,6.0,6.1,5.6,2.91,Yes
+STU_1114,19,Female,Undergraduate,Instagram,Mobile,3.1,9.6,3.6,8.2,2.53,No
+STU_1115,16,Female,High School,YouTube,Laptop,7.3,5.5,6.5,7.2,3.26,Yes
+STU_1116,18,Female,High School,TikTok,Laptop,7.3,5.8,6.9,5.8,2.47,No
+STU_1117,17,Male,High School,YouTube,Mobile,9.2,5.3,9.6,5.5,1.5,Yes
+STU_1118,17,Female,High School,Instagram,Mobile,4.7,7.4,4.6,8.3,3.02,No
+STU_1119,16,Female,High School,TikTok,Mobile,6.9,6.4,7.5,4.4,2.46,No
+STU_1120,23,Female,Graduate,Instagram,Mobile,10.1,6.0,10.0,3.3,1.98,Yes
+STU_1121,18,Female,High School,Instagram,Mobile,4.3,5.4,4.3,8.4,3.32,No
+STU_1122,18,Male,High School,WhatsApp,Mobile,2.4,6.1,1.0,6.7,3.84,No
+STU_1123,21,Male,Undergraduate,Instagram,Mobile,1.7,7.9,2.5,8.4,3.45,Yes
+STU_1124,23,Male,Graduate,TikTok,Mobile,6.9,7.1,8.6,3.4,2.39,Yes
+STU_1125,24,Male,Graduate,TikTok,Mobile,1.7,7.1,3.1,7.7,3.22,No
+STU_1126,24,Female,Graduate,Instagram,Mobile,4.8,4.7,4.5,7.0,3.53,No
+STU_1127,19,Female,Undergraduate,Facebook,Mobile,6.4,6.9,6.0,6.0,2.27,Yes
+STU_1128,20,Male,Undergraduate,Instagram,Mobile,5.9,6.8,5.9,5.9,2.79,Yes
+STU_1129,17,Male,High School,Snapchat,Laptop,6.4,5.6,5.6,5.6,2.82,No
+STU_1130,24,Male,Graduate,Twitter,Mobile,5.9,5.8,5.1,9.2,3.13,No
+STU_1131,23,Male,Graduate,TikTok,Mobile,8.1,5.0,9.2,6.3,1.89,Yes
+STU_1132,18,Male,High School,WhatsApp,Mobile,3.6,7.7,4.8,6.0,2.42,No
+STU_1133,24,Male,Graduate,Instagram,Mobile,4.1,6.8,5.6,8.2,2.83,No
+STU_1134,18,Female,High School,TikTok,Mobile,4.0,7.8,6.3,5.8,2.75,No
+STU_1135,24,Male,Graduate,Instagram,Mobile,7.2,3.9,6.7,6.1,3.04,No
+STU_1136,17,Male,High School,YouTube,Laptop,7.3,5.4,5.3,6.7,2.46,No
+STU_1137,24,Female,Graduate,LinkedIn,Mobile,6.4,5.5,3.7,7.1,3.48,No
+STU_1138,23,Male,Graduate,Instagram,Mobile,7.9,5.6,7.9,6.2,3.09,No
+STU_1139,24,Female,Graduate,Snapchat,Mobile,3.1,7.3,2.4,8.7,3.25,No
+STU_1140,20,Female,Undergraduate,Instagram,Mobile,8.8,6.1,8.4,4.5,1.9,Yes
+STU_1141,17,Male,High School,TikTok,Mobile,8.5,4.1,9.2,3.2,2.02,Yes
+STU_1142,23,Male,Graduate,TikTok,Laptop,7.0,6.2,7.9,4.3,2.38,Yes
+STU_1143,21,Male,Undergraduate,Twitter,Mobile,9.1,5.8,8.0,3.6,2.54,No
+STU_1144,23,Male,Graduate,Snapchat,Mobile,2.2,9.6,3.0,8.2,3.08,No
+STU_1145,20,Male,Undergraduate,Instagram,Mobile,4.5,6.8,4.6,6.1,3.45,No
+STU_1146,17,Female,High School,Instagram,Mobile,4.0,7.6,4.2,7.2,2.71,No
+STU_1147,21,Male,Undergraduate,Instagram,Tablet,6.9,4.8,5.9,7.9,2.22,No
+STU_1148,20,Male,Undergraduate,Instagram,Mobile,3.4,5.7,6.0,7.6,3.05,Yes
+STU_1149,20,Male,Undergraduate,Instagram,Mobile,7.0,6.9,7.1,5.7,1.84,Yes
+STU_1150,16,Female,High School,Facebook,Mobile,8.2,5.7,6.4,6.1,2.59,No
+STU_1151,17,Male,High School,TikTok,Tablet,6.9,7.2,6.6,7.9,3.55,Yes
+STU_1152,23,Male,Graduate,TikTok,Mobile,6.1,5.5,9.8,4.6,2.03,Yes
+STU_1153,18,Male,High School,Instagram,Mobile,3.5,8.0,3.2,7.7,2.88,No
+STU_1154,18,Female,High School,Facebook,Mobile,3.8,9.0,2.6,7.0,3.31,No
+STU_1155,23,Male,Graduate,YouTube,Mobile,8.0,6.1,7.3,6.0,2.47,No
+STU_1156,23,Female,Graduate,Instagram,Mobile,7.1,6.4,7.7,6.2,2.45,No
+STU_1157,17,Female,High School,Snapchat,Mobile,5.4,6.8,6.3,5.6,2.87,Yes
+STU_1158,23,Male,Graduate,TikTok,Mobile,4.7,5.9,7.5,5.8,2.13,Yes
+STU_1159,16,Female,High School,Instagram,Mobile,1.4,9.5,3.2,7.7,3.74,No
+STU_1160,21,Male,Undergraduate,TikTok,Mobile,3.4,7.2,3.6,7.6,3.22,No
+STU_1161,23,Female,Graduate,TikTok,Mobile,9.3,5.7,9.2,2.0,2.36,No
+STU_1162,18,Female,High School,Instagram,Mobile,2.9,6.6,4.2,7.3,2.86,Yes
+STU_1163,23,Female,Graduate,WhatsApp,Mobile,5.9,5.7,6.3,7.2,3.06,Yes
+STU_1164,16,Male,High School,Facebook,Mobile,7.5,7.1,4.6,6.6,2.89,No
+STU_1165,24,Female,Graduate,Snapchat,Tablet,3.0,7.5,4.6,7.3,3.06,No
+STU_1166,24,Male,Graduate,TikTok,Mobile,5.9,7.8,6.9,5.1,2.28,Yes
+STU_1167,20,Male,Undergraduate,TikTok,Mobile,7.4,6.0,8.7,5.1,1.93,Yes
+STU_1168,19,Male,Undergraduate,Snapchat,Mobile,5.5,5.3,5.3,6.6,3.05,No
+STU_1169,21,Female,Undergraduate,TikTok,Tablet,11.2,5.2,10.0,3.1,1.87,Yes
+STU_1170,22,Female,Graduate,Instagram,Mobile,2.2,7.7,4.0,8.9,2.83,No
+STU_1171,20,Male,Undergraduate,TikTok,Mobile,7.6,6.5,8.7,5.7,2.03,Yes
+STU_1172,24,Male,Graduate,YouTube,Mobile,5.2,7.0,5.6,6.0,3.0,Yes
+STU_1173,18,Male,High School,TikTok,Mobile,7.0,4.9,7.6,5.9,2.24,Yes
+STU_1174,22,Female,Graduate,Instagram,Mobile,6.4,6.6,6.0,6.9,2.68,Yes
+STU_1175,20,Male,Undergraduate,YouTube,Mobile,4.0,9.1,2.2,9.3,3.41,No
+STU_1176,22,Female,Graduate,Instagram,Mobile,6.0,7.0,7.1,4.1,1.95,No
+STU_1177,17,Male,High School,Instagram,Tablet,1.8,8.2,3.4,9.0,2.76,No
+STU_1178,19,Female,Undergraduate,Instagram,Mobile,6.7,7.2,5.9,5.9,2.84,Yes
+STU_1179,17,Male,High School,Instagram,Mobile,6.1,6.7,5.8,6.1,2.53,No
+STU_1180,22,Male,Graduate,YouTube,Mobile,6.8,6.5,5.5,9.4,3.14,No
+STU_1181,17,Male,High School,TikTok,Mobile,7.6,5.1,6.6,6.3,2.9,Yes
+STU_1182,16,Female,High School,Instagram,Mobile,6.2,6.7,5.7,6.2,3.0,Yes
+STU_1183,24,Female,Graduate,Facebook,Mobile,5.8,7.5,3.5,5.7,3.72,No
+STU_1184,16,Male,High School,Facebook,Mobile,3.7,6.8,2.6,9.8,3.31,Yes
+STU_1185,23,Female,Graduate,Facebook,Laptop,4.1,8.5,2.5,7.1,3.54,Yes
+STU_1186,17,Female,High School,Instagram,Laptop,7.9,5.8,6.2,5.3,2.51,No
+STU_1187,23,Female,Graduate,TikTok,Mobile,8.4,4.9,10.0,3.7,2.74,No
+STU_1188,18,Female,High School,LinkedIn,Mobile,5.0,7.8,3.8,9.2,3.72,No
+STU_1189,21,Male,Undergraduate,YouTube,Laptop,5.6,6.5,4.2,8.3,3.05,No
+STU_1190,18,Male,High School,Instagram,Mobile,3.7,8.1,4.7,7.0,3.07,No
+STU_1191,22,Female,Graduate,Instagram,Laptop,7.8,5.6,8.2,5.4,2.73,Yes
+STU_1192,24,Female,Graduate,TikTok,Mobile,6.8,6.2,8.7,4.2,2.2,Yes
+STU_1193,17,Female,High School,WhatsApp,Mobile,9.4,5.6,6.2,6.4,2.49,Yes
+STU_1194,20,Male,Undergraduate,TikTok,Mobile,3.7,7.7,6.1,6.4,2.97,Yes
+STU_1195,21,Male,Undergraduate,TikTok,Mobile,4.7,5.5,5.2,7.8,2.88,No
+STU_1196,19,Female,Undergraduate,Instagram,Mobile,6.0,5.7,4.9,8.0,2.97,No
+STU_1197,19,Female,Undergraduate,Snapchat,Mobile,6.8,7.0,7.2,6.2,2.26,No
+STU_1198,19,Female,Undergraduate,Facebook,Mobile,5.1,6.9,5.3,6.4,2.32,Yes
+STU_1199,17,Female,High School,TikTok,Mobile,3.8,7.1,7.6,6.2,2.5,No
+STU_1200,19,Female,Undergraduate,YouTube,Mobile,7.3,5.0,5.1,6.8,3.15,Yes
+STU_1201,16,Male,High School,Twitter,Tablet,6.9,5.4,6.5,5.0,2.57,No
+STU_1202,21,Male,Undergraduate,Instagram,Mobile,3.7,5.9,4.0,7.2,3.51,Yes
+STU_1203,16,Female,High School,TikTok,Laptop,8.2,5.6,9.4,4.5,1.91,Yes
+STU_1204,21,Female,Undergraduate,Instagram,Mobile,7.8,5.4,6.3,7.1,2.35,Yes
+STU_1205,16,Male,High School,YouTube,Mobile,5.8,5.9,3.9,7.5,3.09,No
+STU_1206,21,Male,Undergraduate,TikTok,Tablet,5.7,6.7,5.8,5.3,2.74,No
+STU_1207,23,Female,Graduate,Snapchat,Mobile,6.6,6.6,6.4,6.2,2.89,Yes
+STU_1208,17,Male,High School,YouTube,Mobile,3.8,9.2,2.9,8.4,3.05,No
+STU_1209,17,Male,High School,TikTok,Mobile,5.6,5.6,7.1,5.9,2.93,Yes
+STU_1210,19,Female,Undergraduate,WhatsApp,Mobile,1.2,9.4,1.5,10.0,4.0,No
+STU_1211,18,Female,High School,TikTok,Mobile,7.3,6.9,8.4,6.0,2.28,Yes
+STU_1212,19,Female,Undergraduate,Instagram,Laptop,2.4,7.4,5.0,6.4,3.27,No
+STU_1213,22,Male,Graduate,Snapchat,Mobile,8.5,5.8,8.2,4.5,2.0,Yes
+STU_1214,16,Female,High School,YouTube,Mobile,4.8,6.7,3.2,7.1,3.55,No
+STU_1215,21,Male,Undergraduate,Instagram,Mobile,5.1,7.1,6.9,6.5,2.87,No
+STU_1216,18,Male,High School,Facebook,Mobile,4.2,8.5,2.8,9.8,3.56,No
+STU_1217,22,Female,Graduate,WhatsApp,Mobile,4.9,7.5,4.3,7.1,3.01,No
+STU_1218,17,Female,High School,Instagram,Mobile,8.3,6.1,9.7,3.9,1.5,Yes
+STU_1219,17,Female,High School,LinkedIn,Mobile,1.0,8.3,1.0,10.0,3.43,No
+STU_1220,19,Female,Undergraduate,Instagram,Mobile,8.1,4.6,6.4,6.6,2.45,Yes
+STU_1221,16,Female,High School,Instagram,Mobile,6.2,6.4,5.5,7.1,2.51,No
+STU_1222,18,Male,High School,Instagram,Mobile,3.1,8.7,5.3,5.6,2.88,Yes
+STU_1223,24,Male,Graduate,Facebook,Mobile,3.3,6.4,2.5,9.2,3.22,No
+STU_1224,22,Male,Graduate,Snapchat,Mobile,8.9,4.6,8.2,4.2,2.08,No
+STU_1225,22,Male,Graduate,Instagram,Laptop,3.6,7.7,5.1,5.8,2.56,No
+STU_1226,19,Female,Undergraduate,TikTok,Mobile,3.2,6.9,5.3,6.5,2.64,No
+STU_1227,17,Male,High School,Snapchat,Mobile,7.8,5.3,7.5,4.9,2.79,Yes
+STU_1228,19,Female,Undergraduate,Instagram,Mobile,6.2,6.2,6.2,6.0,2.48,Yes
+STU_1229,21,Female,Undergraduate,Facebook,Mobile,3.6,6.5,2.6,7.0,3.18,No
+STU_1230,18,Female,High School,YouTube,Mobile,5.9,5.8,6.1,7.3,2.56,Yes
+STU_1231,16,Male,High School,TikTok,Mobile,3.4,8.2,5.3,7.9,2.95,No
+STU_1232,23,Female,Graduate,Twitter,Mobile,7.7,4.9,6.1,4.4,2.84,Yes
+STU_1233,20,Male,Undergraduate,TikTok,Mobile,7.6,4.7,9.2,5.5,1.5,Yes
+STU_1234,20,Male,Undergraduate,LinkedIn,Mobile,6.6,5.9,3.6,7.0,3.45,No
+STU_1235,19,Female,Undergraduate,Snapchat,Mobile,6.2,7.1,5.1,7.8,3.31,No
+STU_1236,21,Male,Undergraduate,Snapchat,Mobile,9.0,5.2,7.5,5.5,2.14,Yes
+STU_1237,18,Male,High School,Instagram,Mobile,5.5,6.4,4.9,7.1,2.62,Yes
+STU_1238,24,Female,Graduate,Facebook,Tablet,3.1,7.8,2.2,8.5,3.26,Yes
+STU_1239,20,Male,Undergraduate,TikTok,Laptop,6.4,5.0,8.4,6.2,2.07,Yes
+STU_1240,18,Female,High School,Instagram,Laptop,9.7,5.5,8.4,3.7,2.35,Yes
+STU_1241,16,Female,High School,Instagram,Laptop,3.5,7.9,4.5,7.9,2.41,No
+STU_1242,21,Female,Undergraduate,TikTok,Laptop,4.8,6.8,5.2,8.0,2.53,Yes
+STU_1243,17,Male,High School,TikTok,Mobile,6.3,7.3,6.8,6.6,3.04,No
+STU_1244,18,Male,High School,Snapchat,Mobile,5.4,5.9,3.8,10.0,2.84,No
+STU_1245,16,Female,High School,Facebook,Mobile,3.5,8.5,2.6,7.9,3.7,No
+STU_1246,24,Male,Graduate,Instagram,Mobile,7.7,6.0,7.5,6.5,2.56,Yes
+STU_1247,23,Female,Graduate,YouTube,Mobile,10.1,4.7,9.2,4.4,1.61,Yes
+STU_1248,17,Female,High School,Instagram,Mobile,5.9,6.6,6.4,7.4,2.83,Yes
+STU_1249,23,Female,Graduate,Facebook,Mobile,3.7,7.4,1.8,8.9,3.45,No
+STU_1250,24,Male,Graduate,YouTube,Mobile,2.4,9.0,3.5,7.5,3.03,No
+STU_1251,16,Male,High School,TikTok,Laptop,6.0,5.7,7.0,7.1,2.61,Yes
+STU_1252,20,Female,Undergraduate,Snapchat,Mobile,7.7,5.3,7.4,5.1,2.62,Yes
+STU_1253,23,Male,Graduate,Instagram,Mobile,6.5,7.2,6.7,4.6,2.82,Yes
+STU_1254,17,Male,High School,TikTok,Mobile,5.5,6.3,5.9,6.0,3.1,No
+STU_1255,19,Female,Undergraduate,Facebook,Mobile,4.3,8.0,3.7,8.4,3.26,No
+STU_1256,22,Female,Graduate,TikTok,Laptop,3.3,9.0,5.1,8.3,2.46,Yes
+STU_1257,18,Female,High School,TikTok,Mobile,7.2,5.8,6.0,6.5,2.58,No
+STU_1258,20,Female,Undergraduate,TikTok,Laptop,7.3,6.6,7.3,6.9,3.36,Yes
+STU_1259,23,Male,Graduate,Facebook,Mobile,2.4,7.1,1.7,7.6,3.72,No
+STU_1260,18,Female,High School,Instagram,Mobile,8.7,6.1,8.7,4.3,2.94,Yes
+STU_1261,19,Female,Undergraduate,Instagram,Mobile,6.6,6.5,8.0,4.9,2.78,Yes
+STU_1262,24,Male,Graduate,Snapchat,Mobile,8.3,6.1,6.9,5.8,2.64,Yes
+STU_1263,22,Male,Graduate,Facebook,Mobile,2.8,7.4,1.8,9.0,3.57,No
+STU_1264,16,Female,High School,Instagram,Mobile,2.8,6.6,3.2,8.8,3.21,No
+STU_1265,19,Female,Undergraduate,Instagram,Mobile,5.2,7.3,4.9,6.6,2.4,No
+STU_1266,19,Female,Undergraduate,Instagram,Laptop,6.5,4.7,6.4,6.3,2.66,Yes
+STU_1267,24,Female,Graduate,Instagram,Mobile,9.1,5.1,9.5,4.2,2.45,Yes
+STU_1268,21,Male,Undergraduate,TikTok,Laptop,6.9,7.0,6.5,5.2,2.45,Yes
+STU_1269,24,Male,Graduate,YouTube,Mobile,5.0,7.1,4.9,6.9,3.03,No
+STU_1270,21,Female,Undergraduate,Snapchat,Mobile,3.4,9.2,2.1,8.6,3.69,No
+STU_1271,21,Female,Undergraduate,Snapchat,Mobile,8.0,6.6,6.8,5.8,2.3,Yes
+STU_1272,20,Female,Undergraduate,TikTok,Mobile,3.6,7.0,4.5,7.3,2.85,No
+STU_1273,20,Female,Undergraduate,Facebook,Mobile,8.8,5.5,8.7,4.9,1.93,Yes
+STU_1274,17,Male,High School,TikTok,Mobile,4.9,7.0,5.7,6.2,2.53,No
+STU_1275,23,Male,Graduate,Twitter,Mobile,8.7,4.3,4.9,8.3,2.52,No
+STU_1276,23,Female,Graduate,Snapchat,Laptop,6.9,5.5,4.5,6.1,2.72,No
+STU_1277,16,Female,High School,Instagram,Mobile,5.2,6.5,5.7,5.9,3.2,No
+STU_1278,23,Female,Graduate,Snapchat,Laptop,4.5,5.6,5.2,9.7,2.59,No
+STU_1279,20,Female,Undergraduate,Instagram,Mobile,4.8,7.1,5.7,5.5,2.81,Yes
+STU_1280,17,Female,High School,Snapchat,Mobile,6.4,6.3,6.3,4.9,2.52,Yes
+STU_1281,17,Male,High School,Instagram,Mobile,5.7,5.4,7.2,6.4,2.86,Yes
+STU_1282,21,Male,Undergraduate,Instagram,Mobile,4.3,7.6,4.4,5.3,3.4,Yes
+STU_1283,24,Male,Graduate,Facebook,Mobile,5.2,7.5,5.0,6.7,3.15,No
+STU_1284,16,Female,High School,Instagram,Mobile,5.7,6.9,4.4,9.5,3.1,No
+STU_1285,21,Male,Undergraduate,Facebook,Mobile,1.2,8.2,1.0,7.9,3.55,No
+STU_1286,24,Male,Graduate,Instagram,Mobile,6.4,6.9,4.8,5.1,2.57,No
+STU_1287,23,Female,Graduate,Snapchat,Laptop,3.5,8.1,3.6,6.4,3.74,No
+STU_1288,21,Male,Undergraduate,Snapchat,Laptop,3.2,8.0,3.5,8.8,2.94,No
+STU_1289,18,Female,High School,TikTok,Mobile,2.1,7.5,3.8,8.8,3.31,Yes
+STU_1290,23,Male,Graduate,Instagram,Mobile,1.9,8.5,3.1,7.6,3.56,No
+STU_1291,24,Male,Graduate,Instagram,Mobile,2.8,8.8,2.8,9.0,3.13,No
+STU_1292,16,Female,High School,Instagram,Mobile,4.1,6.9,4.6,8.6,3.29,No
+STU_1293,24,Male,Graduate,Instagram,Mobile,9.4,6.9,7.5,7.3,2.67,Yes
+STU_1294,21,Male,Undergraduate,Snapchat,Mobile,4.4,6.8,5.9,6.2,3.25,No
+STU_1295,21,Female,Undergraduate,WhatsApp,Mobile,5.9,6.7,3.9,5.4,2.96,Yes
+STU_1296,19,Female,Undergraduate,Facebook,Mobile,6.3,5.9,4.6,6.4,2.59,No
+STU_1297,16,Male,High School,YouTube,Mobile,5.8,6.9,6.7,5.6,2.44,Yes
+STU_1298,23,Female,Graduate,YouTube,Laptop,5.3,5.5,3.5,7.6,3.23,Yes
+STU_1299,17,Male,High School,Snapchat,Laptop,3.1,7.3,2.4,8.4,3.39,No
+STU_1300,16,Male,High School,Instagram,Mobile,8.4,4.8,7.1,6.8,2.4,No
+STU_1301,17,Female,High School,WhatsApp,Laptop,9.1,5.5,6.7,7.2,2.02,Yes
+STU_1302,16,Female,High School,Snapchat,Tablet,2.1,8.9,3.1,7.9,3.38,No
+STU_1303,16,Female,High School,TikTok,Mobile,3.5,8.1,5.5,7.8,3.4,Yes
+STU_1304,24,Female,Graduate,Instagram,Mobile,4.9,5.1,8.0,5.5,2.49,No
+STU_1305,16,Female,High School,TikTok,Mobile,3.6,9.2,2.6,8.5,3.51,Yes
+STU_1306,19,Male,Undergraduate,TikTok,Laptop,6.5,6.6,7.8,6.2,2.56,Yes
+STU_1307,21,Male,Undergraduate,Facebook,Laptop,4.0,6.8,2.7,8.5,3.44,No
+STU_1308,22,Female,Graduate,TikTok,Mobile,9.8,5.2,9.3,6.5,2.41,Yes
+STU_1309,17,Male,High School,TikTok,Mobile,7.9,6.0,7.7,4.0,2.54,Yes
+STU_1310,21,Male,Undergraduate,Twitter,Mobile,5.9,6.1,4.0,7.1,2.98,No
+STU_1311,22,Male,Graduate,Instagram,Mobile,7.6,6.1,9.2,4.3,1.9,Yes
+STU_1312,17,Male,High School,TikTok,Mobile,7.7,5.4,9.0,5.0,2.1,Yes
+STU_1313,17,Female,High School,Instagram,Laptop,4.4,6.9,5.0,8.3,2.99,Yes
+STU_1314,22,Female,Graduate,YouTube,Mobile,3.9,6.9,4.9,7.0,2.82,No
+STU_1315,16,Female,High School,WhatsApp,Laptop,5.7,5.6,2.5,7.1,3.44,No
+STU_1316,23,Male,Graduate,Instagram,Laptop,7.2,6.2,5.9,7.3,2.86,No
+STU_1317,18,Male,High School,Facebook,Mobile,5.8,7.2,2.4,9.3,3.61,No
+STU_1318,21,Male,Undergraduate,Instagram,Mobile,2.3,8.5,2.7,6.5,3.7,No
+STU_1319,24,Male,Graduate,WhatsApp,Mobile,3.9,8.1,2.8,8.3,3.32,No
+STU_1320,21,Female,Undergraduate,YouTube,Mobile,5.4,7.1,4.9,5.5,2.53,No
+STU_1321,24,Female,Graduate,YouTube,Mobile,5.3,6.4,4.9,6.4,2.81,No
+STU_1322,22,Female,Graduate,Instagram,Mobile,9.4,5.9,7.6,4.5,2.44,Yes
+STU_1323,24,Male,Graduate,Twitter,Mobile,2.7,6.8,3.2,8.9,2.68,No
+STU_1324,17,Female,High School,YouTube,Mobile,6.5,5.7,5.9,6.5,3.15,No
+STU_1325,23,Female,Graduate,Instagram,Mobile,8.5,4.8,9.0,3.3,2.22,Yes
+STU_1326,23,Female,Graduate,Facebook,Mobile,10.0,5.8,6.1,7.2,2.81,Yes
+STU_1327,17,Female,High School,Instagram,Mobile,4.7,7.9,5.6,5.2,3.21,No
+STU_1328,19,Male,Undergraduate,Facebook,Mobile,6.5,6.8,4.0,7.9,2.89,No
+STU_1329,22,Male,Graduate,Instagram,Mobile,6.6,7.2,6.4,5.3,2.82,No
+STU_1330,19,Male,Undergraduate,Snapchat,Mobile,5.9,5.9,6.2,5.9,2.64,Yes
+STU_1331,19,Female,Undergraduate,TikTok,Mobile,5.3,7.2,6.3,6.7,2.6,No
+STU_1332,21,Male,Undergraduate,Instagram,Mobile,6.4,6.4,5.7,7.1,2.53,No
+STU_1333,21,Male,Undergraduate,Instagram,Mobile,1.0,9.3,2.3,10.0,3.88,No
+STU_1334,18,Male,High School,Instagram,Mobile,6.9,6.2,5.5,6.6,2.7,No
+STU_1335,24,Male,Graduate,TikTok,Laptop,5.8,6.4,7.8,5.7,2.61,Yes
+STU_1336,17,Female,High School,Instagram,Mobile,5.1,7.4,5.3,6.4,2.28,No
+STU_1337,21,Female,Undergraduate,TikTok,Mobile,9.6,5.9,10.0,4.2,2.35,Yes
+STU_1338,22,Male,Graduate,Instagram,Mobile,4.2,6.8,4.3,7.9,3.34,Yes
+STU_1339,24,Male,Graduate,Instagram,Mobile,4.7,7.1,4.7,7.1,2.98,No
+STU_1340,18,Male,High School,YouTube,Mobile,9.5,4.4,7.3,3.8,2.41,No
+STU_1341,18,Male,High School,Instagram,Mobile,3.8,5.5,5.4,7.1,2.94,No
+STU_1342,22,Male,Graduate,WhatsApp,Mobile,4.4,7.4,2.3,9.0,4.0,No
+STU_1343,19,Male,Undergraduate,Facebook,Mobile,5.2,7.4,4.8,6.4,2.41,No
+STU_1344,23,Male,Graduate,Snapchat,Mobile,7.2,6.3,6.4,4.9,2.89,Yes
+STU_1345,22,Female,Graduate,TikTok,Mobile,5.9,5.1,4.8,8.6,2.67,No
+STU_1346,20,Female,Undergraduate,Facebook,Mobile,2.9,7.6,1.8,9.4,3.48,No
+STU_1347,22,Male,Graduate,Instagram,Tablet,4.4,5.5,3.9,7.4,3.03,Yes
+STU_1348,18,Male,High School,Instagram,Mobile,4.3,8.4,5.0,5.9,2.78,No
+STU_1349,17,Female,High School,Instagram,Mobile,5.3,6.0,4.6,6.4,2.97,No
+STU_1350,21,Male,Undergraduate,YouTube,Mobile,6.4,7.5,6.5,7.4,2.29,Yes
+STU_1351,17,Female,High School,Instagram,Mobile,6.3,7.2,6.5,6.3,2.94,No
+STU_1352,18,Female,High School,TikTok,Mobile,1.9,7.5,3.4,7.4,2.65,Yes
+STU_1353,21,Male,Undergraduate,LinkedIn,Mobile,7.6,5.0,5.3,7.4,3.02,No
+STU_1354,20,Male,Undergraduate,Facebook,Mobile,6.0,6.9,5.8,5.7,2.66,No
+STU_1355,23,Female,Graduate,TikTok,Mobile,8.3,5.0,8.6,6.3,1.9,Yes
+STU_1356,24,Male,Graduate,Instagram,Mobile,6.4,6.5,5.8,7.8,2.81,No
+STU_1357,18,Female,High School,Facebook,Mobile,7.7,5.5,4.4,6.9,2.54,No
+STU_1358,18,Female,High School,TikTok,Laptop,6.4,5.0,6.5,5.5,2.65,Yes
+STU_1359,18,Female,High School,Instagram,Mobile,8.2,3.9,7.4,2.9,2.03,No
+STU_1360,21,Male,Undergraduate,Instagram,Mobile,6.5,6.6,6.8,4.4,2.71,No
+STU_1361,16,Female,High School,WhatsApp,Mobile,5.3,6.4,3.4,6.6,2.91,No
+STU_1362,22,Male,Graduate,Snapchat,Mobile,10.0,4.5,9.7,4.3,1.91,Yes
+STU_1363,16,Female,High School,Facebook,Mobile,7.3,6.6,5.2,6.5,2.95,No
+STU_1364,20,Female,Undergraduate,Facebook,Mobile,6.6,7.3,5.3,5.5,2.62,No
+STU_1365,23,Male,Graduate,TikTok,Mobile,2.9,7.6,5.5,6.4,2.79,No
+STU_1366,19,Female,Undergraduate,TikTok,Mobile,2.9,7.6,4.7,7.7,2.5,No
+STU_1367,20,Female,Undergraduate,TikTok,Mobile,6.1,7.0,6.8,6.4,2.76,Yes
+STU_1368,19,Male,Undergraduate,Instagram,Mobile,5.8,5.6,5.5,4.8,3.33,No
+STU_1369,19,Male,Undergraduate,TikTok,Laptop,4.3,7.5,4.8,7.0,3.78,Yes
+STU_1370,23,Male,Graduate,YouTube,Mobile,5.8,7.1,4.3,6.1,3.06,No
+STU_1371,17,Male,High School,Snapchat,Mobile,8.7,6.1,7.4,6.5,2.7,Yes
+STU_1372,16,Male,High School,Facebook,Mobile,6.9,4.7,6.3,7.0,2.14,Yes
+STU_1373,18,Female,High School,TikTok,Mobile,3.2,7.1,4.4,6.5,3.47,No
+STU_1374,24,Male,Graduate,Snapchat,Laptop,5.3,6.2,3.9,6.9,3.34,No
+STU_1375,19,Male,Undergraduate,Snapchat,Mobile,3.9,7.5,5.9,6.0,2.6,No
+STU_1376,20,Female,Undergraduate,TikTok,Mobile,4.7,7.5,6.1,4.1,3.07,Yes
+STU_1377,17,Male,High School,Snapchat,Mobile,4.7,8.3,3.3,8.3,3.12,No
+STU_1378,19,Female,Undergraduate,Instagram,Mobile,4.5,6.8,4.7,6.9,2.82,No
+STU_1379,17,Male,High School,TikTok,Mobile,3.0,7.4,4.5,8.3,3.13,Yes
+STU_1380,17,Male,High School,Instagram,Mobile,5.2,7.8,7.4,4.5,2.15,Yes
+STU_1381,19,Female,Undergraduate,TikTok,Mobile,4.4,7.5,4.4,6.7,3.32,No
+STU_1382,21,Female,Undergraduate,TikTok,Mobile,1.0,9.6,3.8,6.2,2.8,No
+STU_1383,22,Female,Graduate,Snapchat,Mobile,9.6,5.4,10.0,3.0,1.68,Yes
+STU_1384,18,Female,High School,Twitter,Laptop,7.7,5.0,5.7,5.4,2.5,No
+STU_1385,18,Female,High School,Snapchat,Laptop,4.7,6.0,4.5,8.3,3.21,No
+STU_1386,21,Male,Undergraduate,YouTube,Laptop,5.5,5.5,3.9,7.0,2.91,Yes
+STU_1387,18,Male,High School,TikTok,Mobile,3.2,8.3,4.3,7.5,2.62,No
+STU_1388,17,Female,High School,Snapchat,Mobile,8.9,6.4,8.1,4.8,2.16,No
+STU_1389,23,Female,Graduate,Instagram,Laptop,9.3,6.8,9.6,3.0,2.06,No
+STU_1390,20,Female,Undergraduate,Instagram,Mobile,5.8,7.3,7.2,5.5,2.14,Yes
+STU_1391,16,Male,High School,TikTok,Mobile,7.5,6.9,7.3,6.2,2.14,Yes
+STU_1392,18,Male,High School,TikTok,Laptop,5.9,6.2,4.7,6.0,3.59,No
+STU_1393,23,Female,Graduate,Instagram,Laptop,2.8,6.9,3.7,8.6,2.87,No
+STU_1394,19,Male,Undergraduate,Instagram,Mobile,4.7,7.8,5.5,5.8,2.71,Yes
+STU_1395,22,Female,Graduate,Instagram,Mobile,5.8,7.0,6.4,5.7,2.54,No
+STU_1396,17,Female,High School,Twitter,Mobile,4.6,7.2,3.5,8.4,3.04,Yes
+STU_1397,22,Male,Graduate,Instagram,Laptop,5.1,7.3,5.7,5.9,2.96,Yes
+STU_1398,20,Female,Undergraduate,TikTok,Laptop,5.3,7.1,7.8,5.4,2.69,No
+STU_1399,20,Female,Undergraduate,Instagram,Mobile,5.3,7.9,6.2,6.0,2.6,Yes
+STU_1400,21,Male,Undergraduate,Snapchat,Mobile,5.6,7.8,5.1,7.1,2.51,No
+STU_1401,24,Female,Graduate,Instagram,Laptop,3.4,8.1,3.7,5.4,3.52,No
+STU_1402,21,Male,Undergraduate,Instagram,Mobile,4.1,8.1,4.6,5.4,2.95,No
+STU_1403,23,Female,Graduate,TikTok,Mobile,2.9,8.2,6.0,7.0,3.24,No
+STU_1404,22,Male,Graduate,Instagram,Tablet,7.5,5.6,7.3,6.7,1.82,Yes
+STU_1405,24,Female,Graduate,Instagram,Mobile,1.3,9.1,2.5,7.6,3.41,No
+STU_1406,19,Male,Undergraduate,Instagram,Mobile,7.8,4.8,7.3,5.4,3.07,Yes
+STU_1407,17,Male,High School,Instagram,Mobile,8.3,6.5,9.2,4.8,2.03,No
+STU_1408,22,Female,Graduate,Instagram,Mobile,4.9,6.1,7.4,6.3,2.4,Yes
+STU_1409,21,Male,Undergraduate,Instagram,Laptop,1.0,8.8,2.8,6.3,3.39,No
+STU_1410,16,Male,High School,YouTube,Mobile,4.8,6.4,4.4,6.5,2.84,No
+STU_1411,24,Female,Graduate,TikTok,Tablet,5.4,7.3,6.3,5.9,2.57,Yes
+STU_1412,24,Female,Graduate,TikTok,Mobile,3.5,7.6,2.4,9.3,3.27,No
+STU_1413,17,Female,High School,Instagram,Mobile,4.5,5.9,5.8,9.0,2.56,No
+STU_1414,18,Female,High School,WhatsApp,Mobile,8.6,5.9,6.5,5.9,3.0,Yes
+STU_1415,20,Male,Undergraduate,TikTok,Mobile,6.8,5.8,7.9,3.9,2.52,No
+STU_1416,20,Male,Undergraduate,Instagram,Mobile,3.7,8.2,3.7,8.2,3.21,No
+STU_1417,16,Male,High School,Snapchat,Mobile,2.3,8.1,2.5,9.8,3.6,Yes
+STU_1418,23,Female,Graduate,Instagram,Mobile,4.8,7.4,5.0,7.1,2.83,No
+STU_1419,23,Female,Graduate,Instagram,Mobile,5.1,6.2,6.6,5.1,2.38,No
+STU_1420,19,Female,Undergraduate,TikTok,Mobile,6.5,5.9,6.8,6.9,2.39,No
+STU_1421,22,Female,Graduate,Facebook,Mobile,4.4,6.9,5.6,7.3,2.79,No
+STU_1422,18,Male,High School,TikTok,Mobile,6.5,7.1,7.6,4.4,2.11,No
+STU_1423,21,Male,Undergraduate,Snapchat,Mobile,9.4,6.6,7.2,6.0,2.35,No
+STU_1424,24,Male,Graduate,LinkedIn,Mobile,7.1,5.5,4.1,8.6,2.91,Yes
+STU_1425,16,Female,High School,Instagram,Mobile,5.4,7.7,5.2,8.1,3.51,Yes
+STU_1426,20,Male,Undergraduate,Instagram,Mobile,5.1,5.2,3.4,7.9,2.35,No
+STU_1427,19,Female,Undergraduate,TikTok,Mobile,4.8,6.1,7.4,5.2,2.41,No
+STU_1428,23,Male,Graduate,TikTok,Laptop,7.9,5.1,9.0,5.8,2.7,Yes
+STU_1429,16,Male,High School,TikTok,Laptop,4.2,6.2,5.9,5.2,2.77,No
+STU_1430,24,Male,Graduate,WhatsApp,Mobile,5.6,5.5,4.1,8.0,3.28,No
+STU_1431,21,Female,Undergraduate,Snapchat,Mobile,5.6,7.1,4.1,6.2,3.09,No
+STU_1432,19,Female,Undergraduate,Snapchat,Laptop,4.5,7.0,4.1,8.6,2.86,No
+STU_1433,24,Male,Graduate,Instagram,Mobile,2.8,8.2,4.5,7.0,2.31,No
+STU_1434,20,Male,Undergraduate,Facebook,Laptop,6.1,7.1,3.9,8.9,3.17,No
+STU_1435,20,Female,Undergraduate,Twitter,Laptop,5.4,7.1,2.0,9.3,3.21,No
+STU_1436,20,Male,Undergraduate,Facebook,Laptop,6.5,6.9,5.0,5.8,2.66,No
+STU_1437,16,Female,High School,Instagram,Mobile,4.4,7.2,4.9,8.5,2.77,No
+STU_1438,16,Female,High School,Snapchat,Mobile,7.9,4.9,7.5,7.1,2.98,Yes
+STU_1439,23,Male,Graduate,Instagram,Mobile,3.7,8.3,5.2,7.7,3.58,No
+STU_1440,23,Male,Graduate,Instagram,Mobile,8.9,5.0,9.3,3.7,2.2,Yes
+STU_1441,21,Female,Undergraduate,Instagram,Mobile,2.0,7.4,3.4,7.7,3.06,Yes
+STU_1442,19,Male,Undergraduate,Snapchat,Mobile,6.4,6.3,7.3,5.8,2.13,No
+STU_1443,17,Male,High School,Snapchat,Mobile,6.5,5.7,4.6,6.5,3.11,Yes
+STU_1444,17,Female,High School,Instagram,Laptop,3.9,7.1,5.1,8.6,3.41,No
+STU_1445,24,Female,Graduate,TikTok,Mobile,6.3,6.7,7.7,5.5,2.34,Yes
+STU_1446,20,Female,Undergraduate,TikTok,Laptop,8.1,6.1,7.2,3.0,1.79,Yes
+STU_1447,19,Female,Undergraduate,TikTok,Laptop,1.1,7.9,1.4,9.5,3.76,No
+STU_1448,16,Male,High School,Instagram,Mobile,6.5,6.0,6.0,6.1,3.02,No
+STU_1449,22,Male,Graduate,TikTok,Mobile,1.0,9.5,2.1,8.6,2.94,No
+STU_1450,18,Female,High School,YouTube,Laptop,3.6,8.0,4.1,7.2,3.11,No
+STU_1451,21,Female,Undergraduate,Instagram,Mobile,8.8,7.2,7.9,6.1,2.51,Yes
+STU_1452,20,Male,Undergraduate,Instagram,Mobile,4.3,8.2,4.1,8.7,3.04,Yes
+STU_1453,20,Female,Undergraduate,TikTok,Mobile,3.2,8.7,3.9,7.9,2.86,No
+STU_1454,20,Male,Undergraduate,WhatsApp,Mobile,5.1,5.8,4.7,6.8,3.26,No
+STU_1455,16,Male,High School,Snapchat,Mobile,9.6,5.8,8.7,4.7,2.11,Yes
+STU_1456,16,Male,High School,Snapchat,Mobile,1.8,8.2,2.3,8.6,2.94,No
+STU_1457,18,Male,High School,TikTok,Mobile,3.4,7.2,4.6,6.4,2.36,No
+STU_1458,19,Male,Undergraduate,TikTok,Mobile,8.5,5.7,10.0,4.6,2.38,Yes
+STU_1459,20,Male,Undergraduate,Instagram,Mobile,9.2,6.1,8.1,5.6,2.52,Yes
+STU_1460,17,Male,High School,Snapchat,Mobile,5.3,7.3,6.6,7.6,2.65,Yes
+STU_1461,23,Female,Graduate,WhatsApp,Mobile,3.0,7.1,2.1,10.0,3.28,No
+STU_1462,17,Female,High School,Snapchat,Laptop,9.7,5.7,8.6,4.2,2.09,Yes
+STU_1463,24,Female,Graduate,Facebook,Mobile,8.7,5.0,9.5,5.1,1.78,Yes
+STU_1464,17,Female,High School,YouTube,Mobile,6.9,6.4,4.9,6.1,2.78,No
+STU_1465,24,Male,Graduate,Instagram,Mobile,3.9,7.2,4.2,8.1,2.4,No
+STU_1466,22,Male,Graduate,WhatsApp,Mobile,5.4,6.7,2.6,7.9,3.11,No
+STU_1467,23,Female,Graduate,Instagram,Mobile,5.2,7.5,6.6,5.0,2.52,No
+STU_1468,17,Male,High School,TikTok,Laptop,6.2,5.7,8.6,5.1,2.43,No
+STU_1469,22,Female,Graduate,Instagram,Mobile,8.4,7.2,9.9,1.4,2.01,Yes
+STU_1470,21,Male,Undergraduate,Instagram,Laptop,7.3,4.6,8.5,3.1,2.5,Yes
+STU_1471,19,Female,Undergraduate,TikTok,Mobile,3.3,7.2,4.5,7.1,3.4,Yes
+STU_1472,22,Male,Graduate,Instagram,Mobile,8.3,6.0,7.7,5.4,2.72,Yes
+STU_1473,19,Female,Undergraduate,TikTok,Mobile,6.1,7.0,5.2,6.5,3.0,No
+STU_1474,17,Female,High School,TikTok,Laptop,6.9,6.2,9.5,2.7,2.09,Yes
+STU_1475,22,Female,Graduate,Instagram,Mobile,8.4,5.6,8.7,4.0,1.94,No
+STU_1476,23,Male,Graduate,Instagram,Mobile,3.3,8.0,3.6,8.2,3.37,Yes
+STU_1477,17,Female,High School,TikTok,Mobile,5.4,6.6,7.7,6.0,2.92,Yes
+STU_1478,20,Female,Undergraduate,Instagram,Mobile,4.4,8.3,4.1,7.5,3.17,No
+STU_1479,16,Female,High School,YouTube,Mobile,2.4,8.7,2.8,9.5,3.87,No
+STU_1480,22,Female,Graduate,Snapchat,Mobile,6.2,7.2,5.8,6.9,2.3,No
+STU_1481,23,Female,Graduate,Facebook,Mobile,10.5,4.0,9.1,3.8,1.82,Yes
+STU_1482,21,Male,Undergraduate,Snapchat,Mobile,1.8,8.2,2.4,8.3,3.63,No
+STU_1483,20,Female,Undergraduate,TikTok,Mobile,5.4,6.6,4.9,5.7,3.0,Yes
+STU_1484,21,Female,Undergraduate,Snapchat,Laptop,6.8,5.5,6.5,6.0,3.02,No
+STU_1485,17,Female,High School,Instagram,Laptop,5.7,7.0,7.1,6.8,2.51,Yes
+STU_1486,16,Male,High School,Instagram,Laptop,5.3,6.5,5.7,7.3,2.52,No
+STU_1487,22,Male,Graduate,YouTube,Mobile,2.9,8.4,3.6,9.2,3.09,No
+STU_1488,22,Female,Graduate,TikTok,Mobile,6.0,5.8,5.7,6.3,2.31,Yes
+STU_1489,17,Female,High School,YouTube,Mobile,4.0,8.8,3.7,9.1,2.8,No
+STU_1490,17,Male,High School,Facebook,Mobile,1.1,7.8,1.0,9.2,3.91,No
+STU_1491,16,Female,High School,Facebook,Mobile,7.9,6.0,7.1,7.2,2.79,Yes
+STU_1492,23,Male,Graduate,WhatsApp,Mobile,7.4,6.7,5.5,6.7,2.93,Yes
+STU_1493,23,Male,Graduate,TikTok,Mobile,5.6,6.3,7.2,6.4,1.99,Yes
+STU_1494,16,Male,High School,Instagram,Mobile,6.0,7.3,7.4,7.1,2.37,Yes
+STU_1495,23,Male,Graduate,TikTok,Laptop,7.6,5.0,8.8,4.5,1.85,No
+STU_1496,24,Female,Graduate,TikTok,Mobile,5.9,7.8,7.0,6.0,2.89,Yes
+STU_1497,19,Male,Undergraduate,Snapchat,Mobile,7.3,6.1,5.8,7.8,2.57,No
+STU_1498,16,Female,High School,Snapchat,Mobile,4.9,6.6,4.9,6.9,2.59,Yes
+STU_1499,16,Female,High School,Snapchat,Mobile,8.1,5.5,7.0,4.5,2.56,Yes
+STU_1500,18,Female,High School,TikTok,Mobile,6.1,7.2,6.6,8.2,2.43,Yes
+STU_1501,20,Female,Undergraduate,Instagram,Laptop,5.9,6.2,5.8,6.0,3.19,Yes
+STU_1502,20,Male,Undergraduate,TikTok,Laptop,3.0,7.2,3.4,8.1,2.97,No
+STU_1503,24,Female,Graduate,Instagram,Mobile,6.1,6.4,4.4,8.5,2.59,No
+STU_1504,17,Female,High School,Facebook,Laptop,3.8,6.5,2.4,8.0,2.72,No
+STU_1505,17,Male,High School,Instagram,Tablet,4.2,8.8,5.1,5.9,2.88,No
+STU_1506,21,Female,Undergraduate,Instagram,Laptop,3.9,7.0,3.2,8.3,3.05,No
+STU_1507,24,Female,Graduate,Instagram,Laptop,3.4,8.3,4.2,5.7,2.61,No
+STU_1508,16,Female,High School,Snapchat,Mobile,9.7,5.3,10.0,3.7,2.36,Yes
+STU_1509,24,Female,Graduate,Snapchat,Mobile,8.2,4.9,8.6,5.1,2.46,Yes
+STU_1510,24,Female,Graduate,Instagram,Mobile,9.3,5.3,10.0,3.7,1.99,Yes
+STU_1511,24,Male,Graduate,Instagram,Mobile,3.1,8.4,4.3,5.9,3.43,No
+STU_1512,20,Female,Undergraduate,TikTok,Tablet,5.6,6.6,7.7,7.0,2.62,Yes
+STU_1513,24,Female,Graduate,Instagram,Mobile,2.9,8.8,3.1,8.2,2.99,No
+STU_1514,19,Male,Undergraduate,Snapchat,Mobile,4.1,8.2,3.6,9.2,2.83,No
+STU_1515,17,Male,High School,Snapchat,Laptop,3.7,8.3,1.2,9.0,3.83,No
+STU_1516,21,Male,Undergraduate,TikTok,Laptop,8.0,5.4,9.6,3.4,2.2,Yes
+STU_1517,19,Female,Undergraduate,Instagram,Tablet,4.7,6.3,6.8,6.2,2.63,Yes
+STU_1518,21,Female,Undergraduate,LinkedIn,Mobile,7.6,5.5,4.1,7.4,2.82,Yes
+STU_1519,18,Male,High School,TikTok,Mobile,6.7,6.5,7.1,4.6,2.7,No
+STU_1520,21,Female,Undergraduate,Snapchat,Mobile,10.1,5.4,8.3,6.5,2.07,Yes
+STU_1521,17,Male,High School,Instagram,Mobile,2.5,6.2,3.9,7.0,3.06,Yes
+STU_1522,17,Female,High School,TikTok,Mobile,8.0,5.8,9.5,2.4,2.52,Yes
+STU_1523,24,Female,Graduate,Instagram,Mobile,7.8,6.0,6.0,7.7,2.52,No
+STU_1524,22,Female,Graduate,TikTok,Laptop,3.6,7.4,5.3,6.3,2.38,No
+STU_1525,18,Male,High School,Twitter,Mobile,7.5,7.0,5.9,5.8,2.42,No
+STU_1526,16,Male,High School,TikTok,Mobile,6.2,6.9,7.1,4.0,2.83,Yes
+STU_1527,23,Male,Graduate,Instagram,Mobile,5.0,8.0,6.0,8.1,2.8,No
+STU_1528,21,Male,Undergraduate,Instagram,Mobile,3.9,7.3,4.4,6.1,2.97,No
+STU_1529,22,Female,Graduate,TikTok,Mobile,4.1,8.1,5.1,7.0,2.72,No
+STU_1530,24,Female,Graduate,Instagram,Laptop,9.6,6.5,9.0,5.5,2.33,Yes
+STU_1531,20,Female,Undergraduate,Instagram,Mobile,5.5,7.8,6.9,6.3,2.31,Yes
+STU_1532,16,Female,High School,YouTube,Laptop,7.1,5.3,6.6,6.0,2.71,Yes
+STU_1533,22,Female,Graduate,TikTok,Mobile,3.9,7.2,5.4,5.1,2.62,Yes
+STU_1534,20,Female,Undergraduate,Instagram,Laptop,3.9,7.1,3.4,7.2,2.92,No
+STU_1535,18,Female,High School,WhatsApp,Mobile,7.7,6.3,5.3,7.0,2.66,No
+STU_1536,24,Female,Graduate,Instagram,Mobile,2.8,8.4,4.6,6.4,2.85,No
+STU_1537,16,Male,High School,Twitter,Mobile,4.7,6.5,4.0,7.8,3.07,No
+STU_1538,16,Male,High School,Instagram,Laptop,5.6,6.8,6.6,6.7,2.68,Yes
+STU_1539,16,Male,High School,Facebook,Mobile,5.7,5.1,6.3,7.2,1.55,Yes
+STU_1540,18,Female,High School,Snapchat,Mobile,5.1,8.1,6.2,5.1,2.45,Yes
+STU_1541,21,Female,Undergraduate,Facebook,Tablet,6.3,6.1,5.1,9.1,2.76,Yes
+STU_1542,18,Male,High School,LinkedIn,Laptop,6.9,6.3,3.5,8.7,3.62,Yes
+STU_1543,23,Female,Graduate,Instagram,Mobile,7.0,6.0,4.5,7.3,2.66,Yes
+STU_1544,17,Female,High School,Twitter,Mobile,3.5,8.5,2.9,9.4,3.34,No
+STU_1545,24,Male,Graduate,TikTok,Mobile,4.9,4.8,5.6,9.0,3.24,No
+STU_1546,18,Male,High School,TikTok,Mobile,7.9,5.8,8.7,3.3,1.84,Yes
+STU_1547,20,Female,Undergraduate,Instagram,Mobile,7.3,6.0,7.2,5.5,2.63,Yes
+STU_1548,23,Female,Graduate,TikTok,Laptop,2.8,7.5,3.9,5.3,2.86,Yes
+STU_1549,17,Female,High School,Instagram,Laptop,6.2,7.9,4.7,7.4,2.81,No
+STU_1550,21,Female,Undergraduate,TikTok,Mobile,1.5,7.7,2.3,9.0,3.15,No
+STU_1551,20,Female,Undergraduate,TikTok,Mobile,5.6,7.4,7.0,5.8,2.33,Yes
+STU_1552,24,Female,Graduate,YouTube,Mobile,9.3,5.6,9.7,3.6,2.88,No
+STU_1553,20,Female,Undergraduate,Facebook,Tablet,3.6,8.6,2.8,6.3,3.55,No
+STU_1554,17,Female,High School,TikTok,Tablet,3.8,6.9,5.4,7.1,3.16,No
+STU_1555,20,Male,Undergraduate,Instagram,Mobile,7.0,5.6,8.1,6.6,2.49,Yes
+STU_1556,19,Male,Undergraduate,Instagram,Laptop,2.4,8.9,2.6,7.8,2.85,No
+STU_1557,22,Male,Graduate,Instagram,Mobile,4.2,7.6,5.3,7.3,2.97,No
+STU_1558,21,Female,Undergraduate,Instagram,Mobile,6.7,5.1,6.1,4.8,3.02,Yes
+STU_1559,17,Female,High School,Instagram,Mobile,4.2,6.9,5.7,7.0,2.51,No
+STU_1560,20,Female,Undergraduate,Instagram,Mobile,5.0,7.3,5.7,6.2,3.07,No
+STU_1561,22,Male,Graduate,Twitter,Mobile,7.0,6.9,6.1,5.6,2.92,Yes
+STU_1562,22,Male,Graduate,TikTok,Mobile,6.3,5.9,6.3,5.5,3.22,Yes
+STU_1563,20,Male,Undergraduate,Instagram,Mobile,6.0,4.3,7.0,5.4,2.41,Yes
+STU_1564,24,Male,Graduate,TikTok,Laptop,4.8,7.5,7.9,5.6,2.04,No
+STU_1565,19,Female,Undergraduate,Instagram,Mobile,6.2,5.5,5.5,5.4,2.7,Yes
+STU_1566,18,Male,High School,TikTok,Mobile,5.3,5.3,5.9,6.1,3.18,No
+STU_1567,19,Male,Undergraduate,Snapchat,Mobile,6.4,4.2,6.4,6.1,2.11,Yes
+STU_1568,20,Female,Undergraduate,TikTok,Mobile,4.5,7.8,6.4,5.1,2.03,Yes
+STU_1569,21,Male,Undergraduate,TikTok,Mobile,5.1,7.0,5.5,8.5,2.83,No
+STU_1570,18,Male,High School,LinkedIn,Mobile,3.5,7.4,1.0,8.5,3.49,Yes
+STU_1571,17,Female,High School,Facebook,Mobile,5.4,7.9,5.7,5.9,2.78,No
+STU_1572,19,Male,Undergraduate,Snapchat,Mobile,3.9,8.0,4.9,6.1,3.21,Yes
+STU_1573,20,Female,Undergraduate,TikTok,Mobile,3.3,9.0,2.9,10.0,3.12,No
+STU_1574,19,Female,Undergraduate,Snapchat,Mobile,6.0,5.5,5.2,7.4,2.3,No
+STU_1575,18,Female,High School,Instagram,Mobile,5.9,6.6,7.8,4.4,3.01,No
+STU_1576,23,Male,Graduate,TikTok,Mobile,7.1,4.9,9.1,5.6,1.86,No
+STU_1577,19,Female,Undergraduate,Instagram,Mobile,4.6,7.0,6.1,6.5,2.38,Yes
+STU_1578,17,Male,High School,TikTok,Laptop,6.3,6.3,6.9,6.1,2.89,Yes
+STU_1579,17,Male,High School,TikTok,Mobile,6.6,6.9,7.4,5.2,2.36,Yes
+STU_1580,16,Male,High School,Instagram,Mobile,6.4,6.5,6.5,5.4,2.61,Yes
+STU_1581,19,Female,Undergraduate,Twitter,Laptop,3.8,8.0,4.4,7.7,3.15,Yes
+STU_1582,24,Male,Graduate,WhatsApp,Mobile,5.8,7.2,3.3,7.5,3.54,No
+STU_1583,22,Male,Graduate,YouTube,Mobile,6.2,8.2,4.7,9.0,2.86,No
+STU_1584,22,Female,Graduate,TikTok,Laptop,5.5,6.5,7.4,4.3,2.92,Yes
+STU_1585,22,Male,Graduate,Facebook,Laptop,1.3,7.7,1.0,10.0,2.98,Yes
+STU_1586,23,Male,Graduate,Instagram,Tablet,5.8,6.9,7.5,5.4,2.67,Yes
+STU_1587,16,Male,High School,YouTube,Mobile,9.9,4.4,7.8,5.6,2.15,Yes
+STU_1588,23,Male,Graduate,Instagram,Mobile,4.8,8.3,5.3,7.7,3.26,No
+STU_1589,19,Male,Undergraduate,YouTube,Mobile,4.0,7.2,2.8,7.7,3.34,No
+STU_1590,19,Male,Undergraduate,Instagram,Mobile,6.2,6.0,6.5,7.0,2.43,Yes
+STU_1591,19,Female,Undergraduate,Facebook,Mobile,6.1,6.2,3.4,5.2,3.38,No
+STU_1592,21,Male,Undergraduate,WhatsApp,Mobile,7.9,6.4,5.3,6.1,3.11,No
+STU_1593,22,Male,Graduate,Instagram,Laptop,3.0,7.7,2.5,7.6,3.55,No
+STU_1594,21,Female,Undergraduate,TikTok,Mobile,7.0,5.7,8.3,3.8,2.0,No
+STU_1595,16,Male,High School,LinkedIn,Mobile,6.7,7.7,4.6,7.0,2.83,No
+STU_1596,23,Female,Graduate,TikTok,Mobile,5.2,6.2,4.4,7.7,3.0,No
+STU_1597,22,Male,Graduate,Facebook,Mobile,6.2,6.6,6.3,6.9,2.66,Yes
+STU_1598,21,Male,Undergraduate,TikTok,Mobile,7.6,6.5,10.0,4.2,2.22,Yes
+STU_1599,21,Male,Undergraduate,TikTok,Mobile,7.2,4.8,7.8,4.6,1.78,No
+STU_1600,20,Male,Undergraduate,Instagram,Mobile,3.2,8.1,3.4,8.3,3.28,Yes
+STU_1601,21,Male,Undergraduate,Instagram,Mobile,7.1,5.3,10.0,4.1,1.91,Yes
+STU_1602,24,Male,Graduate,YouTube,Laptop,5.4,7.5,3.5,8.8,2.92,No
+STU_1603,24,Male,Graduate,TikTok,Laptop,5.6,6.0,6.5,6.9,2.4,Yes
+STU_1604,23,Male,Graduate,TikTok,Mobile,5.6,7.3,6.7,6.0,2.53,Yes
+STU_1605,24,Male,Graduate,TikTok,Mobile,5.2,7.8,7.5,4.6,1.5,Yes
+STU_1606,23,Male,Graduate,TikTok,Laptop,7.9,6.5,8.7,4.1,2.03,Yes
+STU_1607,23,Male,Graduate,Facebook,Laptop,5.3,7.1,3.8,7.2,2.86,Yes
+STU_1608,16,Male,High School,LinkedIn,Mobile,3.3,7.5,1.0,9.1,3.78,No
+STU_1609,20,Female,Undergraduate,TikTok,Mobile,4.7,6.7,5.4,7.0,2.58,No
+STU_1610,19,Male,Undergraduate,Facebook,Mobile,5.9,7.8,3.7,8.5,3.07,Yes
+STU_1611,17,Female,High School,YouTube,Laptop,8.0,5.3,6.9,5.8,3.02,Yes
+STU_1612,23,Female,Graduate,TikTok,Tablet,6.7,5.5,6.8,5.9,2.87,No
+STU_1613,18,Male,High School,Twitter,Mobile,3.8,8.0,1.7,9.1,3.76,No
+STU_1614,19,Female,Undergraduate,Instagram,Laptop,10.5,4.2,10.0,3.5,1.85,No
+STU_1615,22,Female,Graduate,Instagram,Mobile,6.0,5.8,5.8,5.6,2.91,No
+STU_1616,24,Male,Graduate,Facebook,Tablet,8.1,4.6,5.2,5.1,2.8,No
+STU_1617,17,Male,High School,TikTok,Mobile,5.2,6.5,6.0,5.7,2.66,Yes
+STU_1618,18,Female,High School,Facebook,Laptop,6.6,6.3,5.3,7.3,2.96,No
+STU_1619,19,Female,Undergraduate,Facebook,Mobile,7.2,6.3,4.0,6.9,2.9,No
+STU_1620,16,Male,High School,Instagram,Mobile,7.9,6.6,8.2,4.9,2.78,No
+STU_1621,22,Male,Graduate,Facebook,Mobile,7.6,6.4,5.0,7.4,2.84,No
+STU_1622,17,Male,High School,TikTok,Tablet,7.2,5.9,9.5,4.8,2.27,Yes
+STU_1623,20,Male,Undergraduate,TikTok,Laptop,4.9,6.9,6.4,5.1,3.08,Yes
+STU_1624,16,Female,High School,Snapchat,Laptop,4.4,7.7,4.1,8.5,3.37,No
+STU_1625,18,Male,High School,WhatsApp,Laptop,6.2,7.6,3.7,8.9,2.71,No
+STU_1626,17,Male,High School,Instagram,Mobile,7.4,6.2,7.3,4.5,2.62,Yes
+STU_1627,16,Female,High School,TikTok,Mobile,5.1,6.6,6.7,5.2,2.86,Yes
+STU_1628,22,Male,Graduate,Snapchat,Mobile,7.6,5.2,7.1,6.9,2.79,Yes
+STU_1629,20,Male,Undergraduate,YouTube,Mobile,8.4,4.5,7.0,5.6,2.2,Yes
+STU_1630,16,Female,High School,Snapchat,Mobile,3.7,8.1,4.0,5.4,2.88,No
+STU_1631,21,Female,Undergraduate,Instagram,Mobile,3.8,7.9,4.0,6.2,3.39,No
+STU_1632,20,Male,Undergraduate,Instagram,Mobile,5.2,7.4,5.3,6.6,2.61,No
+STU_1633,18,Female,High School,TikTok,Mobile,6.1,6.5,4.8,6.0,2.84,Yes
+STU_1634,22,Male,Graduate,YouTube,Mobile,4.5,8.3,5.0,6.6,3.37,No
+STU_1635,24,Male,Graduate,Instagram,Mobile,8.2,5.3,8.4,5.0,2.28,Yes
+STU_1636,24,Female,Graduate,Instagram,Tablet,6.3,7.2,5.8,8.0,2.54,No
+STU_1637,24,Male,Graduate,Twitter,Laptop,5.6,6.7,6.6,5.8,2.36,No
+STU_1638,17,Male,High School,Instagram,Tablet,2.6,7.5,3.7,8.9,3.24,Yes
+STU_1639,18,Male,High School,LinkedIn,Mobile,2.9,8.3,1.0,10.0,3.22,Yes
+STU_1640,22,Male,Graduate,Snapchat,Mobile,6.1,6.9,6.7,7.4,2.52,Yes
+STU_1641,20,Male,Undergraduate,Facebook,Laptop,1.2,8.8,1.4,9.5,3.65,No
+STU_1642,17,Male,High School,Instagram,Mobile,7.5,6.1,7.9,3.3,2.77,Yes
+STU_1643,18,Male,High School,Instagram,Mobile,5.2,6.9,5.2,7.3,3.06,No
+STU_1644,21,Male,Undergraduate,YouTube,Mobile,12.0,6.1,10.0,5.0,1.79,Yes
+STU_1645,22,Female,Graduate,Facebook,Mobile,10.1,5.9,7.8,5.2,2.74,Yes
+STU_1646,24,Female,Graduate,YouTube,Mobile,5.1,7.5,5.2,8.6,2.78,No
+STU_1647,16,Female,High School,Instagram,Mobile,5.3,7.0,3.8,8.6,2.74,No
+STU_1648,22,Female,Graduate,YouTube,Mobile,7.5,6.8,6.1,6.9,2.66,Yes
+STU_1649,23,Male,Graduate,YouTube,Mobile,8.9,5.9,9.3,5.5,2.55,Yes
+STU_1650,18,Male,High School,Snapchat,Mobile,2.2,8.1,2.0,9.1,3.49,No
+STU_1651,19,Female,Undergraduate,YouTube,Laptop,1.9,8.0,1.4,6.6,3.54,No
+STU_1652,21,Female,Undergraduate,Facebook,Mobile,4.3,7.2,3.0,7.7,3.76,No
+STU_1653,22,Female,Graduate,Snapchat,Mobile,6.7,3.8,5.1,8.1,2.45,No
+STU_1654,19,Male,Undergraduate,Instagram,Laptop,6.5,6.6,4.5,6.5,2.61,Yes
+STU_1655,23,Male,Graduate,TikTok,Mobile,7.6,5.6,7.9,5.0,1.9,Yes
+STU_1656,20,Male,Undergraduate,Instagram,Mobile,3.1,9.0,4.1,6.5,3.17,No
+STU_1657,16,Male,High School,TikTok,Mobile,1.0,8.6,2.7,10.0,3.36,Yes
+STU_1658,19,Female,Undergraduate,TikTok,Mobile,7.2,5.2,7.6,7.1,2.89,Yes
+STU_1659,18,Female,High School,Instagram,Mobile,3.8,7.4,4.6,6.3,3.04,No
+STU_1660,24,Male,Graduate,Instagram,Laptop,1.5,7.6,3.7,7.9,3.01,No
+STU_1661,23,Female,Graduate,Instagram,Mobile,5.8,7.1,5.9,5.8,2.73,No
+STU_1662,16,Female,High School,YouTube,Mobile,7.1,6.4,5.6,7.3,2.83,No
+STU_1663,21,Male,Undergraduate,WhatsApp,Mobile,5.3,7.7,3.4,8.5,2.68,Yes
+STU_1664,24,Male,Graduate,Instagram,Mobile,4.6,6.5,5.7,7.4,3.58,Yes
+STU_1665,22,Male,Graduate,Twitter,Mobile,5.2,7.0,5.8,6.9,2.92,No
+STU_1666,19,Male,Undergraduate,TikTok,Mobile,4.8,6.0,5.2,9.8,2.93,No
+STU_1667,16,Male,High School,Instagram,Mobile,2.8,8.4,3.8,6.7,3.29,No
+STU_1668,17,Male,High School,Instagram,Mobile,4.1,7.8,5.1,5.2,3.1,Yes
+STU_1669,20,Male,Undergraduate,TikTok,Mobile,6.5,6.8,6.2,5.9,2.63,Yes
+STU_1670,20,Male,Undergraduate,YouTube,Mobile,6.1,6.5,5.4,5.2,2.63,No
+STU_1671,23,Female,Graduate,Snapchat,Laptop,5.8,7.0,4.2,6.0,3.22,Yes
+STU_1672,21,Male,Undergraduate,Instagram,Mobile,3.5,8.9,2.5,7.5,3.46,Yes
+STU_1673,23,Female,Graduate,Instagram,Mobile,5.1,6.7,6.0,5.5,2.48,No
+STU_1674,17,Male,High School,TikTok,Mobile,1.1,8.7,2.5,7.5,3.77,No
+STU_1675,18,Female,High School,Instagram,Mobile,5.9,5.8,6.4,6.7,2.74,Yes
+STU_1676,21,Male,Undergraduate,Instagram,Mobile,8.4,5.0,8.2,4.6,2.55,Yes
+STU_1677,18,Male,High School,Instagram,Mobile,2.6,8.1,2.6,8.3,3.76,No
+STU_1678,21,Female,Undergraduate,YouTube,Laptop,4.3,8.2,3.9,8.5,3.1,No
+STU_1679,21,Female,Undergraduate,WhatsApp,Laptop,6.2,6.3,3.2,7.3,3.32,No
+STU_1680,17,Female,High School,TikTok,Mobile,8.0,5.6,9.8,3.9,2.28,No
+STU_1681,22,Male,Graduate,WhatsApp,Mobile,4.6,6.8,1.8,9.3,3.25,Yes
+STU_1682,17,Male,High School,Instagram,Laptop,4.1,6.9,4.6,5.3,2.99,No
+STU_1683,21,Female,Undergraduate,TikTok,Tablet,1.6,8.6,2.2,6.3,3.44,No
+STU_1684,16,Female,High School,Instagram,Laptop,5.7,5.5,6.6,6.4,2.32,Yes
+STU_1685,18,Female,High School,Snapchat,Mobile,9.6,6.2,8.3,5.5,2.99,No
+STU_1686,17,Female,High School,Twitter,Mobile,6.1,6.0,4.5,9.3,2.56,No
+STU_1687,22,Male,Graduate,Snapchat,Mobile,5.5,7.4,6.2,6.4,2.29,Yes
+STU_1688,19,Female,Undergraduate,TikTok,Mobile,6.1,5.5,6.9,6.7,2.94,Yes
+STU_1689,23,Male,Graduate,Snapchat,Mobile,5.5,7.3,5.9,6.3,2.95,No
+STU_1690,21,Male,Undergraduate,Instagram,Mobile,3.9,8.0,3.6,8.1,2.84,No
+STU_1691,19,Male,Undergraduate,Facebook,Laptop,7.1,6.4,4.3,9.1,3.21,No
+STU_1692,20,Male,Undergraduate,TikTok,Mobile,6.0,5.8,6.9,3.8,3.0,Yes
+STU_1693,24,Male,Graduate,TikTok,Laptop,5.5,7.0,6.1,6.7,2.69,Yes
+STU_1694,22,Male,Graduate,TikTok,Mobile,3.5,6.6,5.5,8.9,3.6,Yes
+STU_1695,24,Female,Graduate,Snapchat,Mobile,8.1,5.6,7.4,5.8,1.95,Yes
+STU_1696,22,Male,Graduate,Instagram,Mobile,6.8,7.1,7.2,7.3,2.72,Yes
+STU_1697,16,Female,High School,Snapchat,Laptop,4.4,7.9,2.9,7.6,3.63,No
+STU_1698,23,Male,Graduate,Instagram,Mobile,7.5,6.0,9.4,4.3,2.38,No
+STU_1699,19,Male,Undergraduate,Snapchat,Mobile,4.5,6.4,4.4,7.4,2.94,Yes
+STU_1700,18,Female,High School,Facebook,Tablet,3.9,7.9,3.8,5.5,3.02,No
+STU_1701,22,Male,Graduate,YouTube,Mobile,4.0,7.4,2.8,7.1,3.42,No
+STU_1702,18,Male,High School,TikTok,Mobile,2.0,6.4,3.9,6.6,3.35,No
+STU_1703,23,Male,Graduate,TikTok,Mobile,6.4,7.0,5.9,7.3,2.93,No
+STU_1704,21,Male,Undergraduate,Instagram,Mobile,1.8,8.2,3.4,8.8,3.5,Yes
+STU_1705,20,Female,Undergraduate,YouTube,Mobile,3.0,8.7,2.6,8.8,3.03,Yes
+STU_1706,19,Male,Undergraduate,Instagram,Mobile,1.3,7.6,2.6,9.3,3.26,No
+STU_1707,23,Female,Graduate,TikTok,Mobile,5.3,4.3,7.0,5.7,2.27,Yes
+STU_1708,23,Male,Graduate,Instagram,Mobile,5.2,7.1,4.4,8.5,2.89,No
+STU_1709,16,Female,High School,Instagram,Mobile,4.8,7.3,4.7,7.2,3.26,No
+STU_1710,24,Female,Graduate,Snapchat,Mobile,3.4,6.3,4.2,7.5,3.08,Yes
+STU_1711,20,Female,Undergraduate,Instagram,Mobile,3.2,7.0,6.1,6.1,3.48,Yes
+STU_1712,19,Male,Undergraduate,YouTube,Mobile,6.4,8.6,5.5,7.4,2.87,Yes
+STU_1713,21,Male,Undergraduate,Instagram,Mobile,4.4,7.0,5.6,6.2,2.81,Yes
+STU_1714,21,Male,Undergraduate,Instagram,Mobile,6.1,7.1,6.3,7.2,2.7,Yes
+STU_1715,17,Female,High School,TikTok,Mobile,3.7,7.0,6.9,4.7,2.36,Yes
+STU_1716,23,Female,Graduate,Instagram,Laptop,5.9,5.0,4.4,6.2,2.98,No
+STU_1717,22,Female,Graduate,Instagram,Mobile,8.1,5.6,8.1,5.8,2.68,Yes
+STU_1718,16,Male,High School,Snapchat,Laptop,6.7,6.1,4.7,7.1,2.99,No
+STU_1719,20,Female,Undergraduate,Instagram,Tablet,4.7,6.8,2.7,7.9,3.07,No
+STU_1720,21,Female,Undergraduate,Facebook,Mobile,6.0,6.5,5.1,7.8,2.6,No
+STU_1721,19,Male,Undergraduate,Instagram,Mobile,5.0,7.2,5.7,6.0,2.65,No
+STU_1722,17,Male,High School,Instagram,Mobile,5.5,6.7,5.6,6.4,2.81,No
+STU_1723,19,Female,Undergraduate,YouTube,Laptop,4.8,6.0,4.3,8.8,3.39,Yes
+STU_1724,16,Female,High School,Instagram,Mobile,5.2,7.3,8.7,6.3,1.83,Yes
+STU_1725,22,Female,Graduate,Instagram,Mobile,5.9,5.1,6.0,8.0,2.63,No
+STU_1726,17,Male,High School,TikTok,Mobile,3.5,6.0,5.3,6.5,2.89,No
+STU_1727,17,Female,High School,Instagram,Laptop,3.5,8.2,3.6,9.1,2.6,No
+STU_1728,24,Male,Graduate,Facebook,Laptop,2.7,8.3,2.5,7.6,3.1,No
+STU_1729,20,Male,Undergraduate,Instagram,Mobile,2.3,8.0,3.1,7.2,3.04,No
+STU_1730,17,Male,High School,YouTube,Mobile,3.1,6.7,2.5,6.1,3.1,No
+STU_1731,24,Female,Graduate,Facebook,Mobile,5.8,6.1,6.5,7.8,2.69,No
+STU_1732,24,Female,Graduate,TikTok,Mobile,3.7,7.3,6.1,5.4,2.65,Yes
+STU_1733,16,Female,High School,WhatsApp,Laptop,6.5,5.1,4.9,7.0,2.76,No
+STU_1734,18,Male,High School,TikTok,Mobile,5.6,6.2,4.2,6.6,3.18,No
+STU_1735,19,Female,Undergraduate,Twitter,Mobile,1.6,8.9,1.1,10.0,4.0,Yes
+STU_1736,22,Male,Graduate,Instagram,Mobile,6.8,7.4,9.7,3.8,2.55,No
+STU_1737,19,Female,Undergraduate,Snapchat,Laptop,7.1,5.8,6.5,4.8,2.06,Yes
+STU_1738,17,Male,High School,TikTok,Laptop,3.5,8.2,5.9,6.9,2.91,No
+STU_1739,22,Male,Graduate,TikTok,Mobile,6.3,4.9,8.5,3.5,2.21,Yes
+STU_1740,21,Male,Undergraduate,Snapchat,Laptop,3.8,8.0,4.2,6.6,3.08,No
+STU_1741,18,Male,High School,Snapchat,Mobile,5.7,6.1,4.7,5.1,2.83,No
+STU_1742,21,Female,Undergraduate,Instagram,Mobile,3.0,8.1,1.4,7.7,3.58,Yes
+STU_1743,21,Male,Undergraduate,Instagram,Mobile,1.9,8.0,3.7,7.9,3.18,No
+STU_1744,20,Male,Undergraduate,Snapchat,Mobile,4.7,8.2,4.0,5.7,2.91,No
+STU_1745,19,Female,Undergraduate,Snapchat,Mobile,5.3,6.2,5.4,5.3,2.56,No
+STU_1746,16,Male,High School,Twitter,Laptop,4.7,7.6,2.7,8.4,3.18,Yes
+STU_1747,21,Female,Undergraduate,YouTube,Mobile,3.1,7.5,2.7,7.8,3.38,No
+STU_1748,17,Female,High School,Twitter,Mobile,4.7,7.0,4.0,9.6,3.26,No
+STU_1749,18,Female,High School,Snapchat,Mobile,6.0,6.4,6.1,8.2,2.96,Yes
+STU_1750,23,Male,Graduate,Instagram,Mobile,5.4,6.2,4.7,6.3,2.8,No
+STU_1751,21,Female,Undergraduate,Instagram,Laptop,5.9,6.6,7.4,6.1,2.56,Yes
+STU_1752,18,Female,High School,YouTube,Mobile,4.2,7.3,3.2,8.8,3.51,Yes
+STU_1753,22,Male,Graduate,Snapchat,Mobile,7.8,6.1,5.6,6.0,3.14,Yes
+STU_1754,19,Male,Undergraduate,Instagram,Laptop,3.1,7.8,3.9,6.2,3.08,No
+STU_1755,24,Female,Graduate,TikTok,Mobile,6.5,7.0,7.2,5.7,2.44,Yes
+STU_1756,20,Female,Undergraduate,Twitter,Mobile,7.9,6.6,6.7,5.8,2.66,Yes
+STU_1757,18,Female,High School,TikTok,Mobile,6.5,5.6,8.5,4.4,1.92,Yes
+STU_1758,17,Female,High School,TikTok,Mobile,5.1,7.7,5.8,6.9,2.69,No
+STU_1759,17,Female,High School,TikTok,Tablet,4.4,6.3,5.4,6.0,3.05,Yes
+STU_1760,18,Male,High School,Instagram,Laptop,7.6,6.4,6.5,5.0,2.83,No
+STU_1761,17,Male,High School,TikTok,Mobile,2.7,8.4,4.9,7.1,2.83,No
+STU_1762,19,Male,Undergraduate,TikTok,Laptop,3.6,6.0,5.0,7.4,2.96,Yes
+STU_1763,17,Female,High School,Instagram,Mobile,4.7,7.2,4.8,5.9,2.68,Yes
+STU_1764,24,Male,Graduate,YouTube,Mobile,8.0,5.4,5.0,7.9,3.12,No
+STU_1765,17,Female,High School,TikTok,Mobile,6.3,5.9,8.5,3.2,2.26,Yes
+STU_1766,24,Female,Graduate,Facebook,Mobile,3.6,8.7,1.6,8.4,3.42,No
+STU_1767,21,Female,Undergraduate,Facebook,Mobile,4.9,6.5,3.3,7.8,3.1,Yes
+STU_1768,16,Male,High School,Instagram,Mobile,4.3,6.6,5.3,6.2,2.83,No
+STU_1769,19,Female,Undergraduate,Snapchat,Laptop,4.1,7.4,3.1,7.6,3.11,No
+STU_1770,16,Male,High School,TikTok,Mobile,7.5,6.6,6.5,8.0,2.83,Yes
+STU_1771,21,Female,Undergraduate,Facebook,Mobile,2.8,7.8,1.0,8.5,3.5,No
+STU_1772,19,Male,Undergraduate,Instagram,Mobile,8.7,6.4,9.2,6.9,2.62,Yes
+STU_1773,18,Male,High School,Snapchat,Mobile,7.2,6.6,6.2,6.7,3.13,Yes
+STU_1774,18,Female,High School,Snapchat,Mobile,7.7,4.2,10.0,4.1,1.73,Yes
+STU_1775,24,Male,Graduate,Instagram,Mobile,4.6,6.7,4.2,8.0,3.07,No
+STU_1776,21,Male,Undergraduate,Instagram,Laptop,5.2,6.5,4.7,9.7,2.75,No
+STU_1777,24,Female,Graduate,Snapchat,Mobile,2.6,8.3,2.5,7.5,3.24,No
+STU_1778,20,Female,Undergraduate,YouTube,Mobile,4.5,5.1,4.3,6.3,3.63,No
+STU_1779,17,Female,High School,Instagram,Mobile,6.5,8.4,6.2,5.5,2.59,No
+STU_1780,23,Female,Graduate,Snapchat,Mobile,8.1,6.2,8.1,5.2,2.45,Yes
+STU_1781,20,Female,Undergraduate,TikTok,Mobile,3.3,7.8,3.6,6.1,3.31,No
+STU_1782,17,Male,High School,Snapchat,Mobile,4.8,8.0,3.4,8.0,2.88,No
+STU_1783,19,Male,Undergraduate,Instagram,Mobile,5.2,8.8,3.9,9.4,2.85,No
+STU_1784,24,Male,Graduate,Facebook,Mobile,2.7,8.6,1.0,9.6,3.26,No
+STU_1785,19,Female,Undergraduate,Instagram,Mobile,6.7,7.1,6.3,5.9,2.4,Yes
+STU_1786,19,Female,Undergraduate,TikTok,Mobile,4.1,7.5,4.9,6.4,2.06,No
+STU_1787,17,Male,High School,Instagram,Mobile,5.1,6.8,5.0,7.9,3.07,No
+STU_1788,21,Male,Undergraduate,Instagram,Laptop,4.6,6.8,6.4,5.3,3.26,Yes
+STU_1789,17,Female,High School,TikTok,Mobile,3.9,6.8,6.4,8.0,2.7,No
+STU_1790,22,Male,Graduate,Instagram,Laptop,5.5,6.3,5.6,8.6,2.38,Yes
+STU_1791,18,Female,High School,Facebook,Mobile,5.1,5.9,2.3,8.9,3.2,Yes
+STU_1792,18,Male,High School,Instagram,Laptop,4.8,7.0,4.7,7.1,2.81,No
+STU_1793,20,Female,Undergraduate,TikTok,Mobile,4.0,6.0,4.6,8.2,2.66,No
+STU_1794,18,Male,High School,Instagram,Mobile,6.1,6.7,5.8,7.6,3.02,No
+STU_1795,17,Female,High School,Instagram,Mobile,8.8,5.4,7.8,4.5,2.63,Yes
+STU_1796,24,Female,Graduate,Instagram,Laptop,5.8,6.8,5.5,6.2,2.47,No
+STU_1797,17,Female,High School,TikTok,Mobile,7.5,5.6,7.6,4.1,2.65,Yes
+STU_1798,17,Female,High School,TikTok,Mobile,2.7,10.0,3.5,8.3,3.62,No
+STU_1799,23,Female,Graduate,TikTok,Mobile,5.8,7.8,6.9,6.6,3.14,Yes
+STU_1800,24,Female,Graduate,TikTok,Laptop,3.3,6.7,5.0,5.6,3.76,No
+STU_1801,22,Male,Graduate,TikTok,Mobile,2.5,8.2,3.1,7.7,2.97,No
+STU_1802,18,Female,High School,Instagram,Laptop,4.0,6.9,6.0,5.1,3.57,No
+STU_1803,24,Female,Graduate,TikTok,Mobile,7.9,5.0,7.3,4.7,2.37,Yes
+STU_1804,18,Male,High School,Twitter,Mobile,7.4,5.0,4.5,7.8,2.81,No
+STU_1805,20,Female,Undergraduate,TikTok,Mobile,6.0,7.0,7.2,5.0,2.61,Yes
+STU_1806,24,Female,Graduate,Snapchat,Tablet,2.4,7.5,2.1,8.4,3.24,No
+STU_1807,18,Female,High School,Instagram,Mobile,5.1,7.7,5.9,4.8,2.86,No
+STU_1808,22,Male,Graduate,YouTube,Laptop,6.1,7.4,3.0,8.4,2.87,No
+STU_1809,16,Male,High School,YouTube,Mobile,5.9,7.8,6.6,6.0,2.55,Yes
+STU_1810,19,Female,Undergraduate,TikTok,Mobile,1.8,7.6,4.1,6.8,3.44,No
+STU_1811,19,Female,Undergraduate,Twitter,Mobile,3.7,7.9,1.7,8.8,3.48,No
+STU_1812,22,Male,Graduate,Instagram,Mobile,5.4,7.4,4.3,7.6,3.07,No
+STU_1813,23,Female,Graduate,Instagram,Laptop,6.6,6.0,8.4,4.1,2.43,Yes
+STU_1814,16,Female,High School,YouTube,Laptop,1.1,7.9,1.0,7.9,3.97,No
+STU_1815,20,Male,Undergraduate,YouTube,Laptop,5.2,8.2,3.8,9.5,2.62,No
+STU_1816,22,Female,Graduate,Instagram,Mobile,5.8,6.9,3.9,7.0,3.28,No
+STU_1817,19,Male,Undergraduate,Instagram,Mobile,7.2,6.6,6.9,5.8,2.48,Yes
+STU_1818,19,Male,Undergraduate,Instagram,Mobile,6.9,5.6,6.8,6.9,2.63,Yes
+STU_1819,19,Male,Undergraduate,Instagram,Tablet,6.7,5.4,7.5,9.0,2.76,Yes
+STU_1820,21,Female,Undergraduate,YouTube,Mobile,3.9,7.0,2.2,7.4,3.04,No
+STU_1821,22,Male,Graduate,TikTok,Mobile,1.7,8.2,1.8,9.4,3.17,Yes
+STU_1822,17,Male,High School,Instagram,Mobile,4.7,6.3,5.7,5.9,2.19,No
+STU_1823,20,Male,Undergraduate,TikTok,Mobile,7.5,6.0,9.0,4.1,2.01,Yes
+STU_1824,19,Female,Undergraduate,Instagram,Tablet,8.3,4.3,6.6,5.3,3.02,Yes
+STU_1825,18,Female,High School,Instagram,Mobile,6.9,5.3,8.1,4.0,2.3,No
+STU_1826,22,Male,Graduate,Snapchat,Mobile,6.4,7.0,6.1,6.3,2.3,No
+STU_1827,21,Male,Undergraduate,Twitter,Mobile,6.3,7.0,6.3,4.7,2.52,Yes
+STU_1828,22,Female,Graduate,Facebook,Mobile,4.4,6.9,3.4,8.9,2.73,No
+STU_1829,20,Male,Undergraduate,Instagram,Mobile,5.2,6.1,3.2,8.2,2.89,No
+STU_1830,21,Male,Undergraduate,Facebook,Mobile,8.8,4.6,6.9,6.3,2.67,Yes
+STU_1831,20,Male,Undergraduate,YouTube,Laptop,3.6,7.3,4.5,6.9,2.65,No
+STU_1832,22,Male,Graduate,YouTube,Laptop,8.7,6.0,6.6,5.7,2.95,Yes
+STU_1833,17,Male,High School,TikTok,Mobile,4.9,7.8,5.5,7.0,2.79,No
+STU_1834,20,Male,Undergraduate,TikTok,Mobile,8.2,5.3,8.3,3.8,2.32,No
+STU_1835,21,Male,Undergraduate,Instagram,Laptop,2.7,7.0,1.0,9.0,3.54,No
+STU_1836,21,Female,Undergraduate,Instagram,Mobile,6.7,6.5,8.5,4.0,2.5,Yes
+STU_1837,20,Male,Undergraduate,Instagram,Mobile,4.0,6.7,3.8,6.8,3.35,No
+STU_1838,22,Female,Graduate,Instagram,Mobile,2.7,7.5,4.1,5.4,3.16,No
+STU_1839,23,Female,Graduate,TikTok,Mobile,5.9,7.7,6.7,7.3,2.77,Yes
+STU_1840,22,Male,Graduate,YouTube,Mobile,7.5,6.7,7.8,4.6,2.34,Yes
+STU_1841,20,Female,Undergraduate,TikTok,Tablet,3.8,7.6,5.5,7.9,2.98,No
+STU_1842,16,Male,High School,Instagram,Mobile,2.5,7.0,3.3,9.1,3.11,No
+STU_1843,20,Female,Undergraduate,Twitter,Mobile,5.3,7.0,3.6,6.6,3.16,No
+STU_1844,17,Male,High School,WhatsApp,Mobile,5.3,7.7,4.6,6.2,2.9,Yes
+STU_1845,20,Male,Undergraduate,YouTube,Mobile,6.6,6.1,3.9,10.0,2.96,No
+STU_1846,20,Male,Undergraduate,LinkedIn,Mobile,7.4,7.1,5.1,8.7,2.68,No
+STU_1847,17,Female,High School,TikTok,Laptop,5.4,7.9,5.2,6.8,3.0,No
+STU_1848,20,Male,Undergraduate,Twitter,Laptop,9.2,6.6,8.8,5.0,2.61,Yes
+STU_1849,19,Female,Undergraduate,Instagram,Mobile,5.9,6.9,6.4,5.5,3.0,Yes
+STU_1850,16,Male,High School,TikTok,Laptop,4.8,7.5,6.5,6.5,2.25,Yes
+STU_1851,18,Female,High School,Instagram,Laptop,2.3,9.2,3.4,7.2,3.57,No
+STU_1852,16,Male,High School,Instagram,Laptop,5.0,7.4,3.7,5.7,3.03,No
+STU_1853,20,Female,Undergraduate,Instagram,Mobile,4.8,6.7,4.5,6.0,3.17,No
+STU_1854,19,Male,Undergraduate,Snapchat,Mobile,7.4,5.7,7.6,5.5,2.16,Yes
+STU_1855,22,Male,Graduate,YouTube,Mobile,6.4,6.6,5.8,5.4,2.8,No
+STU_1856,20,Male,Undergraduate,TikTok,Mobile,3.1,6.7,5.7,6.5,2.87,Yes
+STU_1857,19,Male,Undergraduate,Instagram,Mobile,5.8,6.5,6.6,5.0,2.17,Yes
+STU_1858,17,Female,High School,YouTube,Mobile,6.8,7.1,5.0,6.2,3.08,No
+STU_1859,19,Male,Undergraduate,Snapchat,Laptop,8.6,3.8,7.0,6.6,2.93,Yes
+STU_1860,17,Female,High School,TikTok,Laptop,7.3,7.3,7.9,5.5,2.32,Yes
+STU_1861,23,Male,Graduate,Snapchat,Laptop,7.0,7.1,4.3,7.4,3.43,No
+STU_1862,18,Female,High School,Instagram,Mobile,5.6,6.4,7.7,6.3,2.36,No
+STU_1863,24,Male,Graduate,Instagram,Mobile,6.3,6.9,7.0,6.3,2.8,Yes
+STU_1864,19,Male,Undergraduate,WhatsApp,Mobile,8.0,5.8,7.1,7.2,1.85,Yes
+STU_1865,21,Female,Undergraduate,Instagram,Mobile,2.8,8.9,2.2,8.2,4.0,No
+STU_1866,20,Male,Undergraduate,TikTok,Mobile,4.8,7.9,7.1,5.3,2.97,Yes
+STU_1867,16,Male,High School,Facebook,Mobile,4.0,6.3,5.4,5.5,2.74,Yes
+STU_1868,24,Female,Graduate,Snapchat,Mobile,6.3,7.0,4.7,6.8,2.36,Yes
+STU_1869,16,Female,High School,Instagram,Laptop,8.0,5.7,8.6,5.8,2.33,No
+STU_1870,23,Male,Graduate,Instagram,Mobile,4.3,7.3,4.9,8.3,2.48,No
+STU_1871,24,Male,Graduate,Instagram,Mobile,1.0,8.0,1.0,10.0,3.75,No
+STU_1872,24,Female,Graduate,Snapchat,Mobile,4.7,8.5,5.2,5.1,2.98,No
+STU_1873,16,Male,High School,TikTok,Mobile,7.3,6.9,8.7,5.9,1.95,No
+STU_1874,17,Male,High School,Instagram,Mobile,6.6,5.8,6.2,4.5,3.03,Yes
+STU_1875,16,Male,High School,Twitter,Mobile,6.4,5.4,6.5,7.0,2.88,Yes
+STU_1876,17,Female,High School,TikTok,Mobile,4.9,6.7,4.3,7.1,3.32,No
+STU_1877,23,Female,Graduate,Instagram,Mobile,2.9,8.2,2.4,9.3,3.38,No
+STU_1878,20,Male,Undergraduate,TikTok,Mobile,6.5,6.6,7.4,4.3,2.05,Yes
+STU_1879,22,Male,Graduate,Snapchat,Mobile,3.8,8.5,4.1,8.7,3.36,No
+STU_1880,17,Male,High School,Instagram,Mobile,9.9,5.7,8.7,3.3,2.16,Yes
+STU_1881,23,Female,Graduate,Instagram,Laptop,6.6,7.1,7.6,4.8,2.01,Yes
+STU_1882,21,Male,Undergraduate,YouTube,Mobile,4.3,7.5,4.5,6.3,3.4,Yes
+STU_1883,23,Male,Graduate,TikTok,Mobile,4.3,6.2,6.3,4.5,3.3,Yes
+STU_1884,16,Female,High School,TikTok,Mobile,5.3,6.7,6.1,6.4,2.68,Yes
+STU_1885,16,Male,High School,TikTok,Laptop,5.0,7.8,6.6,7.8,3.26,Yes
+STU_1886,22,Female,Graduate,Instagram,Laptop,7.7,5.9,7.2,8.3,2.52,Yes
+STU_1887,23,Male,Graduate,Instagram,Mobile,5.9,7.1,8.3,5.1,2.2,No
+STU_1888,18,Male,High School,TikTok,Mobile,4.0,7.1,4.4,8.5,2.82,No
+STU_1889,20,Male,Undergraduate,Instagram,Laptop,9.3,4.5,10.0,4.2,2.49,Yes
+STU_1890,16,Female,High School,Instagram,Mobile,5.6,6.7,6.0,6.9,2.48,Yes
+STU_1891,22,Female,Graduate,Facebook,Mobile,7.0,6.4,4.3,7.1,3.25,No
+STU_1892,20,Female,Undergraduate,LinkedIn,Mobile,4.3,6.8,3.3,8.2,3.04,No
+STU_1893,23,Male,Graduate,YouTube,Laptop,6.2,6.3,5.6,7.2,2.65,No
+STU_1894,23,Female,Graduate,Facebook,Laptop,6.1,5.8,5.7,6.0,3.07,No
+STU_1895,24,Male,Graduate,Instagram,Mobile,1.7,9.2,4.1,7.5,2.95,No
+STU_1896,22,Male,Graduate,Twitter,Mobile,9.5,5.0,8.2,5.0,2.21,Yes
+STU_1897,16,Female,High School,Instagram,Mobile,8.1,6.9,7.4,6.4,2.81,Yes
+STU_1898,18,Male,High School,Twitter,Mobile,4.7,8.3,4.9,6.0,3.39,No
+STU_1899,23,Male,Graduate,LinkedIn,Tablet,3.3,7.6,1.1,9.3,3.79,No
+STU_1900,18,Male,High School,Snapchat,Mobile,6.2,5.7,6.6,7.9,2.41,Yes
+STU_1901,23,Male,Graduate,LinkedIn,Mobile,5.7,5.1,1.0,10.0,3.47,No
+STU_1902,16,Male,High School,TikTok,Mobile,6.2,5.3,7.4,6.9,2.49,Yes
+STU_1903,20,Female,Undergraduate,Instagram,Mobile,5.9,5.5,5.6,6.7,2.89,No
+STU_1904,19,Male,Undergraduate,TikTok,Mobile,6.5,7.5,8.9,5.0,1.91,Yes
+STU_1905,20,Female,Undergraduate,TikTok,Mobile,8.4,5.7,9.3,5.4,2.34,Yes
+STU_1906,23,Female,Graduate,Instagram,Mobile,6.6,6.7,7.0,7.3,2.56,Yes
+STU_1907,19,Male,Undergraduate,Snapchat,Mobile,3.4,5.9,4.2,5.5,2.53,No
+STU_1908,19,Male,Undergraduate,LinkedIn,Mobile,8.2,4.8,4.1,6.2,2.79,No
+STU_1909,18,Male,High School,Instagram,Mobile,8.8,6.2,10.0,5.3,1.85,No
+STU_1910,22,Female,Graduate,YouTube,Mobile,11.8,4.5,10.0,3.7,1.98,Yes
+STU_1911,18,Male,High School,WhatsApp,Laptop,3.3,7.6,2.5,7.8,3.92,No
+STU_1912,18,Female,High School,WhatsApp,Laptop,6.0,7.1,5.9,5.2,2.81,No
+STU_1913,20,Male,Undergraduate,Twitter,Tablet,1.3,9.8,1.0,8.8,3.37,No
+STU_1914,20,Female,Undergraduate,TikTok,Mobile,6.6,6.2,6.5,4.7,2.7,Yes
+STU_1915,21,Male,Undergraduate,Twitter,Tablet,4.4,7.3,3.8,9.8,3.02,Yes
+STU_1916,23,Male,Graduate,YouTube,Mobile,9.3,5.4,8.4,4.9,2.38,Yes
+STU_1917,21,Female,Undergraduate,Instagram,Mobile,4.0,9.3,4.3,7.4,3.21,No
+STU_1918,16,Female,High School,TikTok,Mobile,2.1,6.5,4.2,8.0,3.4,Yes
+STU_1919,23,Male,Graduate,Snapchat,Mobile,4.6,7.7,5.0,8.0,2.9,Yes
+STU_1920,23,Female,Graduate,Instagram,Mobile,1.5,8.3,1.7,9.9,3.98,Yes
+STU_1921,24,Male,Graduate,Snapchat,Mobile,7.0,6.7,7.1,6.8,2.79,No
+STU_1922,24,Female,Graduate,Snapchat,Mobile,1.4,7.9,3.0,7.6,3.06,No
+STU_1923,17,Female,High School,Instagram,Mobile,5.6,6.7,6.1,6.0,3.36,Yes
+STU_1924,17,Male,High School,TikTok,Mobile,1.3,9.0,4.2,8.2,3.14,Yes
+STU_1925,18,Male,High School,YouTube,Mobile,4.9,9.5,3.2,7.6,2.98,No
+STU_1926,16,Male,High School,TikTok,Mobile,8.8,6.1,9.5,4.3,2.59,No
+STU_1927,19,Female,Undergraduate,Instagram,Laptop,6.2,5.8,5.3,7.2,3.47,No
+STU_1928,19,Female,Undergraduate,Instagram,Laptop,3.8,7.2,3.4,8.7,3.18,Yes
+STU_1929,24,Male,Graduate,TikTok,Mobile,5.4,6.5,5.7,4.8,2.62,Yes
+STU_1930,24,Male,Graduate,WhatsApp,Mobile,5.5,5.3,3.0,8.9,3.21,No
+STU_1931,24,Female,Graduate,Instagram,Mobile,6.4,6.2,6.1,6.1,2.91,Yes
+STU_1932,22,Female,Graduate,Snapchat,Laptop,2.8,8.5,3.0,8.9,3.64,No
+STU_1933,17,Female,High School,Instagram,Mobile,6.7,5.3,7.7,6.2,2.59,Yes
+STU_1934,20,Male,Undergraduate,Instagram,Mobile,1.0,9.4,2.0,10.0,3.47,No
+STU_1935,19,Male,Undergraduate,Facebook,Mobile,4.2,7.7,1.8,10.0,3.92,No
+STU_1936,23,Male,Graduate,YouTube,Mobile,4.5,6.6,5.3,8.2,2.76,No
+STU_1937,17,Female,High School,Instagram,Mobile,6.8,6.2,6.1,7.8,3.02,Yes
+STU_1938,21,Male,Undergraduate,TikTok,Laptop,5.5,8.1,6.4,6.5,2.57,Yes
+STU_1939,20,Female,Undergraduate,Instagram,Mobile,2.7,8.5,4.1,7.6,3.19,No
+STU_1940,17,Male,High School,TikTok,Mobile,3.5,7.6,5.0,7.9,2.86,No
+STU_1941,16,Female,High School,Snapchat,Laptop,5.9,6.5,6.8,6.6,2.56,Yes
+STU_1942,23,Female,Graduate,Instagram,Laptop,5.3,6.9,6.3,5.9,2.56,No
+STU_1943,17,Female,High School,Instagram,Mobile,4.3,6.9,4.1,7.9,3.46,No
+STU_1944,22,Male,Graduate,TikTok,Mobile,4.5,5.5,7.8,5.3,2.17,No
+STU_1945,24,Male,Graduate,WhatsApp,Mobile,6.9,7.9,5.2,6.0,2.64,No
+STU_1946,24,Male,Graduate,LinkedIn,Laptop,4.5,7.3,1.9,10.0,4.0,No
+STU_1947,23,Female,Graduate,Instagram,Mobile,5.3,7.2,6.7,6.0,2.88,Yes
+STU_1948,24,Female,Graduate,YouTube,Laptop,9.8,5.0,8.6,6.9,1.53,Yes
+STU_1949,17,Female,High School,TikTok,Mobile,2.7,7.4,4.5,5.7,2.82,No
+STU_1950,21,Female,Undergraduate,TikTok,Mobile,1.8,8.1,5.9,5.9,2.19,No
+STU_1951,19,Female,Undergraduate,YouTube,Mobile,7.1,4.9,5.9,6.5,2.46,Yes
+STU_1952,19,Male,Undergraduate,WhatsApp,Mobile,4.1,9.2,2.5,9.6,2.41,No
+STU_1953,20,Female,Undergraduate,Twitter,Mobile,4.9,6.1,4.2,7.9,3.0,No
+STU_1954,18,Male,High School,TikTok,Mobile,3.9,6.6,6.2,6.6,2.34,Yes
+STU_1955,16,Male,High School,TikTok,Mobile,5.0,6.7,4.5,6.2,3.01,No
+STU_1956,23,Male,Graduate,YouTube,Tablet,8.7,6.6,5.5,5.5,2.32,Yes
+STU_1957,20,Male,Undergraduate,Instagram,Mobile,7.1,6.2,6.6,6.4,2.64,No
+STU_1958,18,Male,High School,TikTok,Mobile,7.2,5.1,6.1,4.9,2.57,Yes
+STU_1959,22,Female,Graduate,TikTok,Mobile,2.7,8.9,3.7,7.2,3.58,No
+STU_1960,22,Male,Graduate,Snapchat,Mobile,3.2,8.3,4.1,8.1,3.49,No
+STU_1961,16,Female,High School,Instagram,Mobile,1.0,9.0,1.4,8.2,3.78,No
+STU_1962,24,Male,Graduate,Instagram,Mobile,3.9,8.0,3.2,9.7,3.13,No
+STU_1963,17,Male,High School,WhatsApp,Laptop,7.4,8.0,5.5,7.9,3.41,No
+STU_1964,20,Male,Undergraduate,Instagram,Mobile,6.5,8.1,7.6,3.9,1.97,Yes
+STU_1965,20,Male,Undergraduate,TikTok,Mobile,5.1,6.4,4.4,6.5,2.6,No
+STU_1966,23,Female,Graduate,Instagram,Mobile,5.5,8.1,6.7,3.7,2.57,Yes
+STU_1967,23,Male,Graduate,Instagram,Mobile,4.1,7.7,5.6,5.8,3.47,No
+STU_1968,22,Female,Graduate,Instagram,Mobile,5.9,7.0,7.2,6.5,2.45,No
+STU_1969,22,Male,Graduate,Instagram,Laptop,7.0,4.8,8.3,4.6,2.24,Yes
+STU_1970,21,Female,Undergraduate,Facebook,Laptop,2.3,8.0,4.0,8.1,2.64,No
+STU_1971,21,Female,Undergraduate,Instagram,Mobile,6.1,5.9,6.0,4.9,3.0,No
+STU_1972,24,Female,Graduate,Twitter,Mobile,7.4,6.7,6.2,7.1,2.97,Yes
+STU_1973,21,Male,Undergraduate,TikTok,Mobile,4.7,8.0,5.3,6.3,3.08,No
+STU_1974,17,Male,High School,TikTok,Mobile,6.9,4.6,7.5,5.5,2.26,Yes
+STU_1975,17,Male,High School,TikTok,Mobile,11.1,4.5,10.0,3.9,1.79,Yes
+STU_1976,20,Female,Undergraduate,TikTok,Mobile,5.3,7.8,4.9,5.8,2.53,Yes
+STU_1977,19,Male,Undergraduate,YouTube,Mobile,6.3,6.3,4.7,6.0,2.98,Yes
+STU_1978,17,Male,High School,Instagram,Mobile,4.0,8.0,6.1,7.3,2.38,Yes
+STU_1979,18,Female,High School,TikTok,Mobile,5.9,6.9,7.7,5.8,2.06,Yes
+STU_1980,22,Male,Graduate,Facebook,Mobile,6.4,6.7,4.8,8.2,2.81,No
+STU_1981,23,Female,Graduate,WhatsApp,Mobile,5.9,6.4,5.1,7.3,2.74,No
+STU_1982,21,Male,Undergraduate,Facebook,Mobile,3.5,6.6,3.1,8.3,3.08,No
+STU_1983,20,Male,Undergraduate,TikTok,Laptop,5.9,5.7,8.2,3.3,2.46,Yes
+STU_1984,16,Female,High School,YouTube,Mobile,8.4,6.2,7.3,5.3,2.51,Yes
+STU_1985,23,Male,Graduate,TikTok,Mobile,6.4,6.5,8.1,5.1,2.25,Yes
+STU_1986,18,Female,High School,TikTok,Mobile,7.4,5.9,10.0,6.0,2.05,No
+STU_1987,21,Male,Undergraduate,Instagram,Laptop,5.0,6.7,6.1,7.0,2.4,Yes
+STU_1988,18,Male,High School,TikTok,Mobile,7.0,6.0,7.6,6.9,2.45,Yes
+STU_1989,22,Female,Graduate,Instagram,Mobile,6.1,7.4,7.1,6.4,2.57,Yes
+STU_1990,22,Female,Graduate,Instagram,Mobile,3.6,7.3,4.0,6.9,2.63,Yes
+STU_1991,24,Female,Graduate,Facebook,Mobile,6.1,5.5,7.3,5.7,2.79,Yes
+STU_1992,20,Male,Undergraduate,Instagram,Tablet,3.5,8.2,4.5,7.5,2.73,Yes
+STU_1993,23,Female,Graduate,Instagram,Mobile,4.2,7.1,4.6,6.3,3.0,Yes
+STU_1994,23,Male,Graduate,Instagram,Laptop,5.9,6.7,5.4,6.4,3.18,Yes
+STU_1995,16,Male,High School,WhatsApp,Laptop,6.1,7.8,5.5,6.5,3.09,No
+STU_1996,20,Female,Undergraduate,TikTok,Laptop,3.1,7.7,5.4,8.4,2.84,No
+STU_1997,18,Male,High School,TikTok,Mobile,7.6,6.2,7.6,3.4,2.33,Yes
+STU_1998,16,Female,High School,YouTube,Mobile,6.6,5.4,6.4,7.4,2.93,Yes
+STU_1999,19,Male,Undergraduate,Facebook,Mobile,4.1,7.2,1.8,8.0,3.68,Yes
